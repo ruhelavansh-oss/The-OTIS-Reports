@@ -29,7 +29,7 @@ website:
     style: "docked"
     contents:
       - href: DATA_DICTIONARY.html
-        text: Datasets
+        text: Background
       - section: "Segregation (B01-09)"
         contents:
           - text: "B01 Seg. Detailed Dataset"
