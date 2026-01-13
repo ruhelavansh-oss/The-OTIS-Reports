@@ -26,7 +26,6 @@ website:
   reader-mode: true
   sidebar:
     style: "docked"
-    search: true
     contents:
       - section: "Segregation (B01-09)"
         contents:
