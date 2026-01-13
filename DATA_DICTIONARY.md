@@ -1,6 +1,6 @@
-# Data Dictionary: Data on Inmates in Ontario
+# Data on Inmates
 
-## Dataset Details
+## Information on Datasets
 
 ### 1. Segregation – Detailed Dataset 
 
