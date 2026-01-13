@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Offender Tracking Information System Datasets Statistical Report",
     "section": "",
-    "text": "Author: Vansh Singh Ruhela Project Name: OTIS_Report_Stats1a\nDate Created: 2026-01-12\nThis website serves as a central hub for the statistical analysis of correctional system data related to the OTIS report, datasets that were originally maintained by the Ministry of the Solicitor General. You can navigate through the different sections using the menu above:\nThe project contains various datasets related to segregation, restrictive confinement, and deaths in custody. For each dataset, a dedicated R analysis script has been prepared to facilitate your statistical analysis in the Positron IDE."
+    "text": "Project Name: OTIS_Report_Stats1a\nDate Created: 2026-01-12\nThis website serves as a central hub for the statistical analysis of correctional system data related to the OTIS report, datasets that were originally maintained by the Ministry of the Solicitor General. You can navigate through the different sections using the menu above:\nThe project contains various datasets related to segregation, restrictive confinement, and deaths in custody. For each dataset, a dedicated R analysis script has been prepared to facilitate your statistical analysis in the Positron IDE."
   },
   {
     "objectID": "index.html#getting-started-with-the-project",
@@ -70,6 +70,318 @@
       "Home",
       "Segregation (B01-09)",
       "B02 Seg. Total Days Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_b04.html",
+    "href": "scripts/analysis_b04.html",
+    "title": "B04 Segregation Placements - Maximum, Median and Mode Consecutive Durations by Region Analysis",
+    "section": "",
+    "text": "Analysis for B04 Segregation Placements - Maximum, Median and Mode Consecutive Durations by Region\nThis document presents the analysis for the b04_segregation_placements_consecutive_durations_by_region.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nb04df &lt;- read_csv(here(\"data\", \"b04_segregation_placements_consecutive_durations_by_region.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(b04df))\nprint(summary(b04df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "Segregation (B01-09)",
+      "B04 Seg. Placements Max/Med/Mode Cons. Durations by Region Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_d03.html",
+    "href": "scripts/analysis_d03.html",
+    "title": "D03 Deaths in Custody - Race Analysis",
+    "section": "",
+    "text": "Analysis for D03 Deaths in Custody - Race\nThis document presents the analysis for the d03_deaths_in_custody_race.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nd03df &lt;- read_csv(here(\"data\", \"d03_deaths_in_custody_race.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(d03df))\nprint(summary(d03df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "Deaths (D01-07)",
+      "D03 Deaths in Custody - Race Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_b07.html",
+    "href": "scripts/analysis_b07.html",
+    "title": "B07 Segregation Placements - Alerts and Hold Flags by Gender Analysis",
+    "section": "",
+    "text": "Analysis for B07 Segregation Placements - Alerts and Hold Flags by Gender\nThis document presents the analysis for the b07_segregation_placements_alerts_and_hold_flags_by_gender.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nb07df &lt;- read_csv(here(\"data\", \"b07_segregation_placements_alerts_and_hold_flags_by_gender.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(b07df))\nprint(summary(b07df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "Segregation (B01-09)",
+      "B07 Seg. Placements Alerts by Gender Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_b06.html",
+    "href": "scripts/analysis_b06.html",
+    "title": "B06 Segregation Placements - Reason for Placement by Institution Analysis",
+    "section": "",
+    "text": "Analysis for B06 Segregation Placements - Reason for Placement by Institution\nThis document presents the analysis for the b06_segregation_placements_reason_for_placement_by_institution.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nb06df &lt;- read_csv(here(\"data\", \"b06_segregation_placements_reason_for_placement_by_institution.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(b06df))\nprint(summary(b06df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "Segregation (B01-09)",
+      "B06 Seg. Placements Reason by Inst. Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_d05.html",
+    "href": "scripts/analysis_d05.html",
+    "title": "D05 Deaths in Custody - Age Category Analysis",
+    "section": "",
+    "text": "Analysis for D05 Deaths in Custody - Age Category\nThis document presents the analysis for the d05_deaths_in_custody_age_category.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nd05df &lt;- read_csv(here(\"data\", \"d05_deaths_in_custody_age_category.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(d05df))\nprint(summary(d05df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "Deaths (D01-07)",
+      "D05 Deaths in Custody - Age Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_d07.html",
+    "href": "scripts/analysis_d07.html",
+    "title": "D07 Deaths in Custody - Alerts and Housing Unit Type Analysis",
+    "section": "",
+    "text": "Analysis for D07 Deaths in Custody - Alerts and Housing Unit Type\nThis document presents the analysis for the d07_deaths_in_custody_alerts_by_housing_unit.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nd07df &lt;- read_csv(here(\"data\", \"d07_deaths_in_custody_alerts_by_housing_unit.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(d07df))\nprint(summary(d07df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "Deaths (D01-07)",
+      "D07 Deaths in Custody - Alerts/Housing Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_c07.html",
+    "href": "scripts/analysis_c07.html",
+    "title": "C07 Individuals in Segregation and Restrictive Confinement - Alerts and Hold Flags Analysis",
+    "section": "",
+    "text": "Analysis for C07 Individuals in Segregation and Restrictive Confinement - Alerts and Hold Flags\nThis document presents the analysis for the c07_individuals_in_segregation_and_restrictive_confinement_alerts_and_hold_flags.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nc07df &lt;- read_csv(here(\"data\", \"c07_individuals_in_segregation_and_restrictive_confinement_alerts_and_hold_flags.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(c07df))\nprint(summary(c07df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "S/RC (C01-12)",
+      "C07 Ind. in Seg./Rest.Conf. - Alerts Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_c12.html",
+    "href": "scripts/analysis_c12.html",
+    "title": "C12 Segregation and Restrictive Confinement - Maximum, Median and Mode Aggregate Durations by Region Analysis",
+    "section": "",
+    "text": "Analysis for C12 Segregation and Restrictive Confinement - Maximum, Median and Mode Aggregate Durations by Region\nThis document presents the analysis for the c12_segregation_and_restrictive_confinement_aggregate_durations_by_region.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nc12df &lt;- read_csv(here(\"data\", \"c12_segregation_and_restrictive_confinement_aggregate_durations_by_region.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(c12df))\nprint(summary(c12df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "S/RC (C01-12)",
+      "C12 Seg./Rest.Conf. Max/Med/Mode Agg. Dur. by Region Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_c10.html",
+    "href": "scripts/analysis_c10.html",
+    "title": "C10 Segregation and Restrictive Confinement - Maximum, Median and Mode Aggregate Durations by Institution Analysis",
+    "section": "",
+    "text": "Analysis for C10 Segregation and Restrictive Confinement - Maximum, Median and Mode Aggregate Durations by Institution\nThis document presents the analysis for the c10_segregation_and_restrictive_confinement_aggregate_durations_by_institution.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nc10df &lt;- read_csv(here(\"data\", \"c10_segregation_and_restrictive_confinement_aggregate_durations_by_institution.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(c10df))\nprint(summary(c10df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "S/RC (C01-12)",
+      "C10 Seg./Rest.Conf. Max/Med/Mode Agg. Dur. by Inst. Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_c05.html",
+    "href": "scripts/analysis_c05.html",
+    "title": "C05 Individuals in Segregation and Restrictive Confinement by Religion and Region Analysis",
+    "section": "",
+    "text": "Analysis for C05 Individuals in Segregation and Restrictive Confinement by Religion and Region\nThis document presents the analysis for the c05_individuals_in_segregation_and_restrictive_confinement_religion_by_region.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nc05df &lt;- read_csv(here(\"data\", \"c05_individuals_in_segregation_and_restrictive_confinement_religion_by_region.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(c05df))\nprint(summary(c05df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "S/RC (C01-12)",
+      "C05 Ind. in Seg./Rest.Conf. by Relig./Region Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_c02.html",
+    "href": "scripts/analysis_c02.html",
+    "title": "C02 Individuals in Segregation and Restrictive Confinement by Institution Analysis",
+    "section": "",
+    "text": "Analysis for C02 Individuals in Segregation and Restrictive Confinement by Institution\nThis document presents the analysis for the c02_individuals_in_segregation_and_restrictive_confinement_by_institution.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nc02df &lt;- read_csv(here(\"data\", \"c02_individuals_in_segregation_and_restrictive_confinement_by_institution.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(c02df))\nprint(summary(c02df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "S/RC (C01-12)",
+      "C02 Ind. in Seg./Rest.Conf. by Inst. Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_c08.html",
+    "href": "scripts/analysis_c08.html",
+    "title": "C08 Individuals in Segregation and Restrictive Confinement by Religion and Gender Analysis",
+    "section": "",
+    "text": "Analysis for C08 Individuals in Segregation and Restrictive Confinement by Religion and Gender\nThis document presents the analysis for the c08_individuals_in_segregation_and_restrictive_confinement_religion_by_gender.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nc08df &lt;- read_csv(here(\"data\", \"c08_individuals_in_segregation_and_restrictive_confinement_religion_by_gender.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(c08df))\nprint(summary(c08df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "S/RC (C01-12)",
+      "C08 Ind. in Seg./Rest.Conf. by Relig./Gender Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_b08.html",
+    "href": "scripts/analysis_b08.html",
+    "title": "B08 Segregation Placements – Median and Mode Consecutive Durations by Institution Analysis",
+    "section": "",
+    "text": "Analysis for B08 Segregation Placements – Median and Mode Consecutive Durations by Institution\nThis document presents the analysis for the b08_segregation_placements_consecutive_durations_by_institution.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nb08df &lt;- read_csv(here(\"data\", \"b08_segregation_placements_consecutive_durations_by_institution.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(b08df))\nprint(summary(b08df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "Segregation (B01-09)",
+      "B08 Seg. Placements Median/Mode Cons. Durations by Inst. Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_b09.html",
+    "href": "scripts/analysis_b09.html",
+    "title": "B09 Individuals in Segregation - Number of Placements in Segregation Analysis",
+    "section": "",
+    "text": "Analysis for B09 Individuals in Segregation - Number of Placements in Segregation\nThis document presents the analysis for the b09_individuals_in_segregation_number_of_times_in_segregation.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nb09df &lt;- read_csv(here(\"data\", \"b09_individuals_in_segregation_number_of_times_in_segregation.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(b09df))\nprint(summary(b09df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "Segregation (B01-09)",
+      "B09 Ind. in Seg. - Num. Placements Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_c09.html",
+    "href": "scripts/analysis_c09.html",
+    "title": "C09 Individuals in Segregation and Restrictive Confinement by Age Category and Gender Analysis",
+    "section": "",
+    "text": "Analysis for C09 Individuals in Segregation and Restrictive Confinement by Age Category and Gender\nThis document presents the analysis for the c09_individuals_in_segregation_and_restrictive_confinement_age_category_by_gender.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nc09df &lt;- read_csv(here(\"data\", \"c09_individuals_in_segregation_and_restrictive_confinement_age_category_by_gender.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(c09df))\nprint(summary(c09df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "S/RC (C01-12)",
+      "C09 Ind. in Seg./Rest.Conf. by Age/Gender Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_c03.html",
+    "href": "scripts/analysis_c03.html",
+    "title": "C03 Individuals in Segregation and Restrictive Confinement by Race and Gender Analysis",
+    "section": "",
+    "text": "Analysis for C03 Individuals in Segregation and Restrictive Confinement by Race and Gender\nThis document presents the analysis for the c03_individuals_in_segregation_and_restrictive_confinement_race_by_gender.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nc03df &lt;- read_csv(here(\"data\", \"c03_individuals_in_segregation_and_restrictive_confinement_race_by_gender.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(c03df))\nprint(summary(c03df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "S/RC (C01-12)",
+      "C03 Ind. in Seg./Rest.Conf. by Race/Gender Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_c01.html",
+    "href": "scripts/analysis_c01.html",
+    "title": "C01 Individuals in Segregation and Restrictive Confinement - Total Individuals Analysis",
+    "section": "",
+    "text": "Analysis for C01 Individuals in Segregation and Restrictive Confinement - Total Individuals\nThis document presents the analysis for the c01_individuals_in_segregation_and_restrictive_confinement_total_individuals.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nc01df &lt;- read_csv(here(\"data\", \"c01_individuals_in_segregation_and_restrictive_confinement_total_individuals.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(c01df))\nprint(summary(c01df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "S/RC (C01-12)",
+      "C01 Ind. in Seg./Rest.Conf. - Total Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_c11.html",
+    "href": "scripts/analysis_c11.html",
+    "title": "C11 Individuals in Segregation and Restrictive Confinement by Aggregate Length of Time Analysis",
+    "section": "",
+    "text": "Analysis for C11 Individuals in Segregation and Restrictive Confinement by Aggregate Length of Time\nThis document presents the analysis for the c11_individuals_in_segregation_and_restrictive_confinement_aggregate_lengths.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nc11df &lt;- read_csv(here(\"data\", \"c11_individuals_in_segregation_and_restrictive_confinement_aggregate_lengths.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(c11df))\nprint(summary(c11df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "S/RC (C01-12)",
+      "C11 Ind. in Seg./Rest.Conf. by Agg. Length Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_c04.html",
+    "href": "scripts/analysis_c04.html",
+    "title": "C04 Individuals in Segregation and Restrictive Confinement by Race and Region Analysis",
+    "section": "",
+    "text": "Analysis for C04 Individuals in Segregation and Restrictive Confinement by Race and Region\nThis document presents the analysis for the c04_individuals_in_segregation_and_restrictive_confinement_race_by_region.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nc04df &lt;- read_csv(here(\"data\", \"c04_individuals_in_segregation_and_restrictive_confinement_race_by_region.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(c04df))\nprint(summary(c04df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "S/RC (C01-12)",
+      "C04 Ind. in Seg./Rest.Conf. by Race/Region Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_c06.html",
+    "href": "scripts/analysis_c06.html",
+    "title": "C06 Individuals in Segregation and Restrictive Confinement by Age Category and Region Analysis",
+    "section": "",
+    "text": "Analysis for C06 Individuals in Segregation and Restrictive Confinement by Age Category and Region\nThis document presents the analysis for the c06_individuals_in_segregation_and_restrictive_confinement_age_category_by_region.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nc06df &lt;- read_csv(here(\"data\", \"c06_individuals_in_segregation_and_restrictive_confinement_age_category_by_region.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(c06df))\nprint(summary(c06df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "S/RC (C01-12)",
+      "C06 Ind. in Seg./Rest.Conf. by Age/Region Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_d06.html",
+    "href": "scripts/analysis_d06.html",
+    "title": "D06 Deaths in Custody - Alerts and Medical Cause of Death Analysis",
+    "section": "",
+    "text": "Analysis for D06 Deaths in Custody - Alerts and Medical Cause of Death\nThis document presents the analysis for the d06_deaths_in_custody_cause_of_death_by_alert_by_institution.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nd06df &lt;- read_csv(here(\"data\", \"d06_deaths_in_custody_cause_of_death_by_alert_by_institution.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(d06df))\nprint(summary(d06df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "Deaths (D01-07)",
+      "D06 Deaths in Custody - Alerts/Cause Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_b03.html",
+    "href": "scripts/analysis_b03.html",
+    "title": "B03 Segregation Placements - Alerts and Hold Flags by Institution Analysis",
+    "section": "",
+    "text": "Analysis for B03 Segregation Placements - Alerts and Hold Flags by Institution\nThis document presents the analysis for the b03_segregation_placements_alerts_and_hold_flags_by_institution.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nb03df &lt;- read_csv(here(\"data\", \"b03_segregation_placements_alerts_and_hold_flags_by_institution.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(b03df))\nprint(summary(b03df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "Segregation (B01-09)",
+      "B03 Seg. Placements Alerts and Hold Flags by Inst. Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_d04.html",
+    "href": "scripts/analysis_d04.html",
+    "title": "D04 Deaths in Custody - Religion Analysis",
+    "section": "",
+    "text": "Analysis for D04 Deaths in Custody - Religion\nThis document presents the analysis for the d04_deaths_in_custody_religion.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nd04df &lt;- read_csv(here(\"data\", \"d04_deaths_in_custody_religion.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(d04df))\nprint(summary(d04df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "Deaths (D01-07)",
+      "D04 Deaths in Custody - Religion Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_d01.html",
+    "href": "scripts/analysis_d01.html",
+    "title": "D01 Deaths in Custody – Detailed Dataset Analysis",
+    "section": "",
+    "text": "Analysis for D01 Deaths in Custody – Detailed Dataset\nThis document presents the analysis for the d01_deaths_in_custody_detailed_dataset.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nd01df &lt;- read_csv(here(\"data\", \"d01_deaths_in_custody_detailed_dataset.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(d01df))\nprint(summary(d01df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "Deaths (D01-07)",
+      "D01 Deaths in Custody - Detailed Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_b05.html",
+    "href": "scripts/analysis_b05.html",
+    "title": "B05 Segregation Placements - Distribution of Placements by Duration Analysis",
+    "section": "",
+    "text": "Analysis for B05 Segregation Placements - Distribution of Placements by Duration\nThis document presents the analysis for the b05_segregation_placements_consecutive_lengths.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nb05df &lt;- read_csv(here(\"data\", \"b05_segregation_placements_consecutive_lengths.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(b05df))\nprint(summary(b05df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "Segregation (B01-09)",
+      "B05 Seg. Placements Dist. by Duration Analysis"
+    ]
+  },
+  {
+    "objectID": "scripts/analysis_d02.html",
+    "href": "scripts/analysis_d02.html",
+    "title": "D02 Deaths in Custody - Gender Analysis",
+    "section": "",
+    "text": "Analysis for D02 Deaths in Custody - Gender\nThis document presents the analysis for the d02_deaths_in_custody_gender.csv dataset.\n# --- 1. SETUP ---\n# Load necessary libraries\n# install.packages(\"tidyverse\")\n# install.packages(\"here\")\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(here)\n\n# --- 2. DATA LOADING ---\n# Load the dataset from the 'data' directory\nd02df &lt;- read_csv(here(\"data\", \"d02_deaths_in_custody_gender.csv\"))\n\n# --- 3. EXPLORATION ---\n# Get a first look at the data\nprint(head(d02df))\nprint(summary(d02df))\n\n# --- 4. ANALYSIS ---\n# Add your analysis code here",
+    "crumbs": [
+      "Home",
+      "Deaths (D01-07)",
+      "D02 Deaths in Custody - Gender Analysis"
     ]
   }
 ]

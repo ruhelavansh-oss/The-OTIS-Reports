@@ -1,7 +1,8 @@
 project:
   type: website
   output-dir: project # Output directory for the website
-
+  resources:
+    - Resume/RESUME.pdf
 author:
   - name: Vansh Singh Ruhela
     corresponding: true
@@ -158,7 +159,8 @@ website:
             href: scripts/analysis_d06.qmd
           - text: "D07 Deaths in Custody - Alerts/Housing Analysis"
             href: scripts/analysis_d07.qmd
-
+      - href: Resume/RESUME.pdf
+        text: Resume
 
 format:
   html:
