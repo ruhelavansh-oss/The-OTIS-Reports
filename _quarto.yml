@@ -48,7 +48,7 @@ website:
             href: scripts/analysis_b08.qmd
           - text: "B09 Ind. in Seg. - Num. Placements Analysis"
             href: scripts/analysis_b09.qmd
-      - section: "Segregation/Restrictive Confinement (C01-12)"
+      - section: "S/RC (C01-12)"
         contents:
           - text: "C01 Ind. in Seg./Rest.Conf. - Total Analysis"
             href: scripts/analysis_c01.qmd
