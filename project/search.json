@@ -2,14 +2,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Offender Tracking Information System Datasets Statistical Report",
+    "title": "Offender Tracking Information System Report",
     "section": "",
-    "text": "Project Name: OTIS_Report_Stats1a\nDate Created: 2026-01-12\nThis website serves as a central hub for the statistical analysis of correctional system data related to the OTIS report, datasets that were originally maintained by the Ministry of the Solicitor General. You can navigate through the different sections using the menu above:\nThe project contains various datasets related to segregation, restrictive confinement, and deaths in custody. For each dataset, a dedicated R analysis script has been prepared to facilitate your statistical analysis in the Positron IDE."
+    "text": "Date Created: 2026-01-12\nThis website serves as a central hub for the statistical analysis of correctional system data related to the OTIS report, datasets that were originally maintained by the Ministry of the Solicitor General. You can navigate through the different sections using the menu above:\nThe project contains various datasets related to segregation, restrictive confinement, and deaths in custody. For each dataset, a dedicated R analysis script has been prepared to facilitate your statistical analysis in the Positron IDE."
   },
   {
     "objectID": "index.html#getting-started-with-the-project",
     "href": "index.html#getting-started-with-the-project",
-    "title": "Offender Tracking Information System Datasets Statistical Report",
+    "title": "Offender Tracking Information System Report",
     "section": "Getting Started with the Project",
     "text": "Getting Started with the Project\nThe Ministry of the Solicitor General is committed to providing greater transparency by releasing data on all custodial-related deaths that occurred within the calendar year reporting period. The datasets in this category include info on gender, race, age, religion or spiritual affiliation, and alerts for mental health concerns and suicide risk. To begin the investigation(s):\n\nOpen the R Project: Navigate to the OTIS_Report_Stats1a directory and open the OTIS_Report_Stats1a.Rproj file in Positron or RStudio. This will set your working directory correctly.\nExplore Data: The data/ subdirectory contains all the raw CSV files.\nRun Analysis Scripts: The scripts/ subdirectory contains individual analysis_bXX.R, analysis_cXX.R, and analysis_dXX.R files. Each script loads a specific dataset and includes initial exploratory commands.\n\nI encourage you to explore the data, customize the analysis scripts, and contribute to the understanding of this important information."
   },

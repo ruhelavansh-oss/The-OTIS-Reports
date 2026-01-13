@@ -3,20 +3,20 @@ title: "Offender Tracking Information System Report"
 ---
 **Date Created:** 2026-01-12
 
-This website serves as a central hub for the statistical analysis of correctional system data related to the OTIS report, datasets that were originally maintained by the Ministry of the Solicitor General. You can navigate through the different sections using the menu above:
+This website serves as a central hub for the statistical analysis of correctional system data related to the OTIS report, datasets that were originally maintained by the Ministry of the Solicitor General. One can navigate through the different sections using the menu above:
 
 *   **Home**: Landing page.
 *   **Overview**: Access the main `readme.qmd` file, detailing the project's purpose and general structure.
 *   **Datasets**: Explore the comprehensive `DATA_DICTIONARY.md` file, providing in-depth information on all datasets and their variables.
 
-The project contains various datasets related to segregation, restrictive confinement, and deaths in custody. For each dataset, a dedicated R analysis script has been prepared to facilitate your statistical analysis in the Positron IDE.
+The project contains various datasets related to segregation, restrictive confinement, and deaths in custody. For each dataset, a dedicated R analysis script has been prepared to facilitate associated statistical analysis in the Positron/VS Code IDEs.
 
 ## Getting Started with the Project
 
 The Ministry of the Solicitor General is committed to providing greater transparency by releasing data on all custodial-related deaths that occurred within the calendar year reporting period. The datasets in this category include info on gender, race, age, religion or spiritual affiliation, and alerts for mental health concerns and suicide risk. To begin the investigation(s):
 
-1.  **Open the R Project**: Navigate to the `OTIS_Report_Stats1a` directory and open the `OTIS_Report_Stats1a.Rproj` file in Positron or RStudio. This will set your working directory correctly.
+1.  **Open the R Project**: Navigate to the `OTIS_Report_Stats1a` directory and open the `OTIS_Report_Stats1a.Rproj` file in Positron or RStudio. This will set the working directory correctly.
 2.  **Explore Data**: The `data/` subdirectory contains all the raw CSV files.
 3.  **Run Analysis Scripts**: The `scripts/` subdirectory contains individual `analysis_bXX.R`, `analysis_cXX.R`, and `analysis_dXX.R` files. Each script loads a specific dataset and includes initial exploratory commands.
 
-I encourage you to explore the data, customize the analysis scripts, and contribute to the understanding of this important information. 
+The encouragement is toward exploring the data, standardizing the investigatory scripts, and contribute to the understanding of important information through empirical observations. 
