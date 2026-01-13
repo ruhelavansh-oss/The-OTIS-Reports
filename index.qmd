@@ -2,7 +2,7 @@
 title: "Offender Tracking Information System Datasets Statistical Report"
 ---
 
-**Author:** `Vansh Singh Ruhela` **Project Name:** `OTIS_Report_Stats1a` 
+**Project Name:** `OTIS_Report_Stats1a` 
 
 **Date Created:** 2026-01-12
 
