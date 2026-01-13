@@ -3,6 +3,7 @@ project:
   output-dir: project # Output directory for the website
 
 website:
+  page-navigation: true
   reader-mode: true
   sidebar:
     style: "docked"
