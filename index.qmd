@@ -1,9 +1,6 @@
 ---
-title: "Offender Tracking Information System Datasets Statistical Report"
+title: "Offender Tracking Information System Report"
 ---
-
-**Project Name:** `OTIS_Report_Stats1a` 
-
 **Date Created:** 2026-01-12
 
 This website serves as a central hub for the statistical analysis of correctional system data related to the OTIS report, datasets that were originally maintained by the Ministry of the Solicitor General. You can navigate through the different sections using the menu above:
