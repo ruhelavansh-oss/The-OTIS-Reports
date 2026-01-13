@@ -28,8 +28,12 @@ website:
   sidebar:
     style: "docked"
     contents:
-      - href: DATA_DICTIONARY.html
-        text: Background
+      - section: "Background"
+        contents:
+          - href: readme.qmd
+            text: "Maintainer"
+          - href: DATA_DICTIONARY.html
+            text: "Data Dictionary"
       - section: "Segregation (B01-09)"
         contents:
           - text: "B01 Seg. Detailed Dataset"
@@ -101,64 +105,12 @@ website:
         text: Overview
       - text: Projects
         menu:
-          - text: A01 Restrictive Confinement Detailed Dataset Report
-            href: https://vanshsinghruhela-stats-report-on-restrictive-confinement.share.connect.posit.cloud
-          - text: "B01 Seg. Detailed Dataset"
-            href: scripts/analysis_b01.qmd
-          - text: "B02 Seg. Total Days"
-            href: scripts/analysis_b02.qmd
-          - text: "B03 Seg. Placements Alerts and Hold Flags by Inst."
-            href: scripts/analysis_b03.qmd
-          - text: "B04 Seg. Placements Max/Med/Mod Cons. Dur. by Region"
-            href: scripts/analysis_b04.qmd
-          - text: "B05 Seg. Placements Dist. by Duration"
-            href: scripts/analysis_b05.qmd
-          - text: "B06 Seg. Placements Reason by Inst."
-            href: scripts/analysis_b06.qmd
-          - text: "B07 Seg. Placements Alerts by Gender"
-            href: scripts/analysis_b07.qmd
-          - text: "B08 Seg. Placements Med/Mode Cons. Dur. by Inst"
-            href: scripts/analysis_b08.qmd
-          - text: "B09 Ind. in Seg. - Num. Placements"
-            href: scripts/analysis_b09.qmd
-          - text: "C01 Ind. in Seg./Rest.Conf. - Total"
-            href: scripts/analysis_c01.qmd
-          - text: "C02 Ind. in Seg./Rest.Conf. by Inst."
-            href: scripts/analysis_c02.qmd
-          - text: "C03 Ind. in Seg./Rest.Conf. by Race/Gender"
-            href: scripts/analysis_c03.qmd
-          - text: "C04 Ind. in Seg./Rest.Conf. by Race/Region"
-            href: scripts/analysis_c04.qmd
-          - text: "C05 Ind. in Seg./Rest.Conf. by Relig./Region"
-            href: scripts/analysis_c05.qmd
-          - text: "C06 Ind. in Seg./Rest.Conf. by Age/Region"
-            href: scripts/analysis_c06.qmd
-          - text: "C07 Ind. in Seg./Rest.Conf. - Alerts"
-            href: scripts/analysis_c07.qmd
-          - text: "C08 Ind. in Seg./Rest.Conf. by Relig./Gender"
-            href: scripts/analysis_c08.qmd
-          - text: "C09 Ind. in Seg./Rest.Conf. by Age/Gender"
-            href: scripts/analysis_c09.qmd
-          - text: "C10 Seg./Rest.Conf. Max/Med/Mod Agg. Dur. by Inst."
-            href: scripts/analysis_c10.qmd
-          - text: "C11 Ind. in Seg./Rest.Conf. by Agg. Length"
-            href: scripts/analysis_c11.qmd
-          - text: "C12 Seg./Rest.Conf. Max/Med/Mod Agg. Dur. by Region"
-            href: scripts/analysis_c12.qmd
-          - text: "D01 Deaths in Custody - Detailed"
-            href: scripts/analysis_d01.qmd
-          - text: "D02 Deaths in Custody - Gender"
-            href: scripts/analysis_d02.qmd
-          - text: "D03 Deaths in Custody - Race"
-            href: scripts/analysis_d03.qmd
-          - text: "D04 Deaths in Custody - Religion"
-            href: scripts/analysis_d04.qmd
-          - text: "D05 Deaths in Custody - Age"
-            href: scripts/analysis_d05.qmd
-          - text: "D06 Deaths in Custody - Alerts/Cause"
-            href: scripts/analysis_d06.qmd
-          - text: "D07 Deaths in Custody - Alerts/Housing"
-            href: scripts/analysis_d07.qmd
+          - text: A01RCDD Notebook
+            href: https://vanshsinghruhela-stats-report-on-restrictive-confinement.share.connect.posit.cloud/notez1a.html
+          - text: A01RCDD DPR1A
+            href: https://vanshsinghruhela-statistical-report-on-restrictive-confinement.share.connect.posit.cloud/prelim_report.html
+          - text: A01RCDD DPR1B
+            href: https://vanshsinghruhela-statistical-report-on-restrictive-confinement.share.connect.posit.cloud/final_report.html
       - text: About
         menu:
           - href: DATA_DICTIONARY.html
