@@ -3,6 +3,8 @@ project:
   output-dir: project # Output directory for the website
 
 website:
+  repo-url: https://github.com/ruhelavansh-oss/The-OTIS-Reports
+  repo-actions: [edit, source, issue]
   page-navigation: true
   reader-mode: true
   sidebar:
