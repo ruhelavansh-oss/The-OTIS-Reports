@@ -105,11 +105,11 @@ website:
         text: Overview
       - text: Projects
         menu:
-          - text: A01RC Notebook
+          - text: A01 Article Notebook
             href: https://vanshsinghruhela-stats-report-on-restrictive-confinement.share.connect.posit.cloud/notez1a.html
-          - text: A01RC Data Profiling Report 1A
+          - text: A01 Data Profiling Report 1A
             href: https://vanshsinghruhela-statistical-report-on-restrictive-confinement.share.connect.posit.cloud/prelim_report.html
-          - text: A01RC Data Profiling Report 1B
+          - text: A01 Data Profiling Report 1B
             href: https://vanshsinghruhela-statistical-report-on-restrictive-confinement.share.connect.posit.cloud/final_report.html
       - text: About
         menu:
