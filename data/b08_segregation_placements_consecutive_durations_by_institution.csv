@@ -1,0 +1,433 @@
+"EndFiscalYear","Region_AtTimeOfPlacement","Institution_AtTimeOfPlacement","Gender","Measure","NumberConsecutiveDays_Segregation"
+2023,"Central","Hamilton Wentworth Detention Centre","Female","Median",1
+2023,"Central","Maplehurst Correctional Complex","Female","Median",2
+2023,"Central","Niagara Detention Centre","Female","Median",0
+2023,"Central","Vanier Centre for Women","Female","Median",2
+2023,"Eastern","Brockville Jail","Female","Median",0
+2023,"Eastern","Central East Correctional Centre","Female","Median",1
+2023,"Eastern","Ottawa-Carleton Detention Centre","Female","Median",2
+2023,"Eastern","Quinte Detention Centre","Female","Median",2
+2023,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Female","Median",0
+2023,"Northern","Algoma Treatment and Remand Centre","Female","Median",2
+2023,"Northern","Fort Frances Jail","Female","Median",2
+2023,"Northern","Kenora Jail","Female","Median",2
+2023,"Northern","Monteith Correctional Complex","Female","Median",1
+2023,"Northern","North Bay Jail","Female","Median",1
+2023,"Northern","Sudbury Jail","Female","Median",3
+2023,"Northern","Thunder Bay Correctional Centre","Female","Median",1
+2023,"Northern","Thunder Bay Jail","Female","Median",0
+2023,"Toronto","Toronto East Detention Centre","Female","Median",0
+2023,"Toronto","Toronto South Detention Centre","Female","Median",3
+2023,"Western","Central North Correctional Centre","Female","Median",2
+2023,"Western","Elgin-Middlesex Detention Centre","Female","Median",2
+2023,"Western","Sarnia Jail","Female","Median",3
+2023,"Western","South West Detention Centre","Female","Median",2.5
+2023,"Western","Stratford Jail","Female","Median",2
+2023,"Central","Hamilton Wentworth Detention Centre","Female","Mode",1
+2023,"Central","Maplehurst Correctional Complex","Female","Mode",1
+2023,"Central","Niagara Detention Centre","Female","Mode",0
+2023,"Central","Vanier Centre for Women","Female","Mode",1
+2023,"Eastern","Brockville Jail","Female","Mode",0
+2023,"Eastern","Central East Correctional Centre","Female","Mode",1
+2023,"Eastern","Ottawa-Carleton Detention Centre","Female","Mode",1
+2023,"Eastern","Quinte Detention Centre","Female","Mode",2
+2023,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Female","Mode",0
+2023,"Northern","Algoma Treatment and Remand Centre","Female","Mode",1
+2023,"Northern","Fort Frances Jail","Female","Mode",2
+2023,"Northern","Kenora Jail","Female","Mode",1
+2023,"Northern","Monteith Correctional Complex","Female","Mode",1
+2023,"Northern","North Bay Jail","Female","Mode",1
+2023,"Northern","Sudbury Jail","Female","Mode",1
+2023,"Northern","Thunder Bay Correctional Centre","Female","Mode",1
+2023,"Northern","Thunder Bay Jail","Female","Mode",0
+2023,"Toronto","Toronto East Detention Centre","Female","Mode",0
+2023,"Toronto","Toronto South Detention Centre","Female","Mode",3
+2023,"Western","Central North Correctional Centre","Female","Mode",1
+2023,"Western","Elgin-Middlesex Detention Centre","Female","Mode",1
+2023,"Western","Sarnia Jail","Female","Mode",1
+2023,"Western","South West Detention Centre","Female","Mode",1
+2023,"Western","Stratford Jail","Female","Mode",2
+2023,"Central","Hamilton Wentworth Detention Centre","Male","Median",1
+2023,"Central","Maplehurst Correctional Complex","Male","Median",1
+2023,"Central","Niagara Detention Centre","Male","Median",3
+2023,"Central","Vanier Centre for Women","Male","Median",3
+2023,"Eastern","Brockville Jail","Male","Median",1
+2023,"Eastern","Central East Correctional Centre","Male","Median",1
+2023,"Eastern","Ottawa-Carleton Detention Centre","Male","Median",1
+2023,"Eastern","Quinte Detention Centre","Male","Median",2
+2023,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Male","Median",2
+2023,"Northern","Algoma Treatment and Remand Centre","Male","Median",2
+2023,"Northern","Fort Frances Jail","Male","Median",1
+2023,"Northern","Kenora Jail","Male","Median",2
+2023,"Northern","Monteith Correctional Complex","Male","Median",1
+2023,"Northern","North Bay Jail","Male","Median",1
+2023,"Northern","Sudbury Jail","Male","Median",2
+2023,"Northern","Thunder Bay Correctional Centre","Male","Median",1
+2023,"Northern","Thunder Bay Jail","Male","Median",1
+2023,"Toronto","Toronto East Detention Centre","Male","Median",3
+2023,"Toronto","Toronto South Detention Centre","Male","Median",3
+2023,"Western","Central North Correctional Centre","Male","Median",2
+2023,"Western","Elgin-Middlesex Detention Centre","Male","Median",1
+2023,"Western","Sarnia Jail","Male","Median",2
+2023,"Western","South West Detention Centre","Male","Median",1
+2023,"Western","Stratford Jail","Male","Median",1
+2023,"Central","Hamilton Wentworth Detention Centre","Male","Mode",1
+2023,"Central","Maplehurst Correctional Complex","Male","Mode",1
+2023,"Central","Niagara Detention Centre","Male","Mode",4
+2023,"Central","Vanier Centre for Women","Male","Mode",4
+2023,"Eastern","Brockville Jail","Male","Mode",1
+2023,"Eastern","Central East Correctional Centre","Male","Mode",1
+2023,"Eastern","Ottawa-Carleton Detention Centre","Male","Mode",1
+2023,"Eastern","Quinte Detention Centre","Male","Mode",1
+2023,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Male","Mode",1
+2023,"Northern","Algoma Treatment and Remand Centre","Male","Mode",1
+2023,"Northern","Fort Frances Jail","Male","Mode",1
+2023,"Northern","Kenora Jail","Male","Mode",1
+2023,"Northern","Monteith Correctional Complex","Male","Mode",1
+2023,"Northern","North Bay Jail","Male","Mode",1
+2023,"Northern","Sudbury Jail","Male","Mode",1
+2023,"Northern","Thunder Bay Correctional Centre","Male","Mode",1
+2023,"Northern","Thunder Bay Jail","Male","Mode",1
+2023,"Toronto","Toronto East Detention Centre","Male","Mode",1
+2023,"Toronto","Toronto South Detention Centre","Male","Mode",3
+2023,"Western","Central North Correctional Centre","Male","Mode",1
+2023,"Western","Elgin-Middlesex Detention Centre","Male","Mode",1
+2023,"Western","Sarnia Jail","Male","Mode",1
+2023,"Western","South West Detention Centre","Male","Mode",1
+2023,"Western","Stratford Jail","Male","Mode",1
+2023,"Central","Hamilton Wentworth Detention Centre","All","Median",1
+2023,"Central","Maplehurst Correctional Complex","All","Median",1
+2023,"Central","Niagara Detention Centre","All","Median",3
+2023,"Central","Vanier Centre for Women","All","Median",2
+2023,"Eastern","Brockville Jail","All","Median",1
+2023,"Eastern","Central East Correctional Centre","All","Median",1
+2023,"Eastern","Ottawa-Carleton Detention Centre","All","Median",2
+2023,"Eastern","Quinte Detention Centre","All","Median",2
+2023,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","All","Median",2
+2023,"Northern","Algoma Treatment and Remand Centre","All","Median",2
+2023,"Northern","Fort Frances Jail","All","Median",1
+2023,"Northern","Kenora Jail","All","Median",2
+2023,"Northern","Monteith Correctional Complex","All","Median",1
+2023,"Northern","North Bay Jail","All","Median",1
+2023,"Northern","Sudbury Jail","All","Median",2
+2023,"Northern","Thunder Bay Correctional Centre","All","Median",1
+2023,"Northern","Thunder Bay Jail","All","Median",1
+2023,"Toronto","Toronto East Detention Centre","All","Median",3
+2023,"Toronto","Toronto South Detention Centre","All","Median",3
+2023,"Western","Central North Correctional Centre","All","Median",2
+2023,"Western","Elgin-Middlesex Detention Centre","All","Median",1
+2023,"Western","Sarnia Jail","All","Median",2
+2023,"Western","South West Detention Centre","All","Median",1
+2023,"Western","Stratford Jail","All","Median",2
+2023,"Central","Hamilton Wentworth Detention Centre","All","Mode",1
+2023,"Central","Maplehurst Correctional Complex","All","Mode",1
+2023,"Central","Niagara Detention Centre","All","Mode",4
+2023,"Central","Vanier Centre for Women","All","Mode",1
+2023,"Eastern","Brockville Jail","All","Mode",1
+2023,"Eastern","Central East Correctional Centre","All","Mode",1
+2023,"Eastern","Ottawa-Carleton Detention Centre","All","Mode",1
+2023,"Eastern","Quinte Detention Centre","All","Mode",1
+2023,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","All","Mode",1
+2023,"Northern","Algoma Treatment and Remand Centre","All","Mode",1
+2023,"Northern","Fort Frances Jail","All","Mode",1
+2023,"Northern","Kenora Jail","All","Mode",1
+2023,"Northern","Monteith Correctional Complex","All","Mode",1
+2023,"Northern","North Bay Jail","All","Mode",1
+2023,"Northern","Sudbury Jail","All","Mode",1
+2023,"Northern","Thunder Bay Correctional Centre","All","Mode",1
+2023,"Northern","Thunder Bay Jail","All","Mode",1
+2023,"Toronto","Toronto East Detention Centre","All","Mode",1
+2023,"Toronto","Toronto South Detention Centre","All","Mode",3
+2023,"Western","Central North Correctional Centre","All","Mode",1
+2023,"Western","Elgin-Middlesex Detention Centre","All","Mode",1
+2023,"Western","Sarnia Jail","All","Mode",1
+2023,"Western","South West Detention Centre","All","Mode",1
+2023,"Western","Stratford Jail","All","Mode",1
+2024,"Central","Hamilton Wentworth Detention Centre","Female","Median",2
+2024,"Central","Maplehurst Correctional Complex","Female","Median",2
+2024,"Central","Niagara Detention Centre","Female","Median",0
+2024,"Central","Vanier Centre for Women","Female","Median",2
+2024,"Eastern","Brockville Jail","Female","Median",0
+2024,"Eastern","Central East Correctional Centre","Female","Median",1
+2024,"Eastern","Ottawa-Carleton Detention Centre","Female","Median",2
+2024,"Eastern","Quinte Detention Centre","Female","Median",0
+2024,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Female","Median",0
+2024,"Northern","Algoma Treatment and Remand Centre","Female","Median",2
+2024,"Northern","Fort Frances Jail","Female","Median",0
+2024,"Northern","Kenora Jail","Female","Median",2
+2024,"Northern","Monteith Correctional Complex","Female","Median",2
+2024,"Northern","North Bay Jail","Female","Median",1
+2024,"Northern","Sudbury Jail","Female","Median",2
+2024,"Northern","Thunder Bay Correctional Centre","Female","Median",1
+2024,"Northern","Thunder Bay Jail","Female","Median",1.5
+2024,"Toronto","Toronto East Detention Centre","Female","Median",0
+2024,"Toronto","Toronto South Detention Centre","Female","Median",3
+2024,"Western","Central North Correctional Centre","Female","Median",2
+2024,"Western","Elgin-Middlesex Detention Centre","Female","Median",2
+2024,"Western","Sarnia Jail","Female","Median",2
+2024,"Western","South West Detention Centre","Female","Median",3
+2024,"Western","Stratford Jail","Female","Median",0
+2024,"Central","Hamilton Wentworth Detention Centre","Female","Mode",1
+2024,"Central","Maplehurst Correctional Complex","Female","Mode",2
+2024,"Central","Niagara Detention Centre","Female","Mode",0
+2024,"Central","Vanier Centre for Women","Female","Mode",1
+2024,"Eastern","Brockville Jail","Female","Mode",0
+2024,"Eastern","Central East Correctional Centre","Female","Mode",1
+2024,"Eastern","Ottawa-Carleton Detention Centre","Female","Mode",2
+2024,"Eastern","Quinte Detention Centre","Female","Mode",0
+2024,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Female","Mode",0
+2024,"Northern","Algoma Treatment and Remand Centre","Female","Mode",1
+2024,"Northern","Fort Frances Jail","Female","Mode",0
+2024,"Northern","Kenora Jail","Female","Mode",1
+2024,"Northern","Monteith Correctional Complex","Female","Mode",1
+2024,"Northern","North Bay Jail","Female","Mode",1
+2024,"Northern","Sudbury Jail","Female","Mode",2
+2024,"Northern","Thunder Bay Correctional Centre","Female","Mode",1
+2024,"Northern","Thunder Bay Jail","Female","Mode",2
+2024,"Toronto","Toronto East Detention Centre","Female","Mode",0
+2024,"Toronto","Toronto South Detention Centre","Female","Mode",3
+2024,"Western","Central North Correctional Centre","Female","Mode",1
+2024,"Western","Elgin-Middlesex Detention Centre","Female","Mode",1
+2024,"Western","Sarnia Jail","Female","Mode",1
+2024,"Western","South West Detention Centre","Female","Mode",3
+2024,"Western","Stratford Jail","Female","Mode",0
+2024,"Central","Hamilton Wentworth Detention Centre","Male","Median",1
+2024,"Central","Maplehurst Correctional Complex","Male","Median",2
+2024,"Central","Niagara Detention Centre","Male","Median",2
+2024,"Central","Vanier Centre for Women","Male","Median",2
+2024,"Eastern","Brockville Jail","Male","Median",2
+2024,"Eastern","Central East Correctional Centre","Male","Median",1
+2024,"Eastern","Ottawa-Carleton Detention Centre","Male","Median",1
+2024,"Eastern","Quinte Detention Centre","Male","Median",1
+2024,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Male","Median",1
+2024,"Northern","Algoma Treatment and Remand Centre","Male","Median",2
+2024,"Northern","Fort Frances Jail","Male","Median",1
+2024,"Northern","Kenora Jail","Male","Median",2
+2024,"Northern","Monteith Correctional Complex","Male","Median",1
+2024,"Northern","North Bay Jail","Male","Median",1
+2024,"Northern","Sudbury Jail","Male","Median",3
+2024,"Northern","Thunder Bay Correctional Centre","Male","Median",1
+2024,"Northern","Thunder Bay Jail","Male","Median",1
+2024,"Toronto","Toronto East Detention Centre","Male","Median",1
+2024,"Toronto","Toronto South Detention Centre","Male","Median",3
+2024,"Western","Central North Correctional Centre","Male","Median",2
+2024,"Western","Elgin-Middlesex Detention Centre","Male","Median",1
+2024,"Western","Sarnia Jail","Male","Median",2
+2024,"Western","South West Detention Centre","Male","Median",1
+2024,"Western","Stratford Jail","Male","Median",1
+2024,"Central","Hamilton Wentworth Detention Centre","Male","Mode",1
+2024,"Central","Maplehurst Correctional Complex","Male","Mode",2
+2024,"Central","Niagara Detention Centre","Male","Mode",4
+2024,"Central","Vanier Centre for Women","Male","Mode",1
+2024,"Eastern","Brockville Jail","Male","Mode",1
+2024,"Eastern","Central East Correctional Centre","Male","Mode",1
+2024,"Eastern","Ottawa-Carleton Detention Centre","Male","Mode",1
+2024,"Eastern","Quinte Detention Centre","Male","Mode",1
+2024,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Male","Mode",1
+2024,"Northern","Algoma Treatment and Remand Centre","Male","Mode",1
+2024,"Northern","Fort Frances Jail","Male","Mode",1
+2024,"Northern","Kenora Jail","Male","Mode",1
+2024,"Northern","Monteith Correctional Complex","Male","Mode",1
+2024,"Northern","North Bay Jail","Male","Mode",1
+2024,"Northern","Sudbury Jail","Male","Mode",1
+2024,"Northern","Thunder Bay Correctional Centre","Male","Mode",1
+2024,"Northern","Thunder Bay Jail","Male","Mode",1
+2024,"Toronto","Toronto East Detention Centre","Male","Mode",1
+2024,"Toronto","Toronto South Detention Centre","Male","Mode",3
+2024,"Western","Central North Correctional Centre","Male","Mode",1
+2024,"Western","Elgin-Middlesex Detention Centre","Male","Mode",1
+2024,"Western","Sarnia Jail","Male","Mode",1
+2024,"Western","South West Detention Centre","Male","Mode",1
+2024,"Western","Stratford Jail","Male","Mode",1
+2024,"Central","Hamilton Wentworth Detention Centre","All","Median",1
+2024,"Central","Maplehurst Correctional Complex","All","Median",2
+2024,"Central","Niagara Detention Centre","All","Median",2
+2024,"Central","Vanier Centre for Women","All","Median",2
+2024,"Eastern","Brockville Jail","All","Median",2
+2024,"Eastern","Central East Correctional Centre","All","Median",1
+2024,"Eastern","Ottawa-Carleton Detention Centre","All","Median",2
+2024,"Eastern","Quinte Detention Centre","All","Median",1
+2024,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","All","Median",1
+2024,"Northern","Algoma Treatment and Remand Centre","All","Median",2
+2024,"Northern","Fort Frances Jail","All","Median",1
+2024,"Northern","Kenora Jail","All","Median",2
+2024,"Northern","Monteith Correctional Complex","All","Median",1
+2024,"Northern","North Bay Jail","All","Median",1
+2024,"Northern","Sudbury Jail","All","Median",3
+2024,"Northern","Thunder Bay Correctional Centre","All","Median",1
+2024,"Northern","Thunder Bay Jail","All","Median",1
+2024,"Toronto","Toronto East Detention Centre","All","Median",1
+2024,"Toronto","Toronto South Detention Centre","All","Median",3
+2024,"Western","Central North Correctional Centre","All","Median",2
+2024,"Western","Elgin-Middlesex Detention Centre","All","Median",1
+2024,"Western","Sarnia Jail","All","Median",2
+2024,"Western","South West Detention Centre","All","Median",1
+2024,"Western","Stratford Jail","All","Median",1
+2024,"Central","Hamilton Wentworth Detention Centre","All","Mode",1
+2024,"Central","Maplehurst Correctional Complex","All","Mode",2
+2024,"Central","Niagara Detention Centre","All","Mode",4
+2024,"Central","Vanier Centre for Women","All","Mode",1
+2024,"Eastern","Brockville Jail","All","Mode",1
+2024,"Eastern","Central East Correctional Centre","All","Mode",1
+2024,"Eastern","Ottawa-Carleton Detention Centre","All","Mode",1
+2024,"Eastern","Quinte Detention Centre","All","Mode",1
+2024,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","All","Mode",1
+2024,"Northern","Algoma Treatment and Remand Centre","All","Mode",1
+2024,"Northern","Fort Frances Jail","All","Mode",1
+2024,"Northern","Kenora Jail","All","Mode",1
+2024,"Northern","Monteith Correctional Complex","All","Mode",1
+2024,"Northern","North Bay Jail","All","Mode",1
+2024,"Northern","Sudbury Jail","All","Mode",1
+2024,"Northern","Thunder Bay Correctional Centre","All","Mode",1
+2024,"Northern","Thunder Bay Jail","All","Mode",1
+2024,"Toronto","Toronto East Detention Centre","All","Mode",1
+2024,"Toronto","Toronto South Detention Centre","All","Mode",3
+2024,"Western","Central North Correctional Centre","All","Mode",1
+2024,"Western","Elgin-Middlesex Detention Centre","All","Mode",1
+2024,"Western","Sarnia Jail","All","Mode",1
+2024,"Western","South West Detention Centre","All","Mode",1
+2024,"Western","Stratford Jail","All","Mode",1
+2025,"Central","Hamilton Wentworth Detention Centre","Female","Median",2
+2025,"Central","Maplehurst Correctional Complex","Female","Median",1
+2025,"Central","Niagara Detention Centre","Female","Median",0
+2025,"Central","Vanier Centre for Women","Female","Median",2
+2025,"Eastern","Brockville Jail","Female","Median",0
+2025,"Eastern","Central East Correctional Centre","Female","Median",1
+2025,"Eastern","Ottawa-Carleton Detention Centre","Female","Median",2
+2025,"Eastern","Quinte Detention Centre","Female","Median",1
+2025,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Female","Median",0
+2025,"Northern","Algoma Treatment and Remand Centre","Female","Median",2
+2025,"Northern","Fort Frances Jail","Female","Median",1
+2025,"Northern","Kenora Jail","Female","Median",1
+2025,"Northern","Monteith Correctional Complex","Female","Median",1
+2025,"Northern","North Bay Jail","Female","Median",2
+2025,"Northern","Sudbury Jail","Female","Median",2
+2025,"Northern","Thunder Bay Correctional Centre","Female","Median",1
+2025,"Northern","Thunder Bay Jail","Female","Median",1
+2025,"Toronto","Toronto East Detention Centre","Female","Median",1
+2025,"Toronto","Toronto South Detention Centre","Female","Median",3
+2025,"Western","Central North Correctional Centre","Female","Median",2
+2025,"Western","Elgin-Middlesex Detention Centre","Female","Median",2
+2025,"Western","Sarnia Jail","Female","Median",3
+2025,"Western","South West Detention Centre","Female","Median",2
+2025,"Western","Stratford Jail","Female","Median",0
+2025,"Central","Hamilton Wentworth Detention Centre","Female","Mode",1
+2025,"Central","Maplehurst Correctional Complex","Female","Mode",1
+2025,"Central","Niagara Detention Centre","Female","Mode",0
+2025,"Central","Vanier Centre for Women","Female","Mode",1
+2025,"Eastern","Brockville Jail","Female","Mode",0
+2025,"Eastern","Central East Correctional Centre","Female","Mode",1
+2025,"Eastern","Ottawa-Carleton Detention Centre","Female","Mode",1
+2025,"Eastern","Quinte Detention Centre","Female","Mode",1
+2025,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Female","Mode",0
+2025,"Northern","Algoma Treatment and Remand Centre","Female","Mode",1
+2025,"Northern","Fort Frances Jail","Female","Mode",1
+2025,"Northern","Kenora Jail","Female","Mode",1
+2025,"Northern","Monteith Correctional Complex","Female","Mode",1
+2025,"Northern","North Bay Jail","Female","Mode",1
+2025,"Northern","Sudbury Jail","Female","Mode",1
+2025,"Northern","Thunder Bay Correctional Centre","Female","Mode",1
+2025,"Northern","Thunder Bay Jail","Female","Mode",1
+2025,"Toronto","Toronto East Detention Centre","Female","Mode",1
+2025,"Toronto","Toronto South Detention Centre","Female","Mode",3
+2025,"Western","Central North Correctional Centre","Female","Mode",1
+2025,"Western","Elgin-Middlesex Detention Centre","Female","Mode",1
+2025,"Western","Sarnia Jail","Female","Mode",1
+2025,"Western","South West Detention Centre","Female","Mode",1
+2025,"Western","Stratford Jail","Female","Mode",0
+2025,"Central","Hamilton Wentworth Detention Centre","Male","Median",2
+2025,"Central","Maplehurst Correctional Complex","Male","Median",1
+2025,"Central","Niagara Detention Centre","Male","Median",3
+2025,"Central","Vanier Centre for Women","Male","Median",2
+2025,"Eastern","Brockville Jail","Male","Median",2
+2025,"Eastern","Central East Correctional Centre","Male","Median",1
+2025,"Eastern","Ottawa-Carleton Detention Centre","Male","Median",2
+2025,"Eastern","Quinte Detention Centre","Male","Median",1
+2025,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Male","Median",0
+2025,"Northern","Algoma Treatment and Remand Centre","Male","Median",2
+2025,"Northern","Fort Frances Jail","Male","Median",1
+2025,"Northern","Kenora Jail","Male","Median",1
+2025,"Northern","Monteith Correctional Complex","Male","Median",1
+2025,"Northern","North Bay Jail","Male","Median",2
+2025,"Northern","Sudbury Jail","Male","Median",2
+2025,"Northern","Thunder Bay Correctional Centre","Male","Median",1
+2025,"Northern","Thunder Bay Jail","Male","Median",2
+2025,"Toronto","Toronto East Detention Centre","Male","Median",1
+2025,"Toronto","Toronto South Detention Centre","Male","Median",3
+2025,"Western","Central North Correctional Centre","Male","Median",2
+2025,"Western","Elgin-Middlesex Detention Centre","Male","Median",2
+2025,"Western","Sarnia Jail","Male","Median",2
+2025,"Western","South West Detention Centre","Male","Median",3
+2025,"Western","Stratford Jail","Male","Median",1.5
+2025,"Central","Hamilton Wentworth Detention Centre","Male","Mode",1
+2025,"Central","Maplehurst Correctional Complex","Male","Mode",1
+2025,"Central","Niagara Detention Centre","Male","Mode",4
+2025,"Central","Vanier Centre for Women","Male","Mode",1
+2025,"Eastern","Brockville Jail","Male","Mode",1
+2025,"Eastern","Central East Correctional Centre","Male","Mode",1
+2025,"Eastern","Ottawa-Carleton Detention Centre","Male","Mode",1
+2025,"Eastern","Quinte Detention Centre","Male","Mode",1
+2025,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Male","Mode",0
+2025,"Northern","Algoma Treatment and Remand Centre","Male","Mode",1
+2025,"Northern","Fort Frances Jail","Male","Mode",1
+2025,"Northern","Kenora Jail","Male","Mode",1
+2025,"Northern","Monteith Correctional Complex","Male","Mode",1
+2025,"Northern","North Bay Jail","Male","Mode",1
+2025,"Northern","Sudbury Jail","Male","Mode",1
+2025,"Northern","Thunder Bay Correctional Centre","Male","Mode",1
+2025,"Northern","Thunder Bay Jail","Male","Mode",1
+2025,"Toronto","Toronto East Detention Centre","Male","Mode",1
+2025,"Toronto","Toronto South Detention Centre","Male","Mode",3
+2025,"Western","Central North Correctional Centre","Male","Mode",1
+2025,"Western","Elgin-Middlesex Detention Centre","Male","Mode",1
+2025,"Western","Sarnia Jail","Male","Mode",1
+2025,"Western","South West Detention Centre","Male","Mode",1
+2025,"Western","Stratford Jail","Male","Mode",1
+2025,"Central","Hamilton Wentworth Detention Centre","All","Median ",2
+2025,"Central","Maplehurst Correctional Complex","All","Median ",1
+2025,"Central","Niagara Detention Centre","All","Median ",3
+2025,"Central","Vanier Centre for Women","All","Median ",2
+2025,"Eastern","Brockville Jail","All","Median ",2
+2025,"Eastern","Central East Correctional Centre","All","Median ",1
+2025,"Eastern","Ottawa-Carleton Detention Centre","All","Median ",2
+2025,"Eastern","Quinte Detention Centre","All","Median ",1
+2025,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","All","Median ",0
+2025,"Northern","Algoma Treatment and Remand Centre","All","Median ",2
+2025,"Northern","Fort Frances Jail","All","Median ",1
+2025,"Northern","Kenora Jail","All","Median ",1
+2025,"Northern","Monteith Correctional Complex","All","Median ",1
+2025,"Northern","North Bay Jail","All","Median ",2
+2025,"Northern","Sudbury Jail","All","Median ",2
+2025,"Northern","Thunder Bay Correctional Centre","All","Median ",1
+2025,"Northern","Thunder Bay Jail","All","Median ",2
+2025,"Toronto","Toronto East Detention Centre","All","Median ",1
+2025,"Toronto","Toronto South Detention Centre","All","Median ",3
+2025,"Western","Central North Correctional Centre","All","Median ",2
+2025,"Western","Elgin-Middlesex Detention Centre","All","Median ",2
+2025,"Western","Sarnia Jail","All","Median ",2
+2025,"Western","South West Detention Centre","All","Median ",3
+2025,"Western","Stratford Jail","All","Median ",1.5
+2025,"Central","Hamilton Wentworth Detention Centre","All","Mode",1
+2025,"Central","Maplehurst Correctional Complex","All","Mode",1
+2025,"Central","Niagara Detention Centre","All","Mode",4
+2025,"Central","Vanier Centre for Women","All","Mode",1
+2025,"Eastern","Brockville Jail","All","Mode",1
+2025,"Eastern","Central East Correctional Centre","All","Mode",1
+2025,"Eastern","Ottawa-Carleton Detention Centre","All","Mode",1
+2025,"Eastern","Quinte Detention Centre","All","Mode",1
+2025,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","All","Mode",0
+2025,"Northern","Algoma Treatment and Remand Centre","All","Mode",1
+2025,"Northern","Fort Frances Jail","All","Mode",1
+2025,"Northern","Kenora Jail","All","Mode",1
+2025,"Northern","Monteith Correctional Complex","All","Mode",1
+2025,"Northern","North Bay Jail","All","Mode",1
+2025,"Northern","Sudbury Jail","All","Mode",1
+2025,"Northern","Thunder Bay Correctional Centre","All","Mode",1
+2025,"Northern","Thunder Bay Jail","All","Mode",1
+2025,"Toronto","Toronto East Detention Centre","All","Mode",1
+2025,"Toronto","Toronto South Detention Centre","All","Mode",3
+2025,"Western","Central North Correctional Centre","All","Mode",1
+2025,"Western","Elgin-Middlesex Detention Centre","All","Mode",1
+2025,"Western","Sarnia Jail","All","Mode",1
+2025,"Western","South West Detention Centre","All","Mode",1
+2025,"Western","Stratford Jail","All","Mode",1

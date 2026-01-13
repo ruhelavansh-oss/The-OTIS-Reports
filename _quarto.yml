@@ -1,0 +1,158 @@
+project:
+  type: website
+  output-dir: project # Output directory for the website
+
+website:
+  reader-mode: true
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Segregation (B01-09)"
+        contents:
+          - text: "B01 Seg. Detailed Dataset Analysis"
+            href: scripts/analysis_b01.qmd
+          - text: "B02 Seg. Total Days Analysis"
+            href: scripts/analysis_b02.qmd
+          - text: "B03 Seg. Placements Alerts and Hold Flags by Inst. Analysis"
+            href: scripts/analysis_b03.qmd
+          - text: "B04 Seg. Placements Max/Med/Mode Cons. Durations by Region Analysis"
+            href: scripts/analysis_b04.qmd
+          - text: "B05 Seg. Placements Dist. by Duration Analysis"
+            href: scripts/analysis_b05.qmd
+          - text: "B06 Seg. Placements Reason by Inst. Analysis"
+            href: scripts/analysis_b06.qmd
+          - text: "B07 Seg. Placements Alerts by Gender Analysis"
+            href: scripts/analysis_b07.qmd
+          - text: "B08 Seg. Placements Median/Mode Cons. Durations by Inst. Analysis"
+            href: scripts/analysis_b08.qmd
+          - text: "B09 Ind. in Seg. - Num. Placements Analysis"
+            href: scripts/analysis_b09.qmd
+      - section: "Segregation/Restrictive Confinement (C01-12)"
+        contents:
+          - text: "C01 Ind. in Seg./Rest.Conf. - Total Analysis"
+            href: scripts/analysis_c01.qmd
+          - text: "C02 Ind. in Seg./Rest.Conf. by Inst. Analysis"
+            href: scripts/analysis_c02.qmd
+          - text: "C03 Ind. in Seg./Rest.Conf. by Race/Gender Analysis"
+            href: scripts/analysis_c03.qmd
+          - text: "C04 Ind. in Seg./Rest.Conf. by Race/Region Analysis"
+            href: scripts/analysis_c04.qmd
+          - text: "C05 Ind. in Seg./Rest.Conf. by Relig./Region Analysis"
+            href: scripts/analysis_c05.qmd
+          - text: "C06 Ind. in Seg./Rest.Conf. by Age/Region Analysis"
+            href: scripts/analysis_c06.qmd
+          - text: "C07 Ind. in Seg./Rest.Conf. - Alerts Analysis"
+            href: scripts/analysis_c07.qmd
+          - text: "C08 Ind. in Seg./Rest.Conf. by Relig./Gender Analysis"
+            href: scripts/analysis_c08.qmd
+          - text: "C09 Ind. in Seg./Rest.Conf. by Age/Gender Analysis"
+            href: scripts/analysis_c09.qmd
+          - text: "C10 Seg./Rest.Conf. Max/Med/Mode Agg. Dur. by Inst. Analysis"
+            href: scripts/analysis_c10.qmd
+          - text: "C11 Ind. in Seg./Rest.Conf. by Agg. Length Analysis"
+            href: scripts/analysis_c11.qmd
+          - text: "C12 Seg./Rest.Conf. Max/Med/Mode Agg. Dur. by Region Analysis"
+            href: scripts/analysis_c12.qmd
+      - section: "Deaths (D01-07)"
+        contents:
+          - text: "D01 Deaths in Custody - Detailed Analysis"
+            href: scripts/analysis_d01.qmd
+          - text: "D02 Deaths in Custody - Gender Analysis"
+            href: scripts/analysis_d02.qmd
+          - text: "D03 Deaths in Custody - Race Analysis"
+            href: scripts/analysis_d03.qmd
+          - text: "D04 Deaths in Custody - Religion Analysis"
+            href: scripts/analysis_d04.qmd
+          - text: "D05 Deaths in Custody - Age Analysis"
+            href: scripts/analysis_d05.qmd
+          - text: "D06 Deaths in Custody - Alerts/Cause Analysis"
+            href: scripts/analysis_d06.qmd
+          - text: "D07 Deaths in Custody - Alerts/Housing Analysis"
+            href: scripts/analysis_d07.qmd
+  title: "OTIS Report"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: readme.qmd
+        text: Overview
+      - href: DATA_DICTIONARY.html
+        text: Datasets
+      - text: Projects
+        menu:
+          - text: A01 Restrictive Confinement Detailed Dataset Report
+            href: https://vanshsinghruhela-stats-report-on-restrictive-confinement.share.connect.posit.cloud
+          - text: "B01 Seg. Detailed Dataset Analysis"
+            href: scripts/analysis_b01.qmd
+          - text: "B02 Seg. Total Days Analysis"
+            href: scripts/analysis_b02.qmd
+          - text: "B03 Seg. Placements Alerts and Hold Flags by Inst. Analysis"
+            href: scripts/analysis_b03.qmd
+          - text: "B04 Seg. Placements Max/Med/Mode Cons. Durations by Region Analysis"
+            href: scripts/analysis_b04.qmd
+          - text: "B05 Seg. Placements Dist. by Duration Analysis"
+            href: scripts/analysis_b05.qmd
+          - text: "B06 Seg. Placements Reason by Inst. Analysis"
+            href: scripts/analysis_b06.qmd
+          - text: "B07 Seg. Placements Alerts by Gender Analysis"
+            href: scripts/analysis_b07.qmd
+          - text: "B08 Seg. Placements Median/Mode Cons. Durations by Inst. Analysis"
+            href: scripts/analysis_b08.qmd
+          - text: "B09 Ind. in Seg. - Num. Placements Analysis"
+            href: scripts/analysis_b09.qmd
+          - text: "C01 Ind. in Seg./Rest.Conf. - Total Analysis"
+            href: scripts/analysis_c01.qmd
+          - text: "C02 Ind. in Seg./Rest.Conf. by Inst. Analysis"
+            href: scripts/analysis_c02.qmd
+          - text: "C03 Ind. in Seg./Rest.Conf. by Race/Gender Analysis"
+            href: scripts/analysis_c03.qmd
+          - text: "C04 Ind. in Seg./Rest.Conf. by Race/Region Analysis"
+            href: scripts/analysis_c04.qmd
+          - text: "C05 Ind. in Seg./Rest.Conf. by Relig./Region Analysis"
+            href: scripts/analysis_c05.qmd
+          - text: "C06 Ind. in Seg./Rest.Conf. by Age/Region Analysis"
+            href: scripts/analysis_c06.qmd
+          - text: "C07 Ind. in Seg./Rest.Conf. - Alerts Analysis"
+            href: scripts/analysis_c07.qmd
+          - text: "C08 Ind. in Seg./Rest.Conf. by Relig./Gender Analysis"
+            href: scripts/analysis_c08.qmd
+          - text: "C09 Ind. in Seg./Rest.Conf. by Age/Gender Analysis"
+            href: scripts/analysis_c09.qmd
+          - text: "C10 Seg./Rest.Conf. Max/Med/Mode Agg. Dur. by Inst. Analysis"
+            href: scripts/analysis_c10.qmd
+          - text: "C11 Ind. in Seg./Rest.Conf. by Agg. Length Analysis"
+            href: scripts/analysis_c11.qmd
+          - text: "C12 Seg./Rest.Conf. Max/Med/Mode Agg. Dur. by Region Analysis"
+            href: scripts/analysis_c12.qmd
+          - text: "D01 Deaths in Custody - Detailed Analysis"
+            href: scripts/analysis_d01.qmd
+          - text: "D02 Deaths in Custody - Gender Analysis"
+            href: scripts/analysis_d02.qmd
+          - text: "D03 Deaths in Custody - Race Analysis"
+            href: scripts/analysis_d03.qmd
+          - text: "D04 Deaths in Custody - Religion Analysis"
+            href: scripts/analysis_d04.qmd
+          - text: "D05 Deaths in Custody - Age Analysis"
+            href: scripts/analysis_d05.qmd
+          - text: "D06 Deaths in Custody - Alerts/Cause Analysis"
+            href: scripts/analysis_d06.qmd
+          - text: "D07 Deaths in Custody - Alerts/Housing Analysis"
+            href: scripts/analysis_d07.qmd
+
+
+format:
+  html:
+    toc: true # Table of contents for each page
+    code-fold: true # Allow code to be folded
+    code-summary: "Show code" # Text for the code folding summary
+    anchor-sections: true # Enable clickable links for sections
+    smooth-scroll: true # Smooth scrolling for navigation
+    theme: 
+      dark:
+        - darkly
+        - brand
+      light: 
+        - cosmo
+        - brand
+

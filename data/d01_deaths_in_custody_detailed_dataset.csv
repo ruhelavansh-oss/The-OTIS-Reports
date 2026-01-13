@@ -1,0 +1,117 @@
+﻿Year,UniqueIndividual_ID,Region_AtTimeOfDeath,HousingUnit_Type,MedicalCauseofDeath,MeansofDeath
+2022,2022-00001-DC,Central,General Population ,Other,To Be Determined
+2022,2022-00002-DC,Eastern,Specialized Care,Other,To Be Determined
+2022,2022-00003-DC,Western,Protective Custody,Other,To Be Determined
+2022,2022-00004-DC,Western,General Population,Other,To Be Determined
+2022,2022-00005-DC,Central,General Population,Drug Toxicity,To Be Determined
+2022,2022-00006-DC,Northern,Segregation,Other,To Be Determined
+2022,2022-00007-DC,Central,Specialized Care,Other,To Be Determined
+2022,2022-00008-DC,Toronto,Specialized Care,Drug Toxicity,To Be Determined
+2022,2022-00009-DC,Central,Segregation,Other,To Be Determined
+2022,2022-00010-DC,Central,General Population,Other,To Be Determined
+2022,2022-00011-DC,Northern,Segregation,Other,To Be Determined
+2022,2022-00012-DC,Central,Protective Custody,Drug Toxicity,To Be Determined
+2022,2022-00013-DC,Toronto,General Population,Drug Toxicity,To Be Determined
+2022,2022-00014-DC,Central,General Population,Natural Causes,To Be Determined
+2022,2022-00015-DC,Western,General Population,Other,To Be Determined
+2022,2022-00016-DC,Toronto,General Population,Drug Toxicity,To Be Determined
+2022,2022-00017-DC,Toronto,Specialized Care,Natural Causes,To Be Determined
+2022,2022-00018-DC,Northern,General Population,Other,To Be Determined
+2022,2022-00019-DC,Eastern,Outside of Facility,Other,To Be Determined
+2022,2022-00020-DC,Central,Segregation,Drug Toxicity,To Be Determined
+2022,2022-00021-DC,Central,General Population,Drug Toxicity,To Be Determined
+2022,2022-00022-DC,Northern,General Population,Natural Causes,To Be Determined
+2022,2022-00023-DC,Central,Protective Custody,Drug Toxicity,To Be Determined
+2022,2022-00024-DC,Eastern,Protective Custody,Other,To Be Determined
+2022,2022-00025-DC,Northern,General Population,Drug Toxicity,To Be Determined
+2022,2022-00026-DC,Central,Outside of Facility,Other,To Be Determined
+2022,2022-00027-DC,Northern,General Population,Other,To Be Determined
+2022,2022-00028-DC,Central,Protective Custody,Natural Causes,To Be Determined
+2022,2022-00029-DC,Western,General Population ,Natural Causes,To Be Determined
+2022,2022-00030-DC,Central,General Population,Other,To Be Determined
+2022,2022-00031-DC,Northern,Specialized Care,Natural Causes,To Be Determined
+2022,2022-00032-DC,Eastern,General Population,Drug Toxicity,To Be Determined
+2022,2022-00033-DC,Central,General Population,Drug Toxicity,To Be Determined
+2022,2022-00034-DC,Central,Outside of Facility,Natural Causes,To Be Determined
+2022,2022-00035-DC,Central,General Population,Drug Toxicity,To Be Determined
+2022,2022-00036-DC,Western,Protective Custody,Unknown / To Be Determined,To Be Determined
+2022,2022-00037-DC,Central,Segregation,Other,To Be Determined
+2023,2023-00001-DC,Toronto,General Population ,Drug Toxicity,To Be Determined
+2023,2023-00002-DC,Western,Protective Custody,Natural Causes,To Be Determined
+2023,2023-00003-DC,Northern,Protective Custody,Drug Toxicity,To Be Determined
+2023,2023-00004-DC,Northern,General Population ,Other,To Be Determined
+2023,2023-00005-DC,Central,General Population,Drug Toxicity,To Be Determined
+2023,2023-00006-DC,Central,General Population ,Drug Toxicity,To Be Determined
+2023,2023-00007-DC,Toronto,General Population,Drug Toxicity,To Be Determined
+2023,2023-00008-DC,Central,Protective Custody,Natural Causes,To Be Determined
+2023,2023-00009-DC,Western,Segregation,Drug Toxicity,To Be Determined
+2023,2023-00010-DC,Northern,General Population ,Drug Toxicity,To Be Determined
+2023,2023-00011-DC,Northern,Protective Custody,Other,To Be Determined
+2023,2023-00012-DC,Western,Protective Custody,Drug Toxicity,To Be Determined
+2023,2023-00013-DC,Toronto,Specialized Care,Other,To Be Determined
+2023,2023-00014-DC,Central,General Population ,Other,To Be Determined
+2023,2023-00015-DC,Eastern,Segregation,Drug Toxicity,To Be Determined
+2023,2023-00016-DC,Eastern,General Population ,Natural Causes,To Be Determined
+2023,2023-00017-DC,Central,Protective Custody,Drug Toxicity,To Be Determined
+2023,2023-00018-DC,Central,Protective Custody,Drug Toxicity,To Be Determined
+2023,2023-00019-DC,Northern,General Population ,Drug Toxicity,To Be Determined
+2023,2023-00020-DC,Central,Segregation,Drug Toxicity,To Be Determined
+2023,2023-00021-DC,Central,Outside of Facility,Other,To Be Determined
+2023,2023-00022-DC,Northern,General Population ,Drug Toxicity,To Be Determined
+2023,2023-00023-DC,Eastern,Segregation,Natural Causes,To Be Determined
+2023,2023-00024-DC,Northern,General Population ,Other,To Be Determined
+2023,2023-00025-DC,Toronto,Protective Custody,Drug Toxicity,To Be Determined
+2023,2023-00026-DC,Central,Protective Custody,Natural Causes,To Be Determined
+2023,2023-00027-DC,Western,Protective Custody,Natural Causes,To Be Determined
+2023,2023-00028-DC,Central,General Population ,Natural Causes,To Be Determined
+2023,2023-00029-DC,Toronto,Specialized Care,Natural Causes,To Be Determined
+2023,2023-00030-DC,Eastern,Protective Custody,Natural Causes,To Be Determined
+2023,2023-00031-DC,Central,Protective Custody,Drug Toxicity,To Be Determined
+2023,2023-00032-DC,Northern,Segregation,Natural Causes,To Be Determined
+2023,2023-00033-DC,Eastern,Specialized Care,Natural Causes,To Be Determined
+2024,2024-00001-DC,Central,General Population,Drug Toxicity,To Be Determined
+2024,2024-00002-DC,Central,General Population,Drug Toxicity,To Be Determined
+2024,2024-00003-DC,Central,Protective Custody,Natural Causes,To Be Determined
+2024,2024-00004-DC,Eastern,General Population,Drug Toxicity,To Be Determined
+2024,2024-00005-DC,Central,General Population,Natural Causes,To Be Determined
+2024,2024-00006-DC,Western,Protective Custody,Natural Causes,To Be Determined
+2024,2024-00007-DC,Central,Protective Custody,Natural Causes,To Be Determined
+2024,2024-00008-DC,Western,General Population,Natural Causes,To Be Determined
+2024,2024-00009-DC,Eastern,Protective Custody,Natural Causes,To Be Determined
+2024,2024-00010-DC,Central,Protective Custody,Other,To Be Determined
+2024,2024-00011-DC,Toronto,Protective Custody,Natural Causes,To Be Determined
+2024,2024-00012-DC,Eastern,General Population,Drug Toxicity,To Be Determined
+2024,2024-00013-DC,Toronto,Specialized Care,Drug Toxicity,To Be Determined
+2024,2024-00014-DC,Central,Specialized Care,Natural Causes,To Be Determined
+2024,2024-00015-DC,Central,Specialized Care,Natural Causes,To Be Determined
+2024,2024-00016-DC,Western,General Population,Natural Causes,To Be Determined
+2024,2024-00017-DC,Toronto,Specialized Care,Natural Causes,To Be Determined
+2024,2024-00018-DC,Central,General Population,Natural Causes,To Be Determined
+2024,2024-00019-DC,Eastern,General Population,Drug Toxicity,To Be Determined
+2024,2024-00020-DC,Western,Protective Custody,Drug Toxicity,To Be Determined
+2024,2024-00021-DC,Eastern,General Population,Drug Toxicity,To Be Determined
+2024,2024-00022-DC,Toronto,Specialized Care,Natural Causes,To Be Determined
+2024,2024-00023-DC,Northern,General Population,Natural Causes,To Be Determined
+2024,2024-00024-DC,Toronto,Specialized Care,Other,To Be Determined
+2024,2024-00025-DC,Toronto,Outside of Facility,Other,To Be Determined
+2024,2024-00026-DC,Central,Protective Custody,Drug Toxicity,To Be Determined
+2024,2024-00027-DC,Toronto,General Population,Other,To Be Determined
+2024,2024-00028-DC,Central,Segregation,Drug Toxicity,To Be Determined
+2024,2024-00029-DC,Eastern,Protective Custody,Drug Toxicity,To Be Determined
+2024,2024-00030-DC,Western,General Population,Natural Causes,To Be Determined
+2024,2024-00031-DC,Western,General Population,Other,To Be Determined
+2024,2024-00032-DC,Eastern,Protective Custody,Other,To Be Determined
+2024,2024-00033-DC,Western,Protective Custody,Drug Toxicity,To Be Determined
+2024,2024-00034-DC,Central,General Population,Drug Toxicity,To Be Determined
+2024,2024-00035-DC,Central,Specialized Care,Other,To Be Determined
+2024,2024-00036-DC,Toronto,Protective Custody,Other,To Be Determined
+2024,2024-00037-DC,Western,General Population,Drug Toxicity,To Be Determined
+2024,2024-00038-DC,Western,Segregation,Natural Causes,To Be Determined
+2024,2024-00039-DC,Northern,General Population,Drug Toxicity,To Be Determined
+2024,2024-00040-DC,Central,Protective Custody,Natural Causes,To Be Determined
+2024,2024-00041-DC,Northern,General Population,Drug Toxicity,To Be Determined
+2024,2024-00042-DC,Western,Protective Custody,Natural Causes,To Be Determined
+2024,2024-00043-DC,Toronto,General Population,Other,To Be Determined
+2024,2024-00044-DC,Central,General Population,Drug Toxicity,To Be Determined
+2024,2024-00045-DC,Western,Protective Custody,Natural Causes,To Be Determined
+2024,2024-00046-DC,Eastern,Segregation,Other,To Be Determined

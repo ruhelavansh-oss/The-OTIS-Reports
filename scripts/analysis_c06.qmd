@@ -1,0 +1,30 @@
+---
+title: "C06 Individuals in Segregation and Restrictive Confinement by Age Category and Region Analysis"
+format: html
+---
+
+# Analysis for C06 Individuals in Segregation and Restrictive Confinement by Age Category and Region
+
+This document presents the analysis for the `c06_individuals_in_segregation_and_restrictive_confinement_age_category_by_region.csv` dataset.
+
+```r
+# --- 1. SETUP ---
+# Load necessary libraries
+# install.packages("tidyverse")
+# install.packages("here")
+library(tidyverse)
+library(readr)
+library(here)
+
+# --- 2. DATA LOADING ---
+# Load the dataset from the 'data' directory
+c06df <- read_csv(here("data", "c06_individuals_in_segregation_and_restrictive_confinement_age_category_by_region.csv"))
+
+# --- 3. EXPLORATION ---
+# Get a first look at the data
+print(head(c06df))
+print(summary(c06df))
+
+# --- 4. ANALYSIS ---
+# Add your analysis code here
+```

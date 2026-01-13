@@ -1,0 +1,961 @@
+EndFiscalYear,Region_AtTimeOfPlacement,Institution_AtTimeOfPlacement,Gender,Reason,Number_SegregationPlacements
+2023,Central,Hamilton Wentworth Detention Centre,Female,Inmate Needs Protection,6
+2023,Central,Maplehurst Correctional Complex,Female,Inmate Needs Protection,1
+2023,Central,Niagara Detention Centre,Female,Inmate Needs Protection,0
+2023,Central,Vanier Centre for Women,Female,Inmate Needs Protection,41
+2023,Eastern,Brockville Jail,Female,Inmate Needs Protection,0
+2023,Eastern,Central East Correctional Centre,Female,Inmate Needs Protection,2
+2023,Eastern,Ottawa-Carleton Detention Centre,Female,Inmate Needs Protection,112
+2023,Eastern,Quinte Detention Centre,Female,Inmate Needs Protection,0
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Inmate Needs Protection,0
+2023,Northern,Algoma Treatment and Remand Centre,Female,Inmate Needs Protection,0
+2023,Northern,Fort Frances Jail,Female,Inmate Needs Protection,2
+2023,Northern,Kenora Jail,Female,Inmate Needs Protection,6
+2023,Northern,Monteith Correctional Complex,Female,Inmate Needs Protection,35
+2023,Northern,North Bay Jail,Female,Inmate Needs Protection,1
+2023,Northern,Sudbury Jail,Female,Inmate Needs Protection,8
+2023,Northern,Thunder Bay Correctional Centre,Female,Inmate Needs Protection,2
+2023,Northern,Thunder Bay Jail,Female,Inmate Needs Protection,0
+2023,Toronto,Toronto East Detention Centre,Female,Inmate Needs Protection,0
+2023,Toronto,Toronto South Detention Centre,Female,Inmate Needs Protection,3
+2023,Western,Central North Correctional Centre,Female,Inmate Needs Protection,0
+2023,Western,Elgin-Middlesex Detention Centre,Female,Inmate Needs Protection,32
+2023,Western,Sarnia Jail,Female,Inmate Needs Protection,7
+2023,Western,South West Detention Centre,Female,Inmate Needs Protection,1
+2023,Western,Stratford Jail,Female,Inmate Needs Protection,0
+2023,Central,Hamilton Wentworth Detention Centre,Male,Inmate Needs Protection,1482
+2023,Central,Maplehurst Correctional Complex,Male,Inmate Needs Protection,576
+2023,Central,Niagara Detention Centre,Male,Inmate Needs Protection,1613
+2023,Central,Vanier Centre for Women,Male,Inmate Needs Protection,0
+2023,Eastern,Brockville Jail,Male,Inmate Needs Protection,7
+2023,Eastern,Central East Correctional Centre,Male,Inmate Needs Protection,7
+2023,Eastern,Ottawa-Carleton Detention Centre,Male,Inmate Needs Protection,1253
+2023,Eastern,Quinte Detention Centre,Male,Inmate Needs Protection,1
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Inmate Needs Protection,2
+2023,Northern,Algoma Treatment and Remand Centre,Male,Inmate Needs Protection,32
+2023,Northern,Fort Frances Jail,Male,Inmate Needs Protection,4
+2023,Northern,Kenora Jail,Male,Inmate Needs Protection,3
+2023,Northern,Monteith Correctional Complex,Male,Inmate Needs Protection,248
+2023,Northern,North Bay Jail,Male,Inmate Needs Protection,11
+2023,Northern,Sudbury Jail,Male,Inmate Needs Protection,355
+2023,Northern,Thunder Bay Correctional Centre,Male,Inmate Needs Protection,1
+2023,Northern,Thunder Bay Jail,Male,Inmate Needs Protection,14
+2023,Toronto,Toronto East Detention Centre,Male,Inmate Needs Protection,217
+2023,Toronto,Toronto South Detention Centre,Male,Inmate Needs Protection,121
+2023,Western,Central North Correctional Centre,Male,Inmate Needs Protection,163
+2023,Western,Elgin-Middlesex Detention Centre,Male,Inmate Needs Protection,115
+2023,Western,Sarnia Jail,Male,Inmate Needs Protection,32
+2023,Western,South West Detention Centre,Male,Inmate Needs Protection,48
+2023,Western,Stratford Jail,Male,Inmate Needs Protection,1
+2023,Central,Hamilton Wentworth Detention Centre,Female,Security of Institution/Safety of Others,11
+2023,Central,Maplehurst Correctional Complex,Female,Security of Institution/Safety of Others,0
+2023,Central,Niagara Detention Centre,Female,Security of Institution/Safety of Others,0
+2023,Central,Vanier Centre for Women,Female,Security of Institution/Safety of Others,1221
+2023,Eastern,Brockville Jail,Female,Security of Institution/Safety of Others,0
+2023,Eastern,Central East Correctional Centre,Female,Security of Institution/Safety of Others,3
+2023,Eastern,Ottawa-Carleton Detention Centre,Female,Security of Institution/Safety of Others,29
+2023,Eastern,Quinte Detention Centre,Female,Security of Institution/Safety of Others,2
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Security of Institution/Safety of Others,0
+2023,Northern,Algoma Treatment and Remand Centre,Female,Security of Institution/Safety of Others,0
+2023,Northern,Fort Frances Jail,Female,Security of Institution/Safety of Others,1
+2023,Northern,Kenora Jail,Female,Security of Institution/Safety of Others,8
+2023,Northern,Monteith Correctional Complex,Female,Security of Institution/Safety of Others,12
+2023,Northern,North Bay Jail,Female,Security of Institution/Safety of Others,35
+2023,Northern,Sudbury Jail,Female,Security of Institution/Safety of Others,0
+2023,Northern,Thunder Bay Correctional Centre,Female,Security of Institution/Safety of Others,7
+2023,Northern,Thunder Bay Jail,Female,Security of Institution/Safety of Others,0
+2023,Toronto,Toronto East Detention Centre,Female,Security of Institution/Safety of Others,0
+2023,Toronto,Toronto South Detention Centre,Female,Security of Institution/Safety of Others,4
+2023,Western,Central North Correctional Centre,Female,Security of Institution/Safety of Others,192
+2023,Western,Elgin-Middlesex Detention Centre,Female,Security of Institution/Safety of Others,84
+2023,Western,Sarnia Jail,Female,Security of Institution/Safety of Others,24
+2023,Western,South West Detention Centre,Female,Security of Institution/Safety of Others,15
+2023,Western,Stratford Jail,Female,Security of Institution/Safety of Others,9
+2023,Central,Hamilton Wentworth Detention Centre,Male,Security of Institution/Safety of Others,306
+2023,Central,Maplehurst Correctional Complex,Male,Security of Institution/Safety of Others,217
+2023,Central,Niagara Detention Centre,Male,Security of Institution/Safety of Others,30
+2023,Central,Vanier Centre for Women,Male,Security of Institution/Safety of Others,21
+2023,Eastern,Brockville Jail,Male,Security of Institution/Safety of Others,11
+2023,Eastern,Central East Correctional Centre,Male,Security of Institution/Safety of Others,3
+2023,Eastern,Ottawa-Carleton Detention Centre,Male,Security of Institution/Safety of Others,139
+2023,Eastern,Quinte Detention Centre,Male,Security of Institution/Safety of Others,0
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Security of Institution/Safety of Others,2
+2023,Northern,Algoma Treatment and Remand Centre,Male,Security of Institution/Safety of Others,11
+2023,Northern,Fort Frances Jail,Male,Security of Institution/Safety of Others,0
+2023,Northern,Kenora Jail,Male,Security of Institution/Safety of Others,10
+2023,Northern,Monteith Correctional Complex,Male,Security of Institution/Safety of Others,60
+2023,Northern,North Bay Jail,Male,Security of Institution/Safety of Others,639
+2023,Northern,Sudbury Jail,Male,Security of Institution/Safety of Others,12
+2023,Northern,Thunder Bay Correctional Centre,Male,Security of Institution/Safety of Others,3
+2023,Northern,Thunder Bay Jail,Male,Security of Institution/Safety of Others,53
+2023,Toronto,Toronto East Detention Centre,Male,Security of Institution/Safety of Others,257
+2023,Toronto,Toronto South Detention Centre,Male,Security of Institution/Safety of Others,420
+2023,Western,Central North Correctional Centre,Male,Security of Institution/Safety of Others,2513
+2023,Western,Elgin-Middlesex Detention Centre,Male,Security of Institution/Safety of Others,176
+2023,Western,Sarnia Jail,Male,Security of Institution/Safety of Others,19
+2023,Western,South West Detention Centre,Male,Security of Institution/Safety of Others,398
+2023,Western,Stratford Jail,Male,Security of Institution/Safety of Others,1
+2023,Central,Hamilton Wentworth Detention Centre,Female,Security of Institution/Safety of Others: Medical,99
+2023,Central,Maplehurst Correctional Complex,Female,Security of Institution/Safety of Others: Medical,1
+2023,Central,Niagara Detention Centre,Female,Security of Institution/Safety of Others: Medical,0
+2023,Central,Vanier Centre for Women,Female,Security of Institution/Safety of Others: Medical,3446
+2023,Eastern,Brockville Jail,Female,Security of Institution/Safety of Others: Medical,0
+2023,Eastern,Central East Correctional Centre,Female,Security of Institution/Safety of Others: Medical,1
+2023,Eastern,Ottawa-Carleton Detention Centre,Female,Security of Institution/Safety of Others: Medical,13
+2023,Eastern,Quinte Detention Centre,Female,Security of Institution/Safety of Others: Medical,0
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Security of Institution/Safety of Others: Medical,0
+2023,Northern,Algoma Treatment and Remand Centre,Female,Security of Institution/Safety of Others: Medical,17
+2023,Northern,Fort Frances Jail,Female,Security of Institution/Safety of Others: Medical,2
+2023,Northern,Kenora Jail,Female,Security of Institution/Safety of Others: Medical,50
+2023,Northern,Monteith Correctional Complex,Female,Security of Institution/Safety of Others: Medical,38
+2023,Northern,North Bay Jail,Female,Security of Institution/Safety of Others: Medical,7
+2023,Northern,Sudbury Jail,Female,Security of Institution/Safety of Others: Medical,0
+2023,Northern,Thunder Bay Correctional Centre,Female,Security of Institution/Safety of Others: Medical,2
+2023,Northern,Thunder Bay Jail,Female,Security of Institution/Safety of Others: Medical,0
+2023,Toronto,Toronto East Detention Centre,Female,Security of Institution/Safety of Others: Medical,0
+2023,Toronto,Toronto South Detention Centre,Female,Security of Institution/Safety of Others: Medical,4
+2023,Western,Central North Correctional Centre,Female,Security of Institution/Safety of Others: Medical,26
+2023,Western,Elgin-Middlesex Detention Centre,Female,Security of Institution/Safety of Others: Medical,143
+2023,Western,Sarnia Jail,Female,Security of Institution/Safety of Others: Medical,32
+2023,Western,South West Detention Centre,Female,Security of Institution/Safety of Others: Medical,3
+2023,Western,Stratford Jail,Female,Security of Institution/Safety of Others: Medical,0
+2023,Central,Hamilton Wentworth Detention Centre,Male,Security of Institution/Safety of Others: Medical,8369
+2023,Central,Maplehurst Correctional Complex,Male,Security of Institution/Safety of Others: Medical,5132
+2023,Central,Niagara Detention Centre,Male,Security of Institution/Safety of Others: Medical,5
+2023,Central,Vanier Centre for Women,Male,Security of Institution/Safety of Others: Medical,46
+2023,Eastern,Brockville Jail,Male,Security of Institution/Safety of Others: Medical,8
+2023,Eastern,Central East Correctional Centre,Male,Security of Institution/Safety of Others: Medical,56
+2023,Eastern,Ottawa-Carleton Detention Centre,Male,Security of Institution/Safety of Others: Medical,29
+2023,Eastern,Quinte Detention Centre,Male,Security of Institution/Safety of Others: Medical,8
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Security of Institution/Safety of Others: Medical,1
+2023,Northern,Algoma Treatment and Remand Centre,Male,Security of Institution/Safety of Others: Medical,327
+2023,Northern,Fort Frances Jail,Male,Security of Institution/Safety of Others: Medical,3
+2023,Northern,Kenora Jail,Male,Security of Institution/Safety of Others: Medical,38
+2023,Northern,Monteith Correctional Complex,Male,Security of Institution/Safety of Others: Medical,146
+2023,Northern,North Bay Jail,Male,Security of Institution/Safety of Others: Medical,35
+2023,Northern,Sudbury Jail,Male,Security of Institution/Safety of Others: Medical,3
+2023,Northern,Thunder Bay Correctional Centre,Male,Security of Institution/Safety of Others: Medical,0
+2023,Northern,Thunder Bay Jail,Male,Security of Institution/Safety of Others: Medical,237
+2023,Toronto,Toronto East Detention Centre,Male,Security of Institution/Safety of Others: Medical,74
+2023,Toronto,Toronto South Detention Centre,Male,Security of Institution/Safety of Others: Medical,338
+2023,Western,Central North Correctional Centre,Male,Security of Institution/Safety of Others: Medical,363
+2023,Western,Elgin-Middlesex Detention Centre,Male,Security of Institution/Safety of Others: Medical,4919
+2023,Western,Sarnia Jail,Male,Security of Institution/Safety of Others: Medical,12
+2023,Western,South West Detention Centre,Male,Security of Institution/Safety of Others: Medical,2682
+2023,Western,Stratford Jail,Male,Security of Institution/Safety of Others: Medical,0
+2023,Central,Hamilton Wentworth Detention Centre,Female,Inmate Needs Protection: Medical,19
+2023,Central,Maplehurst Correctional Complex,Female,Inmate Needs Protection: Medical,4
+2023,Central,Niagara Detention Centre,Female,Inmate Needs Protection: Medical,0
+2023,Central,Vanier Centre for Women,Female,Inmate Needs Protection: Medical,1028
+2023,Eastern,Brockville Jail,Female,Inmate Needs Protection: Medical,0
+2023,Eastern,Central East Correctional Centre,Female,Inmate Needs Protection: Medical,184
+2023,Eastern,Ottawa-Carleton Detention Centre,Female,Inmate Needs Protection: Medical,91
+2023,Eastern,Quinte Detention Centre,Female,Inmate Needs Protection: Medical,1
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Inmate Needs Protection: Medical,0
+2023,Northern,Algoma Treatment and Remand Centre,Female,Inmate Needs Protection: Medical,5
+2023,Northern,Fort Frances Jail,Female,Inmate Needs Protection: Medical,4
+2023,Northern,Kenora Jail,Female,Inmate Needs Protection: Medical,36
+2023,Northern,Monteith Correctional Complex,Female,Inmate Needs Protection: Medical,22
+2023,Northern,North Bay Jail,Female,Inmate Needs Protection: Medical,0
+2023,Northern,Sudbury Jail,Female,Inmate Needs Protection: Medical,4
+2023,Northern,Thunder Bay Correctional Centre,Female,Inmate Needs Protection: Medical,1
+2023,Northern,Thunder Bay Jail,Female,Inmate Needs Protection: Medical,0
+2023,Toronto,Toronto East Detention Centre,Female,Inmate Needs Protection: Medical,0
+2023,Toronto,Toronto South Detention Centre,Female,Inmate Needs Protection: Medical,73
+2023,Western,Central North Correctional Centre,Female,Inmate Needs Protection: Medical,9
+2023,Western,Elgin-Middlesex Detention Centre,Female,Inmate Needs Protection: Medical,23
+2023,Western,Sarnia Jail,Female,Inmate Needs Protection: Medical,3
+2023,Western,South West Detention Centre,Female,Inmate Needs Protection: Medical,3
+2023,Western,Stratford Jail,Female,Inmate Needs Protection: Medical,0
+2023,Central,Hamilton Wentworth Detention Centre,Male,Inmate Needs Protection: Medical,1198
+2023,Central,Maplehurst Correctional Complex,Male,Inmate Needs Protection: Medical,2702
+2023,Central,Niagara Detention Centre,Male,Inmate Needs Protection: Medical,514
+2023,Central,Vanier Centre for Women,Male,Inmate Needs Protection: Medical,23
+2023,Eastern,Brockville Jail,Male,Inmate Needs Protection: Medical,1
+2023,Eastern,Central East Correctional Centre,Male,Inmate Needs Protection: Medical,4060
+2023,Eastern,Ottawa-Carleton Detention Centre,Male,Inmate Needs Protection: Medical,996
+2023,Eastern,Quinte Detention Centre,Male,Inmate Needs Protection: Medical,87
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Inmate Needs Protection: Medical,0
+2023,Northern,Algoma Treatment and Remand Centre,Male,Inmate Needs Protection: Medical,191
+2023,Northern,Fort Frances Jail,Male,Inmate Needs Protection: Medical,7
+2023,Northern,Kenora Jail,Male,Inmate Needs Protection: Medical,45
+2023,Northern,Monteith Correctional Complex,Male,Inmate Needs Protection: Medical,52
+2023,Northern,North Bay Jail,Male,Inmate Needs Protection: Medical,2
+2023,Northern,Sudbury Jail,Male,Inmate Needs Protection: Medical,81
+2023,Northern,Thunder Bay Correctional Centre,Male,Inmate Needs Protection: Medical,1
+2023,Northern,Thunder Bay Jail,Male,Inmate Needs Protection: Medical,47
+2023,Toronto,Toronto East Detention Centre,Male,Inmate Needs Protection: Medical,181
+2023,Toronto,Toronto South Detention Centre,Male,Inmate Needs Protection: Medical,3190
+2023,Western,Central North Correctional Centre,Male,Inmate Needs Protection: Medical,658
+2023,Western,Elgin-Middlesex Detention Centre,Male,Inmate Needs Protection: Medical,107
+2023,Western,Sarnia Jail,Male,Inmate Needs Protection: Medical,62
+2023,Western,South West Detention Centre,Male,Inmate Needs Protection: Medical,184
+2023,Western,Stratford Jail,Male,Inmate Needs Protection: Medical,2
+2023,Central,Hamilton Wentworth Detention Centre,Female,Inmate Refused Search/Scan,1
+2023,Central,Maplehurst Correctional Complex,Female,Inmate Refused Search/Scan,0
+2023,Central,Niagara Detention Centre,Female,Inmate Refused Search/Scan,0
+2023,Central,Vanier Centre for Women,Female,Inmate Refused Search/Scan,0
+2023,Eastern,Brockville Jail,Female,Inmate Refused Search/Scan,0
+2023,Eastern,Central East Correctional Centre,Female,Inmate Refused Search/Scan,2
+2023,Eastern,Ottawa-Carleton Detention Centre,Female,Inmate Refused Search/Scan,0
+2023,Eastern,Quinte Detention Centre,Female,Inmate Refused Search/Scan,0
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Inmate Refused Search/Scan,0
+2023,Northern,Algoma Treatment and Remand Centre,Female,Inmate Refused Search/Scan,0
+2023,Northern,Fort Frances Jail,Female,Inmate Refused Search/Scan,0
+2023,Northern,Kenora Jail,Female,Inmate Refused Search/Scan,0
+2023,Northern,Monteith Correctional Complex,Female,Inmate Refused Search/Scan,0
+2023,Northern,North Bay Jail,Female,Inmate Refused Search/Scan,0
+2023,Northern,Sudbury Jail,Female,Inmate Refused Search/Scan,0
+2023,Northern,Thunder Bay Correctional Centre,Female,Inmate Refused Search/Scan,0
+2023,Northern,Thunder Bay Jail,Female,Inmate Refused Search/Scan,0
+2023,Toronto,Toronto East Detention Centre,Female,Inmate Refused Search/Scan,0
+2023,Toronto,Toronto South Detention Centre,Female,Inmate Refused Search/Scan,0
+2023,Western,Central North Correctional Centre,Female,Inmate Refused Search/Scan,0
+2023,Western,Elgin-Middlesex Detention Centre,Female,Inmate Refused Search/Scan,0
+2023,Western,Sarnia Jail,Female,Inmate Refused Search/Scan,1
+2023,Western,South West Detention Centre,Female,Inmate Refused Search/Scan,0
+2023,Western,Stratford Jail,Female,Inmate Refused Search/Scan,0
+2023,Central,Hamilton Wentworth Detention Centre,Male,Inmate Refused Search/Scan,3
+2023,Central,Maplehurst Correctional Complex,Male,Inmate Refused Search/Scan,0
+2023,Central,Niagara Detention Centre,Male,Inmate Refused Search/Scan,1
+2023,Central,Vanier Centre for Women,Male,Inmate Refused Search/Scan,0
+2023,Eastern,Brockville Jail,Male,Inmate Refused Search/Scan,0
+2023,Eastern,Central East Correctional Centre,Male,Inmate Refused Search/Scan,1
+2023,Eastern,Ottawa-Carleton Detention Centre,Male,Inmate Refused Search/Scan,1
+2023,Eastern,Quinte Detention Centre,Male,Inmate Refused Search/Scan,0
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Inmate Refused Search/Scan,0
+2023,Northern,Algoma Treatment and Remand Centre,Male,Inmate Refused Search/Scan,0
+2023,Northern,Fort Frances Jail,Male,Inmate Refused Search/Scan,1
+2023,Northern,Kenora Jail,Male,Inmate Refused Search/Scan,0
+2023,Northern,Monteith Correctional Complex,Male,Inmate Refused Search/Scan,1
+2023,Northern,North Bay Jail,Male,Inmate Refused Search/Scan,0
+2023,Northern,Sudbury Jail,Male,Inmate Refused Search/Scan,0
+2023,Northern,Thunder Bay Correctional Centre,Male,Inmate Refused Search/Scan,0
+2023,Northern,Thunder Bay Jail,Male,Inmate Refused Search/Scan,0
+2023,Toronto,Toronto East Detention Centre,Male,Inmate Refused Search/Scan,4
+2023,Toronto,Toronto South Detention Centre,Male,Inmate Refused Search/Scan,1
+2023,Western,Central North Correctional Centre,Male,Inmate Refused Search/Scan,0
+2023,Western,Elgin-Middlesex Detention Centre,Male,Inmate Refused Search/Scan,2
+2023,Western,Sarnia Jail,Male,Inmate Refused Search/Scan,2
+2023,Western,South West Detention Centre,Male,Inmate Refused Search/Scan,0
+2023,Western,Stratford Jail,Male,Inmate Refused Search/Scan,0
+2023,Central,Hamilton Wentworth Detention Centre,Female,Close Confinement (Disciplinary Segregation),0
+2023,Central,Maplehurst Correctional Complex,Female,Close Confinement (Disciplinary Segregation),0
+2023,Central,Niagara Detention Centre,Female,Close Confinement (Disciplinary Segregation),0
+2023,Central,Vanier Centre for Women,Female,Close Confinement (Disciplinary Segregation),2
+2023,Eastern,Brockville Jail,Female,Close Confinement (Disciplinary Segregation),0
+2023,Eastern,Central East Correctional Centre,Female,Close Confinement (Disciplinary Segregation),2
+2023,Eastern,Ottawa-Carleton Detention Centre,Female,Close Confinement (Disciplinary Segregation),13
+2023,Eastern,Quinte Detention Centre,Female,Close Confinement (Disciplinary Segregation),1
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Close Confinement (Disciplinary Segregation),0
+2023,Northern,Algoma Treatment and Remand Centre,Female,Close Confinement (Disciplinary Segregation),0
+2023,Northern,Fort Frances Jail,Female,Close Confinement (Disciplinary Segregation),0
+2023,Northern,Kenora Jail,Female,Close Confinement (Disciplinary Segregation),5
+2023,Northern,Monteith Correctional Complex,Female,Close Confinement (Disciplinary Segregation),1
+2023,Northern,North Bay Jail,Female,Close Confinement (Disciplinary Segregation),0
+2023,Northern,Sudbury Jail,Female,Close Confinement (Disciplinary Segregation),2
+2023,Northern,Thunder Bay Correctional Centre,Female,Close Confinement (Disciplinary Segregation),0
+2023,Northern,Thunder Bay Jail,Female,Close Confinement (Disciplinary Segregation),0
+2023,Toronto,Toronto East Detention Centre,Female,Close Confinement (Disciplinary Segregation),0
+2023,Toronto,Toronto South Detention Centre,Female,Close Confinement (Disciplinary Segregation),0
+2023,Western,Central North Correctional Centre,Female,Close Confinement (Disciplinary Segregation),0
+2023,Western,Elgin-Middlesex Detention Centre,Female,Close Confinement (Disciplinary Segregation),0
+2023,Western,Sarnia Jail,Female,Close Confinement (Disciplinary Segregation),1
+2023,Western,South West Detention Centre,Female,Close Confinement (Disciplinary Segregation),5
+2023,Western,Stratford Jail,Female,Close Confinement (Disciplinary Segregation),0
+2023,Central,Hamilton Wentworth Detention Centre,Male,Close Confinement (Disciplinary Segregation),1
+2023,Central,Maplehurst Correctional Complex,Male,Close Confinement (Disciplinary Segregation),3
+2023,Central,Niagara Detention Centre,Male,Close Confinement (Disciplinary Segregation),7
+2023,Central,Vanier Centre for Women,Male,Close Confinement (Disciplinary Segregation),0
+2023,Eastern,Brockville Jail,Male,Close Confinement (Disciplinary Segregation),0
+2023,Eastern,Central East Correctional Centre,Male,Close Confinement (Disciplinary Segregation),2
+2023,Eastern,Ottawa-Carleton Detention Centre,Male,Close Confinement (Disciplinary Segregation),97
+2023,Eastern,Quinte Detention Centre,Male,Close Confinement (Disciplinary Segregation),0
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Close Confinement (Disciplinary Segregation),0
+2023,Northern,Algoma Treatment and Remand Centre,Male,Close Confinement (Disciplinary Segregation),6
+2023,Northern,Fort Frances Jail,Male,Close Confinement (Disciplinary Segregation),1
+2023,Northern,Kenora Jail,Male,Close Confinement (Disciplinary Segregation),7
+2023,Northern,Monteith Correctional Complex,Male,Close Confinement (Disciplinary Segregation),3
+2023,Northern,North Bay Jail,Male,Close Confinement (Disciplinary Segregation),9
+2023,Northern,Sudbury Jail,Male,Close Confinement (Disciplinary Segregation),17
+2023,Northern,Thunder Bay Correctional Centre,Male,Close Confinement (Disciplinary Segregation),0
+2023,Northern,Thunder Bay Jail,Male,Close Confinement (Disciplinary Segregation),5
+2023,Toronto,Toronto East Detention Centre,Male,Close Confinement (Disciplinary Segregation),71
+2023,Toronto,Toronto South Detention Centre,Male,Close Confinement (Disciplinary Segregation),2
+2023,Western,Central North Correctional Centre,Male,Close Confinement (Disciplinary Segregation),67
+2023,Western,Elgin-Middlesex Detention Centre,Male,Close Confinement (Disciplinary Segregation),7
+2023,Western,Sarnia Jail,Male,Close Confinement (Disciplinary Segregation),1
+2023,Western,South West Detention Centre,Male,Close Confinement (Disciplinary Segregation),152
+2023,Western,Stratford Jail,Male,Close Confinement (Disciplinary Segregation),0
+2024,Central,Hamilton Wentworth Detention Centre,Female,Inmate Needs Protection,3
+2024,Central,Maplehurst Correctional Complex,Female,Inmate Needs Protection,3
+2024,Central,Niagara Detention Centre,Female,Inmate Needs Protection,0
+2024,Central,Vanier Centre for Women,Female,Inmate Needs Protection,37
+2024,Eastern,Brockville Jail,Female,Inmate Needs Protection,0
+2024,Eastern,Central East Correctional Centre,Female,Inmate Needs Protection,2
+2024,Eastern,Ottawa-Carleton Detention Centre,Female,Inmate Needs Protection,95
+2024,Eastern,Quinte Detention Centre,Female,Inmate Needs Protection,0
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Inmate Needs Protection,0
+2024,Northern,Algoma Treatment and Remand Centre,Female,Inmate Needs Protection,50
+2024,Northern,Fort Frances Jail,Female,Inmate Needs Protection,0
+2024,Northern,Kenora Jail,Female,Inmate Needs Protection,13
+2024,Northern,Monteith Correctional Complex,Female,Inmate Needs Protection,125
+2024,Northern,North Bay Jail,Female,Inmate Needs Protection,9
+2024,Northern,Sudbury Jail,Female,Inmate Needs Protection,86
+2024,Northern,Thunder Bay Correctional Centre,Female,Inmate Needs Protection,15
+2024,Northern,Thunder Bay Jail,Female,Inmate Needs Protection,0
+2024,Toronto,Toronto East Detention Centre,Female,Inmate Needs Protection,0
+2024,Toronto,Toronto South Detention Centre,Female,Inmate Needs Protection,21
+2024,Western,Central North Correctional Centre,Female,Inmate Needs Protection,0
+2024,Western,Elgin-Middlesex Detention Centre,Female,Inmate Needs Protection,1
+2024,Western,Sarnia Jail,Female,Inmate Needs Protection,5
+2024,Western,South West Detention Centre,Female,Inmate Needs Protection,0
+2024,Western,Stratford Jail,Female,Inmate Needs Protection,0
+2024,Central,Hamilton Wentworth Detention Centre,Male,Inmate Needs Protection,321
+2024,Central,Maplehurst Correctional Complex,Male,Inmate Needs Protection,783
+2024,Central,Niagara Detention Centre,Male,Inmate Needs Protection,2533
+2024,Central,Vanier Centre for Women,Male,Inmate Needs Protection,3
+2024,Eastern,Brockville Jail,Male,Inmate Needs Protection,16
+2024,Eastern,Central East Correctional Centre,Male,Inmate Needs Protection,33
+2024,Eastern,Ottawa-Carleton Detention Centre,Male,Inmate Needs Protection,689
+2024,Eastern,Quinte Detention Centre,Male,Inmate Needs Protection,0
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Inmate Needs Protection,0
+2024,Northern,Algoma Treatment and Remand Centre,Male,Inmate Needs Protection,603
+2024,Northern,Fort Frances Jail,Male,Inmate Needs Protection,4
+2024,Northern,Kenora Jail,Male,Inmate Needs Protection,7
+2024,Northern,Monteith Correctional Complex,Male,Inmate Needs Protection,352
+2024,Northern,North Bay Jail,Male,Inmate Needs Protection,34
+2024,Northern,Sudbury Jail,Male,Inmate Needs Protection,881
+2024,Northern,Thunder Bay Correctional Centre,Male,Inmate Needs Protection,4
+2024,Northern,Thunder Bay Jail,Male,Inmate Needs Protection,11
+2024,Toronto,Toronto East Detention Centre,Male,Inmate Needs Protection,2416
+2024,Toronto,Toronto South Detention Centre,Male,Inmate Needs Protection,434
+2024,Western,Central North Correctional Centre,Male,Inmate Needs Protection,19
+2024,Western,Elgin-Middlesex Detention Centre,Male,Inmate Needs Protection,28
+2024,Western,Sarnia Jail,Male,Inmate Needs Protection,19
+2024,Western,South West Detention Centre,Male,Inmate Needs Protection,57
+2024,Western,Stratford Jail,Male,Inmate Needs Protection,1
+2024,Central,Hamilton Wentworth Detention Centre,Female,Security of Institution/Safety of Others,16
+2024,Central,Maplehurst Correctional Complex,Female,Security of Institution/Safety of Others,1
+2024,Central,Niagara Detention Centre,Female,Security of Institution/Safety of Others,0
+2024,Central,Vanier Centre for Women,Female,Security of Institution/Safety of Others,87
+2024,Eastern,Brockville Jail,Female,Security of Institution/Safety of Others,0
+2024,Eastern,Central East Correctional Centre,Female,Security of Institution/Safety of Others,4
+2024,Eastern,Ottawa-Carleton Detention Centre,Female,Security of Institution/Safety of Others,86
+2024,Eastern,Quinte Detention Centre,Female,Security of Institution/Safety of Others,0
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Security of Institution/Safety of Others,0
+2024,Northern,Algoma Treatment and Remand Centre,Female,Security of Institution/Safety of Others,1
+2024,Northern,Fort Frances Jail,Female,Security of Institution/Safety of Others,0
+2024,Northern,Kenora Jail,Female,Security of Institution/Safety of Others,15
+2024,Northern,Monteith Correctional Complex,Female,Security of Institution/Safety of Others,13
+2024,Northern,North Bay Jail,Female,Security of Institution/Safety of Others,32
+2024,Northern,Sudbury Jail,Female,Security of Institution/Safety of Others,0
+2024,Northern,Thunder Bay Correctional Centre,Female,Security of Institution/Safety of Others,42
+2024,Northern,Thunder Bay Jail,Female,Security of Institution/Safety of Others,0
+2024,Toronto,Toronto East Detention Centre,Female,Security of Institution/Safety of Others,0
+2024,Toronto,Toronto South Detention Centre,Female,Security of Institution/Safety of Others,82
+2024,Western,Central North Correctional Centre,Female,Security of Institution/Safety of Others,126
+2024,Western,Elgin-Middlesex Detention Centre,Female,Security of Institution/Safety of Others,10
+2024,Western,Sarnia Jail,Female,Security of Institution/Safety of Others,9
+2024,Western,South West Detention Centre,Female,Security of Institution/Safety of Others,7
+2024,Western,Stratford Jail,Female,Security of Institution/Safety of Others,0
+2024,Central,Hamilton Wentworth Detention Centre,Male,Security of Institution/Safety of Others,77
+2024,Central,Maplehurst Correctional Complex,Male,Security of Institution/Safety of Others,225
+2024,Central,Niagara Detention Centre,Male,Security of Institution/Safety of Others,3
+2024,Central,Vanier Centre for Women,Male,Security of Institution/Safety of Others,14
+2024,Eastern,Brockville Jail,Male,Security of Institution/Safety of Others,8
+2024,Eastern,Central East Correctional Centre,Male,Security of Institution/Safety of Others,11
+2024,Eastern,Ottawa-Carleton Detention Centre,Male,Security of Institution/Safety of Others,76
+2024,Eastern,Quinte Detention Centre,Male,Security of Institution/Safety of Others,1
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Security of Institution/Safety of Others,0
+2024,Northern,Algoma Treatment and Remand Centre,Male,Security of Institution/Safety of Others,19
+2024,Northern,Fort Frances Jail,Male,Security of Institution/Safety of Others,7
+2024,Northern,Kenora Jail,Male,Security of Institution/Safety of Others,6
+2024,Northern,Monteith Correctional Complex,Male,Security of Institution/Safety of Others,77
+2024,Northern,North Bay Jail,Male,Security of Institution/Safety of Others,159
+2024,Northern,Sudbury Jail,Male,Security of Institution/Safety of Others,22
+2024,Northern,Thunder Bay Correctional Centre,Male,Security of Institution/Safety of Others,16
+2024,Northern,Thunder Bay Jail,Male,Security of Institution/Safety of Others,51
+2024,Toronto,Toronto East Detention Centre,Male,Security of Institution/Safety of Others,253
+2024,Toronto,Toronto South Detention Centre,Male,Security of Institution/Safety of Others,4725
+2024,Western,Central North Correctional Centre,Male,Security of Institution/Safety of Others,2800
+2024,Western,Elgin-Middlesex Detention Centre,Male,Security of Institution/Safety of Others,170
+2024,Western,Sarnia Jail,Male,Security of Institution/Safety of Others,22
+2024,Western,South West Detention Centre,Male,Security of Institution/Safety of Others,629
+2024,Western,Stratford Jail,Male,Security of Institution/Safety of Others,3
+2024,Central,Hamilton Wentworth Detention Centre,Female,Security of Institution/Safety of Others: Medical,143
+2024,Central,Maplehurst Correctional Complex,Female,Security of Institution/Safety of Others: Medical,3
+2024,Central,Niagara Detention Centre,Female,Security of Institution/Safety of Others: Medical,0
+2024,Central,Vanier Centre for Women,Female,Security of Institution/Safety of Others: Medical,854
+2024,Eastern,Brockville Jail,Female,Security of Institution/Safety of Others: Medical,0
+2024,Eastern,Central East Correctional Centre,Female,Security of Institution/Safety of Others: Medical,5
+2024,Eastern,Ottawa-Carleton Detention Centre,Female,Security of Institution/Safety of Others: Medical,9
+2024,Eastern,Quinte Detention Centre,Female,Security of Institution/Safety of Others: Medical,0
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Security of Institution/Safety of Others: Medical,0
+2024,Northern,Algoma Treatment and Remand Centre,Female,Security of Institution/Safety of Others: Medical,4
+2024,Northern,Fort Frances Jail,Female,Security of Institution/Safety of Others: Medical,0
+2024,Northern,Kenora Jail,Female,Security of Institution/Safety of Others: Medical,48
+2024,Northern,Monteith Correctional Complex,Female,Security of Institution/Safety of Others: Medical,15
+2024,Northern,North Bay Jail,Female,Security of Institution/Safety of Others: Medical,2
+2024,Northern,Sudbury Jail,Female,Security of Institution/Safety of Others: Medical,1
+2024,Northern,Thunder Bay Correctional Centre,Female,Security of Institution/Safety of Others: Medical,11
+2024,Northern,Thunder Bay Jail,Female,Security of Institution/Safety of Others: Medical,2
+2024,Toronto,Toronto East Detention Centre,Female,Security of Institution/Safety of Others: Medical,0
+2024,Toronto,Toronto South Detention Centre,Female,Security of Institution/Safety of Others: Medical,5
+2024,Western,Central North Correctional Centre,Female,Security of Institution/Safety of Others: Medical,3
+2024,Western,Elgin-Middlesex Detention Centre,Female,Security of Institution/Safety of Others: Medical,180
+2024,Western,Sarnia Jail,Female,Security of Institution/Safety of Others: Medical,25
+2024,Western,South West Detention Centre,Female,Security of Institution/Safety of Others: Medical,0
+2024,Western,Stratford Jail,Female,Security of Institution/Safety of Others: Medical,0
+2024,Central,Hamilton Wentworth Detention Centre,Male,Security of Institution/Safety of Others: Medical,4182
+2024,Central,Maplehurst Correctional Complex,Male,Security of Institution/Safety of Others: Medical,2571
+2024,Central,Niagara Detention Centre,Male,Security of Institution/Safety of Others: Medical,4
+2024,Central,Vanier Centre for Women,Male,Security of Institution/Safety of Others: Medical,4
+2024,Eastern,Brockville Jail,Male,Security of Institution/Safety of Others: Medical,0
+2024,Eastern,Central East Correctional Centre,Male,Security of Institution/Safety of Others: Medical,69
+2024,Eastern,Ottawa-Carleton Detention Centre,Male,Security of Institution/Safety of Others: Medical,16
+2024,Eastern,Quinte Detention Centre,Male,Security of Institution/Safety of Others: Medical,0
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Security of Institution/Safety of Others: Medical,0
+2024,Northern,Algoma Treatment and Remand Centre,Male,Security of Institution/Safety of Others: Medical,25
+2024,Northern,Fort Frances Jail,Male,Security of Institution/Safety of Others: Medical,5
+2024,Northern,Kenora Jail,Male,Security of Institution/Safety of Others: Medical,39
+2024,Northern,Monteith Correctional Complex,Male,Security of Institution/Safety of Others: Medical,33
+2024,Northern,North Bay Jail,Male,Security of Institution/Safety of Others: Medical,51
+2024,Northern,Sudbury Jail,Male,Security of Institution/Safety of Others: Medical,8
+2024,Northern,Thunder Bay Correctional Centre,Male,Security of Institution/Safety of Others: Medical,2
+2024,Northern,Thunder Bay Jail,Male,Security of Institution/Safety of Others: Medical,220
+2024,Toronto,Toronto East Detention Centre,Male,Security of Institution/Safety of Others: Medical,5
+2024,Toronto,Toronto South Detention Centre,Male,Security of Institution/Safety of Others: Medical,1001
+2024,Western,Central North Correctional Centre,Male,Security of Institution/Safety of Others: Medical,92
+2024,Western,Elgin-Middlesex Detention Centre,Male,Security of Institution/Safety of Others: Medical,1453
+2024,Western,Sarnia Jail,Male,Security of Institution/Safety of Others: Medical,23
+2024,Western,South West Detention Centre,Male,Security of Institution/Safety of Others: Medical,748
+2024,Western,Stratford Jail,Male,Security of Institution/Safety of Others: Medical,1
+2024,Central,Hamilton Wentworth Detention Centre,Female,Inmate Needs Protection: Medical,15
+2024,Central,Maplehurst Correctional Complex,Female,Inmate Needs Protection: Medical,4
+2024,Central,Niagara Detention Centre,Female,Inmate Needs Protection: Medical,0
+2024,Central,Vanier Centre for Women,Female,Inmate Needs Protection: Medical,1812
+2024,Eastern,Brockville Jail,Female,Inmate Needs Protection: Medical,0
+2024,Eastern,Central East Correctional Centre,Female,Inmate Needs Protection: Medical,348
+2024,Eastern,Ottawa-Carleton Detention Centre,Female,Inmate Needs Protection: Medical,114
+2024,Eastern,Quinte Detention Centre,Female,Inmate Needs Protection: Medical,0
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Inmate Needs Protection: Medical,0
+2024,Northern,Algoma Treatment and Remand Centre,Female,Inmate Needs Protection: Medical,2
+2024,Northern,Fort Frances Jail,Female,Inmate Needs Protection: Medical,0
+2024,Northern,Kenora Jail,Female,Inmate Needs Protection: Medical,94
+2024,Northern,Monteith Correctional Complex,Female,Inmate Needs Protection: Medical,88
+2024,Northern,North Bay Jail,Female,Inmate Needs Protection: Medical,1
+2024,Northern,Sudbury Jail,Female,Inmate Needs Protection: Medical,36
+2024,Northern,Thunder Bay Correctional Centre,Female,Inmate Needs Protection: Medical,12
+2024,Northern,Thunder Bay Jail,Female,Inmate Needs Protection: Medical,2
+2024,Toronto,Toronto East Detention Centre,Female,Inmate Needs Protection: Medical,0
+2024,Toronto,Toronto South Detention Centre,Female,Inmate Needs Protection: Medical,12
+2024,Western,Central North Correctional Centre,Female,Inmate Needs Protection: Medical,6
+2024,Western,Elgin-Middlesex Detention Centre,Female,Inmate Needs Protection: Medical,17
+2024,Western,Sarnia Jail,Female,Inmate Needs Protection: Medical,11
+2024,Western,South West Detention Centre,Female,Inmate Needs Protection: Medical,0
+2024,Western,Stratford Jail,Female,Inmate Needs Protection: Medical,0
+2024,Central,Hamilton Wentworth Detention Centre,Male,Inmate Needs Protection: Medical,499
+2024,Central,Maplehurst Correctional Complex,Male,Inmate Needs Protection: Medical,3176
+2024,Central,Niagara Detention Centre,Male,Inmate Needs Protection: Medical,719
+2024,Central,Vanier Centre for Women,Male,Inmate Needs Protection: Medical,32
+2024,Eastern,Brockville Jail,Male,Inmate Needs Protection: Medical,7
+2024,Eastern,Central East Correctional Centre,Male,Inmate Needs Protection: Medical,3663
+2024,Eastern,Ottawa-Carleton Detention Centre,Male,Inmate Needs Protection: Medical,933
+2024,Eastern,Quinte Detention Centre,Male,Inmate Needs Protection: Medical,0
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Inmate Needs Protection: Medical,0
+2024,Northern,Algoma Treatment and Remand Centre,Male,Inmate Needs Protection: Medical,43
+2024,Northern,Fort Frances Jail,Male,Inmate Needs Protection: Medical,3
+2024,Northern,Kenora Jail,Male,Inmate Needs Protection: Medical,140
+2024,Northern,Monteith Correctional Complex,Male,Inmate Needs Protection: Medical,119
+2024,Northern,North Bay Jail,Male,Inmate Needs Protection: Medical,7
+2024,Northern,Sudbury Jail,Male,Inmate Needs Protection: Medical,187
+2024,Northern,Thunder Bay Correctional Centre,Male,Inmate Needs Protection: Medical,4
+2024,Northern,Thunder Bay Jail,Male,Inmate Needs Protection: Medical,182
+2024,Toronto,Toronto East Detention Centre,Male,Inmate Needs Protection: Medical,126
+2024,Toronto,Toronto South Detention Centre,Male,Inmate Needs Protection: Medical,1223
+2024,Western,Central North Correctional Centre,Male,Inmate Needs Protection: Medical,1217
+2024,Western,Elgin-Middlesex Detention Centre,Male,Inmate Needs Protection: Medical,149
+2024,Western,Sarnia Jail,Male,Inmate Needs Protection: Medical,44
+2024,Western,South West Detention Centre,Male,Inmate Needs Protection: Medical,209
+2024,Western,Stratford Jail,Male,Inmate Needs Protection: Medical,1
+2024,Central,Hamilton Wentworth Detention Centre,Female, Other ,0
+2024,Central,Maplehurst Correctional Complex,Female, Other ,0
+2024,Central,Niagara Detention Centre,Female, Other ,0
+2024,Central,Vanier Centre for Women,Female, Other ,463
+2024,Eastern,Brockville Jail,Female, Other ,0
+2024,Eastern,Central East Correctional Centre,Female, Other ,0
+2024,Eastern,Ottawa-Carleton Detention Centre,Female, Other ,0
+2024,Eastern,Quinte Detention Centre,Female, Other ,0
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female, Other ,0
+2024,Northern,Algoma Treatment and Remand Centre,Female, Other ,0
+2024,Northern,Fort Frances Jail,Female, Other ,0
+2024,Northern,Kenora Jail,Female, Other ,0
+2024,Northern,Monteith Correctional Complex,Female, Other ,0
+2024,Northern,North Bay Jail,Female, Other ,0
+2024,Northern,Sudbury Jail,Female, Other ,0
+2024,Northern,Thunder Bay Correctional Centre,Female, Other ,0
+2024,Northern,Thunder Bay Jail,Female, Other ,0
+2024,Toronto,Toronto East Detention Centre,Female, Other ,0
+2024,Toronto,Toronto South Detention Centre,Female, Other ,0
+2024,Western,Central North Correctional Centre,Female, Other ,0
+2024,Western,Elgin-Middlesex Detention Centre,Female, Other ,10
+2024,Western,Sarnia Jail,Female, Other ,0
+2024,Western,South West Detention Centre,Female, Other ,0
+2024,Western,Stratford Jail,Female, Other ,0
+2024,Central,Hamilton Wentworth Detention Centre,Male, Other ,0
+2024,Central,Maplehurst Correctional Complex,Male, Other ,0
+2024,Central,Niagara Detention Centre,Male, Other ,0
+2024,Central,Vanier Centre for Women,Male, Other ,5
+2024,Eastern,Brockville Jail,Male, Other ,0
+2024,Eastern,Central East Correctional Centre,Male, Other ,0
+2024,Eastern,Ottawa-Carleton Detention Centre,Male, Other ,0
+2024,Eastern,Quinte Detention Centre,Male, Other ,0
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male, Other ,0
+2024,Northern,Algoma Treatment and Remand Centre,Male, Other ,0
+2024,Northern,Fort Frances Jail,Male, Other ,0
+2024,Northern,Kenora Jail,Male, Other ,0
+2024,Northern,Monteith Correctional Complex,Male, Other ,8
+2024,Northern,North Bay Jail,Male, Other ,0
+2024,Northern,Sudbury Jail,Male, Other ,0
+2024,Northern,Thunder Bay Correctional Centre,Male, Other ,0
+2024,Northern,Thunder Bay Jail,Male, Other ,37
+2024,Toronto,Toronto East Detention Centre,Male, Other ,0
+2024,Toronto,Toronto South Detention Centre,Male, Other ,0
+2024,Western,Central North Correctional Centre,Male, Other ,0
+2024,Western,Elgin-Middlesex Detention Centre,Male, Other ,612
+2024,Western,Sarnia Jail,Male, Other ,0
+2024,Western,South West Detention Centre,Male, Other ,0
+2024,Western,Stratford Jail,Male, Other ,0
+2024,Central,Hamilton Wentworth Detention Centre,Female,Inmate Refused Search/Scan,0
+2024,Central,Maplehurst Correctional Complex,Female,Inmate Refused Search/Scan,0
+2024,Central,Niagara Detention Centre,Female,Inmate Refused Search/Scan,0
+2024,Central,Vanier Centre for Women,Female,Inmate Refused Search/Scan,2
+2024,Eastern,Brockville Jail,Female,Inmate Refused Search/Scan,0
+2024,Eastern,Central East Correctional Centre,Female,Inmate Refused Search/Scan,0
+2024,Eastern,Ottawa-Carleton Detention Centre,Female,Inmate Refused Search/Scan,1
+2024,Eastern,Quinte Detention Centre,Female,Inmate Refused Search/Scan,0
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Inmate Refused Search/Scan,0
+2024,Northern,Algoma Treatment and Remand Centre,Female,Inmate Refused Search/Scan,0
+2024,Northern,Fort Frances Jail,Female,Inmate Refused Search/Scan,0
+2024,Northern,Kenora Jail,Female,Inmate Refused Search/Scan,0
+2024,Northern,Monteith Correctional Complex,Female,Inmate Refused Search/Scan,0
+2024,Northern,North Bay Jail,Female,Inmate Refused Search/Scan,0
+2024,Northern,Sudbury Jail,Female,Inmate Refused Search/Scan,1
+2024,Northern,Thunder Bay Correctional Centre,Female,Inmate Refused Search/Scan,4
+2024,Northern,Thunder Bay Jail,Female,Inmate Refused Search/Scan,0
+2024,Toronto,Toronto East Detention Centre,Female,Inmate Refused Search/Scan,0
+2024,Toronto,Toronto South Detention Centre,Female,Inmate Refused Search/Scan,0
+2024,Western,Central North Correctional Centre,Female,Inmate Refused Search/Scan,0
+2024,Western,Elgin-Middlesex Detention Centre,Female,Inmate Refused Search/Scan,0
+2024,Western,Sarnia Jail,Female,Inmate Refused Search/Scan,0
+2024,Western,South West Detention Centre,Female,Inmate Refused Search/Scan,3
+2024,Western,Stratford Jail,Female,Inmate Refused Search/Scan,0
+2024,Central,Hamilton Wentworth Detention Centre,Male,Inmate Refused Search/Scan,3
+2024,Central,Maplehurst Correctional Complex,Male,Inmate Refused Search/Scan,2
+2024,Central,Niagara Detention Centre,Male,Inmate Refused Search/Scan,2
+2024,Central,Vanier Centre for Women,Male,Inmate Refused Search/Scan,0
+2024,Eastern,Brockville Jail,Male,Inmate Refused Search/Scan,0
+2024,Eastern,Central East Correctional Centre,Male,Inmate Refused Search/Scan,5
+2024,Eastern,Ottawa-Carleton Detention Centre,Male,Inmate Refused Search/Scan,0
+2024,Eastern,Quinte Detention Centre,Male,Inmate Refused Search/Scan,0
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Inmate Refused Search/Scan,0
+2024,Northern,Algoma Treatment and Remand Centre,Male,Inmate Refused Search/Scan,0
+2024,Northern,Fort Frances Jail,Male,Inmate Refused Search/Scan,0
+2024,Northern,Kenora Jail,Male,Inmate Refused Search/Scan,2
+2024,Northern,Monteith Correctional Complex,Male,Inmate Refused Search/Scan,1
+2024,Northern,North Bay Jail,Male,Inmate Refused Search/Scan,0
+2024,Northern,Sudbury Jail,Male,Inmate Refused Search/Scan,3
+2024,Northern,Thunder Bay Correctional Centre,Male,Inmate Refused Search/Scan,0
+2024,Northern,Thunder Bay Jail,Male,Inmate Refused Search/Scan,2
+2024,Toronto,Toronto East Detention Centre,Male,Inmate Refused Search/Scan,2
+2024,Toronto,Toronto South Detention Centre,Male,Inmate Refused Search/Scan,11
+2024,Western,Central North Correctional Centre,Male,Inmate Refused Search/Scan,1
+2024,Western,Elgin-Middlesex Detention Centre,Male,Inmate Refused Search/Scan,0
+2024,Western,Sarnia Jail,Male,Inmate Refused Search/Scan,2
+2024,Western,South West Detention Centre,Male,Inmate Refused Search/Scan,2
+2024,Western,Stratford Jail,Male,Inmate Refused Search/Scan,0
+2024,Central,Hamilton Wentworth Detention Centre,Female, Close Confinement (Disciplinary Segregation) ,2
+2024,Central,Maplehurst Correctional Complex,Female, Close Confinement (Disciplinary Segregation) ,0
+2024,Central,Niagara Detention Centre,Female, Close Confinement (Disciplinary Segregation) ,0
+2024,Central,Vanier Centre for Women,Female, Close Confinement (Disciplinary Segregation) ,2
+2024,Eastern,Brockville Jail,Female, Close Confinement (Disciplinary Segregation) ,0
+2024,Eastern,Central East Correctional Centre,Female, Close Confinement (Disciplinary Segregation) ,0
+2024,Eastern,Ottawa-Carleton Detention Centre,Female, Close Confinement (Disciplinary Segregation) ,9
+2024,Eastern,Quinte Detention Centre,Female, Close Confinement (Disciplinary Segregation) ,0
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female, Close Confinement (Disciplinary Segregation) ,0
+2024,Northern,Algoma Treatment and Remand Centre,Female, Close Confinement (Disciplinary Segregation) ,0
+2024,Northern,Fort Frances Jail,Female, Close Confinement (Disciplinary Segregation) ,0
+2024,Northern,Kenora Jail,Female, Close Confinement (Disciplinary Segregation) ,14
+2024,Northern,Monteith Correctional Complex,Female, Close Confinement (Disciplinary Segregation) ,4
+2024,Northern,North Bay Jail,Female, Close Confinement (Disciplinary Segregation) ,0
+2024,Northern,Sudbury Jail,Female, Close Confinement (Disciplinary Segregation) ,1
+2024,Northern,Thunder Bay Correctional Centre,Female, Close Confinement (Disciplinary Segregation) ,1
+2024,Northern,Thunder Bay Jail,Female, Close Confinement (Disciplinary Segregation) ,0
+2024,Toronto,Toronto East Detention Centre,Female, Close Confinement (Disciplinary Segregation) ,0
+2024,Toronto,Toronto South Detention Centre,Female, Close Confinement (Disciplinary Segregation) ,0
+2024,Western,Central North Correctional Centre,Female, Close Confinement (Disciplinary Segregation) ,0
+2024,Western,Elgin-Middlesex Detention Centre,Female, Close Confinement (Disciplinary Segregation) ,1
+2024,Western,Sarnia Jail,Female, Close Confinement (Disciplinary Segregation) ,0
+2024,Western,South West Detention Centre,Female, Close Confinement (Disciplinary Segregation) ,0
+2024,Western,Stratford Jail,Female, Close Confinement (Disciplinary Segregation) ,0
+2024,Central,Hamilton Wentworth Detention Centre,Male, Close Confinement (Disciplinary Segregation) ,0
+2024,Central,Maplehurst Correctional Complex,Male, Close Confinement (Disciplinary Segregation) ,4
+2024,Central,Niagara Detention Centre,Male, Close Confinement (Disciplinary Segregation) ,2
+2024,Central,Vanier Centre for Women,Male, Close Confinement (Disciplinary Segregation) ,0
+2024,Eastern,Brockville Jail,Male, Close Confinement (Disciplinary Segregation) ,10
+2024,Eastern,Central East Correctional Centre,Male, Close Confinement (Disciplinary Segregation) ,2
+2024,Eastern,Ottawa-Carleton Detention Centre,Male, Close Confinement (Disciplinary Segregation) ,32
+2024,Eastern,Quinte Detention Centre,Male, Close Confinement (Disciplinary Segregation) ,0
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male, Close Confinement (Disciplinary Segregation) ,1
+2024,Northern,Algoma Treatment and Remand Centre,Male, Close Confinement (Disciplinary Segregation) ,2
+2024,Northern,Fort Frances Jail,Male, Close Confinement (Disciplinary Segregation) ,0
+2024,Northern,Kenora Jail,Male, Close Confinement (Disciplinary Segregation) ,6
+2024,Northern,Monteith Correctional Complex,Male, Close Confinement (Disciplinary Segregation) ,14
+2024,Northern,North Bay Jail,Male, Close Confinement (Disciplinary Segregation) ,19
+2024,Northern,Sudbury Jail,Male, Close Confinement (Disciplinary Segregation) ,16
+2024,Northern,Thunder Bay Correctional Centre,Male, Close Confinement (Disciplinary Segregation) ,2
+2024,Northern,Thunder Bay Jail,Male, Close Confinement (Disciplinary Segregation) ,3
+2024,Toronto,Toronto East Detention Centre,Male, Close Confinement (Disciplinary Segregation) ,61
+2024,Toronto,Toronto South Detention Centre,Male, Close Confinement (Disciplinary Segregation) ,0
+2024,Western,Central North Correctional Centre,Male, Close Confinement (Disciplinary Segregation) ,29
+2024,Western,Elgin-Middlesex Detention Centre,Male, Close Confinement (Disciplinary Segregation) ,2
+2024,Western,Sarnia Jail,Male, Close Confinement (Disciplinary Segregation) ,1
+2024,Western,South West Detention Centre,Male, Close Confinement (Disciplinary Segregation) ,135
+2024,Western,Stratford Jail,Male, Close Confinement (Disciplinary Segregation) ,0
+2025,Central,Hamilton Wentworth Detention Centre,Female,Inmate Needs Protection,6
+2025,Central,Maplehurst Correctional Complex,Female,Inmate Needs Protection,0
+2025,Central,Niagara Detention Centre,Female,Inmate Needs Protection,0
+2025,Central,Vanier Centre for Women,Female,Inmate Needs Protection,762
+2025,Eastern,Brockville Jail,Female,Inmate Needs Protection,0
+2025,Eastern,Central East Correctional Centre,Female,Inmate Needs Protection,6
+2025,Eastern,Ottawa-Carleton Detention Centre,Female,Inmate Needs Protection,339
+2025,Eastern,Quinte Detention Centre,Female,Inmate Needs Protection,119
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Inmate Needs Protection,0
+2025,Northern,Algoma Treatment and Remand Centre,Female,Inmate Needs Protection,169
+2025,Northern,Fort Frances Jail,Female,Inmate Needs Protection,0
+2025,Northern,Kenora Jail,Female,Inmate Needs Protection,48
+2025,Northern,Monteith Correctional Complex,Female,Inmate Needs Protection,354
+2025,Northern,North Bay Jail,Female,Inmate Needs Protection,10
+2025,Northern,Sudbury Jail,Female,Inmate Needs Protection,317
+2025,Northern,Thunder Bay Correctional Centre,Female,Inmate Needs Protection,49
+2025,Northern,Thunder Bay Jail,Female,Inmate Needs Protection,0
+2025,Toronto,Toronto East Detention Centre,Female,Inmate Needs Protection,2
+2025,Toronto,Toronto South Detention Centre,Female,Inmate Needs Protection,24
+2025,Western,Central North Correctional Centre,Female,Inmate Needs Protection,14
+2025,Western,Elgin-Middlesex Detention Centre,Female,Inmate Needs Protection,10
+2025,Western,Sarnia Jail,Female,Inmate Needs Protection,12
+2025,Western,South West Detention Centre,Female,Inmate Needs Protection,12
+2025,Western,Stratford Jail,Female,Inmate Needs Protection,0
+2025,Central,Hamilton Wentworth Detention Centre,Male,Inmate Needs Protection,76
+2025,Central,Maplehurst Correctional Complex,Male,Inmate Needs Protection,229
+2025,Central,Niagara Detention Centre,Male,Inmate Needs Protection,2452
+2025,Central,Vanier Centre for Women,Male,Inmate Needs Protection,24
+2025,Eastern,Brockville Jail,Male,Inmate Needs Protection,4
+2025,Eastern,Central East Correctional Centre,Male,Inmate Needs Protection,47
+2025,Eastern,Ottawa-Carleton Detention Centre,Male,Inmate Needs Protection,776
+2025,Eastern,Quinte Detention Centre,Male,Inmate Needs Protection,31
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Inmate Needs Protection,0
+2025,Northern,Algoma Treatment and Remand Centre,Male,Inmate Needs Protection,968
+2025,Northern,Fort Frances Jail,Male,Inmate Needs Protection,9
+2025,Northern,Kenora Jail,Male,Inmate Needs Protection,16
+2025,Northern,Monteith Correctional Complex,Male,Inmate Needs Protection,744
+2025,Northern,North Bay Jail,Male,Inmate Needs Protection,19
+2025,Northern,Sudbury Jail,Male,Inmate Needs Protection,1531
+2025,Northern,Thunder Bay Correctional Centre,Male,Inmate Needs Protection,30
+2025,Northern,Thunder Bay Jail,Male,Inmate Needs Protection,35
+2025,Toronto,Toronto East Detention Centre,Male,Inmate Needs Protection,1482
+2025,Toronto,Toronto South Detention Centre,Male,Inmate Needs Protection,1091
+2025,Western,Central North Correctional Centre,Male,Inmate Needs Protection,850
+2025,Western,Elgin-Middlesex Detention Centre,Male,Inmate Needs Protection,64
+2025,Western,Sarnia Jail,Male,Inmate Needs Protection,53
+2025,Western,South West Detention Centre,Male,Inmate Needs Protection,53
+2025,Western,Stratford Jail,Male,Inmate Needs Protection,4
+2025,Central,Hamilton Wentworth Detention Centre,Female,Security of Institution/Safety of Others,8
+2025,Central,Maplehurst Correctional Complex,Female,Security of Institution/Safety of Others,0
+2025,Central,Niagara Detention Centre,Female,Security of Institution/Safety of Others,0
+2025,Central,Vanier Centre for Women,Female,Security of Institution/Safety of Others,136
+2025,Eastern,Brockville Jail,Female,Security of Institution/Safety of Others,0
+2025,Eastern,Central East Correctional Centre,Female,Security of Institution/Safety of Others,1
+2025,Eastern,Ottawa-Carleton Detention Centre,Female,Security of Institution/Safety of Others,96
+2025,Eastern,Quinte Detention Centre,Female,Security of Institution/Safety of Others,9
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Security of Institution/Safety of Others,0
+2025,Northern,Algoma Treatment and Remand Centre,Female,Security of Institution/Safety of Others,0
+2025,Northern,Fort Frances Jail,Female,Security of Institution/Safety of Others,1
+2025,Northern,Kenora Jail,Female,Security of Institution/Safety of Others,12
+2025,Northern,Monteith Correctional Complex,Female,Security of Institution/Safety of Others,16
+2025,Northern,North Bay Jail,Female,Security of Institution/Safety of Others,37
+2025,Northern,Sudbury Jail,Female,Security of Institution/Safety of Others,4
+2025,Northern,Thunder Bay Correctional Centre,Female,Security of Institution/Safety of Others,75
+2025,Northern,Thunder Bay Jail,Female,Security of Institution/Safety of Others,0
+2025,Toronto,Toronto East Detention Centre,Female,Security of Institution/Safety of Others,0
+2025,Toronto,Toronto South Detention Centre,Female,Security of Institution/Safety of Others,2
+2025,Western,Central North Correctional Centre,Female,Security of Institution/Safety of Others,77
+2025,Western,Elgin-Middlesex Detention Centre,Female,Security of Institution/Safety of Others,18
+2025,Western,Sarnia Jail,Female,Security of Institution/Safety of Others,6
+2025,Western,South West Detention Centre,Female,Security of Institution/Safety of Others,61
+2025,Western,Stratford Jail,Female,Security of Institution/Safety of Others,0
+2025,Central,Hamilton Wentworth Detention Centre,Male,Security of Institution/Safety of Others,26
+2025,Central,Maplehurst Correctional Complex,Male,Security of Institution/Safety of Others,93
+2025,Central,Niagara Detention Centre,Male,Security of Institution/Safety of Others,1
+2025,Central,Vanier Centre for Women,Male,Security of Institution/Safety of Others,3
+2025,Eastern,Brockville Jail,Male,Security of Institution/Safety of Others,8
+2025,Eastern,Central East Correctional Centre,Male,Security of Institution/Safety of Others,42
+2025,Eastern,Ottawa-Carleton Detention Centre,Male,Security of Institution/Safety of Others,42
+2025,Eastern,Quinte Detention Centre,Male,Security of Institution/Safety of Others,13
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Security of Institution/Safety of Others,0
+2025,Northern,Algoma Treatment and Remand Centre,Male,Security of Institution/Safety of Others,9
+2025,Northern,Fort Frances Jail,Male,Security of Institution/Safety of Others,3
+2025,Northern,Kenora Jail,Male,Security of Institution/Safety of Others,32
+2025,Northern,Monteith Correctional Complex,Male,Security of Institution/Safety of Others,42
+2025,Northern,North Bay Jail,Male,Security of Institution/Safety of Others,119
+2025,Northern,Sudbury Jail,Male,Security of Institution/Safety of Others,42
+2025,Northern,Thunder Bay Correctional Centre,Male,Security of Institution/Safety of Others,70
+2025,Northern,Thunder Bay Jail,Male,Security of Institution/Safety of Others,7
+2025,Toronto,Toronto East Detention Centre,Male,Security of Institution/Safety of Others,70
+2025,Toronto,Toronto South Detention Centre,Male,Security of Institution/Safety of Others,533
+2025,Western,Central North Correctional Centre,Male,Security of Institution/Safety of Others,1563
+2025,Western,Elgin-Middlesex Detention Centre,Male,Security of Institution/Safety of Others,79
+2025,Western,Sarnia Jail,Male,Security of Institution/Safety of Others,42
+2025,Western,South West Detention Centre,Male,Security of Institution/Safety of Others,1046
+2025,Western,Stratford Jail,Male,Security of Institution/Safety of Others,6
+2025,Central,Hamilton Wentworth Detention Centre,Female,Security of Institution/Safety of Others: Medical,104
+2025,Central,Maplehurst Correctional Complex,Female,Security of Institution/Safety of Others: Medical,0
+2025,Central,Niagara Detention Centre,Female,Security of Institution/Safety of Others: Medical,0
+2025,Central,Vanier Centre for Women,Female,Security of Institution/Safety of Others: Medical,31
+2025,Eastern,Brockville Jail,Female,Security of Institution/Safety of Others: Medical,0
+2025,Eastern,Central East Correctional Centre,Female,Security of Institution/Safety of Others: Medical,4
+2025,Eastern,Ottawa-Carleton Detention Centre,Female,Security of Institution/Safety of Others: Medical,3
+2025,Eastern,Quinte Detention Centre,Female,Security of Institution/Safety of Others: Medical,28
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Security of Institution/Safety of Others: Medical,0
+2025,Northern,Algoma Treatment and Remand Centre,Female,Security of Institution/Safety of Others: Medical,0
+2025,Northern,Fort Frances Jail,Female,Security of Institution/Safety of Others: Medical,0
+2025,Northern,Kenora Jail,Female,Security of Institution/Safety of Others: Medical,12
+2025,Northern,Monteith Correctional Complex,Female,Security of Institution/Safety of Others: Medical,2
+2025,Northern,North Bay Jail,Female,Security of Institution/Safety of Others: Medical,1
+2025,Northern,Sudbury Jail,Female,Security of Institution/Safety of Others: Medical,0
+2025,Northern,Thunder Bay Correctional Centre,Female,Security of Institution/Safety of Others: Medical,30
+2025,Northern,Thunder Bay Jail,Female,Security of Institution/Safety of Others: Medical,0
+2025,Toronto,Toronto East Detention Centre,Female,Security of Institution/Safety of Others: Medical,0
+2025,Toronto,Toronto South Detention Centre,Female,Security of Institution/Safety of Others: Medical,15
+2025,Western,Central North Correctional Centre,Female,Security of Institution/Safety of Others: Medical,5
+2025,Western,Elgin-Middlesex Detention Centre,Female,Security of Institution/Safety of Others: Medical,174
+2025,Western,Sarnia Jail,Female,Security of Institution/Safety of Others: Medical,18
+2025,Western,South West Detention Centre,Female,Security of Institution/Safety of Others: Medical,10
+2025,Western,Stratford Jail,Female,Security of Institution/Safety of Others: Medical,0
+2025,Central,Hamilton Wentworth Detention Centre,Male,Security of Institution/Safety of Others: Medical,1707
+2025,Central,Maplehurst Correctional Complex,Male,Security of Institution/Safety of Others: Medical,207
+2025,Central,Niagara Detention Centre,Male,Security of Institution/Safety of Others: Medical,0
+2025,Central,Vanier Centre for Women,Male,Security of Institution/Safety of Others: Medical,1
+2025,Eastern,Brockville Jail,Male,Security of Institution/Safety of Others: Medical,2
+2025,Eastern,Central East Correctional Centre,Male,Security of Institution/Safety of Others: Medical,87
+2025,Eastern,Ottawa-Carleton Detention Centre,Male,Security of Institution/Safety of Others: Medical,11
+2025,Eastern,Quinte Detention Centre,Male,Security of Institution/Safety of Others: Medical,12
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Security of Institution/Safety of Others: Medical,0
+2025,Northern,Algoma Treatment and Remand Centre,Male,Security of Institution/Safety of Others: Medical,0
+2025,Northern,Fort Frances Jail,Male,Security of Institution/Safety of Others: Medical,0
+2025,Northern,Kenora Jail,Male,Security of Institution/Safety of Others: Medical,19
+2025,Northern,Monteith Correctional Complex,Male,Security of Institution/Safety of Others: Medical,0
+2025,Northern,North Bay Jail,Male,Security of Institution/Safety of Others: Medical,10
+2025,Northern,Sudbury Jail,Male,Security of Institution/Safety of Others: Medical,1
+2025,Northern,Thunder Bay Correctional Centre,Male,Security of Institution/Safety of Others: Medical,11
+2025,Northern,Thunder Bay Jail,Male,Security of Institution/Safety of Others: Medical,6
+2025,Toronto,Toronto East Detention Centre,Male,Security of Institution/Safety of Others: Medical,0
+2025,Toronto,Toronto South Detention Centre,Male,Security of Institution/Safety of Others: Medical,707
+2025,Western,Central North Correctional Centre,Male,Security of Institution/Safety of Others: Medical,95
+2025,Western,Elgin-Middlesex Detention Centre,Male,Security of Institution/Safety of Others: Medical,682
+2025,Western,Sarnia Jail,Male,Security of Institution/Safety of Others: Medical,26
+2025,Western,South West Detention Centre,Male,Security of Institution/Safety of Others: Medical,42
+2025,Western,Stratford Jail,Male,Security of Institution/Safety of Others: Medical,4
+2025,Central,Hamilton Wentworth Detention Centre,Female,Inmate Needs Protection: Medical,58
+2025,Central,Maplehurst Correctional Complex,Female,Inmate Needs Protection: Medical,14
+2025,Central,Niagara Detention Centre,Female,Inmate Needs Protection: Medical,0
+2025,Central,Vanier Centre for Women,Female,Inmate Needs Protection: Medical,1157
+2025,Eastern,Brockville Jail,Female,Inmate Needs Protection: Medical,0
+2025,Eastern,Central East Correctional Centre,Female,Inmate Needs Protection: Medical,106
+2025,Eastern,Ottawa-Carleton Detention Centre,Female,Inmate Needs Protection: Medical,156
+2025,Eastern,Quinte Detention Centre,Female,Inmate Needs Protection: Medical,60
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Inmate Needs Protection: Medical,0
+2025,Northern,Algoma Treatment and Remand Centre,Female,Inmate Needs Protection: Medical,2
+2025,Northern,Fort Frances Jail,Female,Inmate Needs Protection: Medical,2
+2025,Northern,Kenora Jail,Female,Inmate Needs Protection: Medical,214
+2025,Northern,Monteith Correctional Complex,Female,Inmate Needs Protection: Medical,46
+2025,Northern,North Bay Jail,Female,Inmate Needs Protection: Medical,10
+2025,Northern,Sudbury Jail,Female,Inmate Needs Protection: Medical,8
+2025,Northern,Thunder Bay Correctional Centre,Female,Inmate Needs Protection: Medical,30
+2025,Northern,Thunder Bay Jail,Female,Inmate Needs Protection: Medical,2
+2025,Toronto,Toronto East Detention Centre,Female,Inmate Needs Protection: Medical,2
+2025,Toronto,Toronto South Detention Centre,Female,Inmate Needs Protection: Medical,131
+2025,Western,Central North Correctional Centre,Female,Inmate Needs Protection: Medical,32
+2025,Western,Elgin-Middlesex Detention Centre,Female,Inmate Needs Protection: Medical,55
+2025,Western,Sarnia Jail,Female,Inmate Needs Protection: Medical,23
+2025,Western,South West Detention Centre,Female,Inmate Needs Protection: Medical,72
+2025,Western,Stratford Jail,Female,Inmate Needs Protection: Medical,0
+2025,Central,Hamilton Wentworth Detention Centre,Male,Inmate Needs Protection: Medical,1214
+2025,Central,Maplehurst Correctional Complex,Male,Inmate Needs Protection: Medical,5981
+2025,Central,Niagara Detention Centre,Male,Inmate Needs Protection: Medical,283
+2025,Central,Vanier Centre for Women,Male,Inmate Needs Protection: Medical,24
+2025,Eastern,Brockville Jail,Male,Inmate Needs Protection: Medical,13
+2025,Eastern,Central East Correctional Centre,Male,Inmate Needs Protection: Medical,4880
+2025,Eastern,Ottawa-Carleton Detention Centre,Male,Inmate Needs Protection: Medical,760
+2025,Eastern,Quinte Detention Centre,Male,Inmate Needs Protection: Medical,37
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Inmate Needs Protection: Medical,0
+2025,Northern,Algoma Treatment and Remand Centre,Male,Inmate Needs Protection: Medical,31
+2025,Northern,Fort Frances Jail,Male,Inmate Needs Protection: Medical,4
+2025,Northern,Kenora Jail,Male,Inmate Needs Protection: Medical,160
+2025,Northern,Monteith Correctional Complex,Male,Inmate Needs Protection: Medical,55
+2025,Northern,North Bay Jail,Male,Inmate Needs Protection: Medical,54
+2025,Northern,Sudbury Jail,Male,Inmate Needs Protection: Medical,10
+2025,Northern,Thunder Bay Correctional Centre,Male,Inmate Needs Protection: Medical,20
+2025,Northern,Thunder Bay Jail,Male,Inmate Needs Protection: Medical,431
+2025,Toronto,Toronto East Detention Centre,Male,Inmate Needs Protection: Medical,38
+2025,Toronto,Toronto South Detention Centre,Male,Inmate Needs Protection: Medical,6931
+2025,Western,Central North Correctional Centre,Male,Inmate Needs Protection: Medical,1308
+2025,Western,Elgin-Middlesex Detention Centre,Male,Inmate Needs Protection: Medical,381
+2025,Western,Sarnia Jail,Male,Inmate Needs Protection: Medical,143
+2025,Western,South West Detention Centre,Male,Inmate Needs Protection: Medical,510
+2025,Western,Stratford Jail,Male,Inmate Needs Protection: Medical,4
+2025,Central,Hamilton Wentworth Detention Centre,Female,Other,0
+2025,Central,Maplehurst Correctional Complex,Female,Other,0
+2025,Central,Niagara Detention Centre,Female,Other,0
+2025,Central,Vanier Centre for Women,Female,Other,665
+2025,Eastern,Brockville Jail,Female,Other,0
+2025,Eastern,Central East Correctional Centre,Female,Other,0
+2025,Eastern,Ottawa-Carleton Detention Centre,Female,Other,0
+2025,Eastern,Quinte Detention Centre,Female,Other,0
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Other,0
+2025,Northern,Algoma Treatment and Remand Centre,Female,Other,0
+2025,Northern,Fort Frances Jail,Female,Other,0
+2025,Northern,Kenora Jail,Female,Other,0
+2025,Northern,Monteith Correctional Complex,Female,Other,0
+2025,Northern,North Bay Jail,Female,Other,0
+2025,Northern,Sudbury Jail,Female,Other,0
+2025,Northern,Thunder Bay Correctional Centre,Female,Other,0
+2025,Northern,Thunder Bay Jail,Female,Other,0
+2025,Toronto,Toronto East Detention Centre,Female,Other,0
+2025,Toronto,Toronto South Detention Centre,Female,Other,0
+2025,Western,Central North Correctional Centre,Female,Other,0
+2025,Western,Elgin-Middlesex Detention Centre,Female,Other,9
+2025,Western,Sarnia Jail,Female,Other,0
+2025,Western,South West Detention Centre,Female,Other,0
+2025,Western,Stratford Jail,Female,Other,0
+2025,Central,Hamilton Wentworth Detention Centre,Male,Other,68
+2025,Central,Maplehurst Correctional Complex,Male,Other,0
+2025,Central,Niagara Detention Centre,Male,Other,0
+2025,Central,Vanier Centre for Women,Male,Other,7
+2025,Eastern,Brockville Jail,Male,Other,0
+2025,Eastern,Central East Correctional Centre,Male,Other,0
+2025,Eastern,Ottawa-Carleton Detention Centre,Male,Other,0
+2025,Eastern,Quinte Detention Centre,Male,Other,0
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Other,0
+2025,Northern,Algoma Treatment and Remand Centre,Male,Other,0
+2025,Northern,Fort Frances Jail,Male,Other,0
+2025,Northern,Kenora Jail,Male,Other,0
+2025,Northern,Monteith Correctional Complex,Male,Other,106
+2025,Northern,North Bay Jail,Male,Other,0
+2025,Northern,Sudbury Jail,Male,Other,0
+2025,Northern,Thunder Bay Correctional Centre,Male,Other,1
+2025,Northern,Thunder Bay Jail,Male,Other,209
+2025,Toronto,Toronto East Detention Centre,Male,Other,0
+2025,Toronto,Toronto South Detention Centre,Male,Other,0
+2025,Western,Central North Correctional Centre,Male,Other,1
+2025,Western,Elgin-Middlesex Detention Centre,Male,Other,307
+2025,Western,Sarnia Jail,Male,Other,0
+2025,Western,South West Detention Centre,Male,Other,0
+2025,Western,Stratford Jail,Male,Other,0
+2025,Central,Hamilton Wentworth Detention Centre,Female,Inmate Refused Search/Scan,1
+2025,Central,Maplehurst Correctional Complex,Female,Inmate Refused Search/Scan,0
+2025,Central,Niagara Detention Centre,Female,Inmate Refused Search/Scan,0
+2025,Central,Vanier Centre for Women,Female,Inmate Refused Search/Scan,1
+2025,Eastern,Brockville Jail,Female,Inmate Refused Search/Scan,0
+2025,Eastern,Central East Correctional Centre,Female,Inmate Refused Search/Scan,1
+2025,Eastern,Ottawa-Carleton Detention Centre,Female,Inmate Refused Search/Scan,0
+2025,Eastern,Quinte Detention Centre,Female,Inmate Refused Search/Scan,1
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Inmate Refused Search/Scan,0
+2025,Northern,Algoma Treatment and Remand Centre,Female,Inmate Refused Search/Scan,0
+2025,Northern,Fort Frances Jail,Female,Inmate Refused Search/Scan,0
+2025,Northern,Kenora Jail,Female,Inmate Refused Search/Scan,1
+2025,Northern,Monteith Correctional Complex,Female,Inmate Refused Search/Scan,0
+2025,Northern,North Bay Jail,Female,Inmate Refused Search/Scan,0
+2025,Northern,Sudbury Jail,Female,Inmate Refused Search/Scan,1
+2025,Northern,Thunder Bay Correctional Centre,Female,Inmate Refused Search/Scan,0
+2025,Northern,Thunder Bay Jail,Female,Inmate Refused Search/Scan,0
+2025,Toronto,Toronto East Detention Centre,Female,Inmate Refused Search/Scan,0
+2025,Toronto,Toronto South Detention Centre,Female,Inmate Refused Search/Scan,0
+2025,Western,Central North Correctional Centre,Female,Inmate Refused Search/Scan,0
+2025,Western,Elgin-Middlesex Detention Centre,Female,Inmate Refused Search/Scan,0
+2025,Western,Sarnia Jail,Female,Inmate Refused Search/Scan,0
+2025,Western,South West Detention Centre,Female,Inmate Refused Search/Scan,1
+2025,Western,Stratford Jail,Female,Inmate Refused Search/Scan,0
+2025,Central,Hamilton Wentworth Detention Centre,Male,Inmate Refused Search/Scan,0
+2025,Central,Maplehurst Correctional Complex,Male,Inmate Refused Search/Scan,1
+2025,Central,Niagara Detention Centre,Male,Inmate Refused Search/Scan,1
+2025,Central,Vanier Centre for Women,Male,Inmate Refused Search/Scan,0
+2025,Eastern,Brockville Jail,Male,Inmate Refused Search/Scan,0
+2025,Eastern,Central East Correctional Centre,Male,Inmate Refused Search/Scan,4
+2025,Eastern,Ottawa-Carleton Detention Centre,Male,Inmate Refused Search/Scan,0
+2025,Eastern,Quinte Detention Centre,Male,Inmate Refused Search/Scan,1
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Inmate Refused Search/Scan,0
+2025,Northern,Algoma Treatment and Remand Centre,Male,Inmate Refused Search/Scan,2
+2025,Northern,Fort Frances Jail,Male,Inmate Refused Search/Scan,0
+2025,Northern,Kenora Jail,Male,Inmate Refused Search/Scan,1
+2025,Northern,Monteith Correctional Complex,Male,Inmate Refused Search/Scan,0
+2025,Northern,North Bay Jail,Male,Inmate Refused Search/Scan,2
+2025,Northern,Sudbury Jail,Male,Inmate Refused Search/Scan,3
+2025,Northern,Thunder Bay Correctional Centre,Male,Inmate Refused Search/Scan,0
+2025,Northern,Thunder Bay Jail,Male,Inmate Refused Search/Scan,0
+2025,Toronto,Toronto East Detention Centre,Male,Inmate Refused Search/Scan,1
+2025,Toronto,Toronto South Detention Centre,Male,Inmate Refused Search/Scan,11
+2025,Western,Central North Correctional Centre,Male,Inmate Refused Search/Scan,0
+2025,Western,Elgin-Middlesex Detention Centre,Male,Inmate Refused Search/Scan,0
+2025,Western,Sarnia Jail,Male,Inmate Refused Search/Scan,0
+2025,Western,South West Detention Centre,Male,Inmate Refused Search/Scan,2
+2025,Western,Stratford Jail,Male,Inmate Refused Search/Scan,0
+2025,Central,Hamilton Wentworth Detention Centre,Female, Close Confinement (Disciplinary Segregation) ,0
+2025,Central,Maplehurst Correctional Complex,Female, Close Confinement (Disciplinary Segregation) ,0
+2025,Central,Niagara Detention Centre,Female, Close Confinement (Disciplinary Segregation) ,0
+2025,Central,Vanier Centre for Women,Female, Close Confinement (Disciplinary Segregation) ,1
+2025,Eastern,Brockville Jail,Female, Close Confinement (Disciplinary Segregation) ,0
+2025,Eastern,Central East Correctional Centre,Female, Close Confinement (Disciplinary Segregation) ,0
+2025,Eastern,Ottawa-Carleton Detention Centre,Female, Close Confinement (Disciplinary Segregation) ,4
+2025,Eastern,Quinte Detention Centre,Female, Close Confinement (Disciplinary Segregation) ,0
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female, Close Confinement (Disciplinary Segregation) ,0
+2025,Northern,Algoma Treatment and Remand Centre,Female, Close Confinement (Disciplinary Segregation) ,0
+2025,Northern,Fort Frances Jail,Female, Close Confinement (Disciplinary Segregation) ,0
+2025,Northern,Kenora Jail,Female, Close Confinement (Disciplinary Segregation) ,3
+2025,Northern,Monteith Correctional Complex,Female, Close Confinement (Disciplinary Segregation) ,5
+2025,Northern,North Bay Jail,Female, Close Confinement (Disciplinary Segregation) ,0
+2025,Northern,Sudbury Jail,Female, Close Confinement (Disciplinary Segregation) ,0
+2025,Northern,Thunder Bay Correctional Centre,Female, Close Confinement (Disciplinary Segregation) ,0
+2025,Northern,Thunder Bay Jail,Female, Close Confinement (Disciplinary Segregation) ,0
+2025,Toronto,Toronto East Detention Centre,Female, Close Confinement (Disciplinary Segregation) ,0
+2025,Toronto,Toronto South Detention Centre,Female, Close Confinement (Disciplinary Segregation) ,0
+2025,Western,Central North Correctional Centre,Female, Close Confinement (Disciplinary Segregation) ,0
+2025,Western,Elgin-Middlesex Detention Centre,Female, Close Confinement (Disciplinary Segregation) ,0
+2025,Western,Sarnia Jail,Female, Close Confinement (Disciplinary Segregation) ,1
+2025,Western,South West Detention Centre,Female, Close Confinement (Disciplinary Segregation) ,7
+2025,Western,Stratford Jail,Female, Close Confinement (Disciplinary Segregation) ,0
+2025,Central,Hamilton Wentworth Detention Centre,Male, Close Confinement (Disciplinary Segregation) ,0
+2025,Central,Maplehurst Correctional Complex,Male, Close Confinement (Disciplinary Segregation) ,7
+2025,Central,Niagara Detention Centre,Male, Close Confinement (Disciplinary Segregation) ,8
+2025,Central,Vanier Centre for Women,Male, Close Confinement (Disciplinary Segregation) ,0
+2025,Eastern,Brockville Jail,Male, Close Confinement (Disciplinary Segregation) ,2
+2025,Eastern,Central East Correctional Centre,Male, Close Confinement (Disciplinary Segregation) ,1
+2025,Eastern,Ottawa-Carleton Detention Centre,Male, Close Confinement (Disciplinary Segregation) ,10
+2025,Eastern,Quinte Detention Centre,Male, Close Confinement (Disciplinary Segregation) ,1
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male, Close Confinement (Disciplinary Segregation) ,0
+2025,Northern,Algoma Treatment and Remand Centre,Male, Close Confinement (Disciplinary Segregation) ,0
+2025,Northern,Fort Frances Jail,Male, Close Confinement (Disciplinary Segregation) ,0
+2025,Northern,Kenora Jail,Male, Close Confinement (Disciplinary Segregation) ,4
+2025,Northern,Monteith Correctional Complex,Male, Close Confinement (Disciplinary Segregation) ,25
+2025,Northern,North Bay Jail,Male, Close Confinement (Disciplinary Segregation) ,11
+2025,Northern,Sudbury Jail,Male, Close Confinement (Disciplinary Segregation) ,1
+2025,Northern,Thunder Bay Correctional Centre,Male, Close Confinement (Disciplinary Segregation) ,2
+2025,Northern,Thunder Bay Jail,Male, Close Confinement (Disciplinary Segregation) ,1
+2025,Toronto,Toronto East Detention Centre,Male, Close Confinement (Disciplinary Segregation) ,1
+2025,Toronto,Toronto South Detention Centre,Male, Close Confinement (Disciplinary Segregation) ,14
+2025,Western,Central North Correctional Centre,Male, Close Confinement (Disciplinary Segregation) ,10
+2025,Western,Elgin-Middlesex Detention Centre,Male, Close Confinement (Disciplinary Segregation) ,4
+2025,Western,Sarnia Jail,Male, Close Confinement (Disciplinary Segregation) ,0
+2025,Western,South West Detention Centre,Male, Close Confinement (Disciplinary Segregation) ,93
+2025,Western,Stratford Jail,Male, Close Confinement (Disciplinary Segregation) ,0

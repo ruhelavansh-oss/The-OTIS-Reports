@@ -1,0 +1,151 @@
+﻿EndFiscalYear,Region_MostRecentPlacement,Race,NumberIndividuals_RestrictiveConfinement,NumberIndividuals_Segregation
+2023,Central,White,2682,2608
+2023,Central,Black,862,695
+2023,Central,Indigenous,325,396
+2023,Central,South Asian,381,247
+2023,Central,Middle Eastern,163,137
+2023,Central,East Asian,169,104
+2023,Central,Latino,88,62
+2023,Central,Another Race Category,83,82
+2023,Central,More Than One Reported Race Category,382,320
+2023,Central,Unknown Or Not Reported,1446,1051
+2023,Eastern,White,2696,726
+2023,Eastern,Black,503,136
+2023,Eastern,Indigenous,395,121
+2023,Eastern,South Asian,49,21
+2023,Eastern,Middle Eastern,158,44
+2023,Eastern,East Asian,35,10
+2023,Eastern,Latino,59,12
+2023,Eastern,Another Race Category,50,15
+2023,Eastern,More Than One Reported Race Category,239,89
+2023,Eastern,Unknown Or Not Reported,803,238
+2023,Northern,White,922,462
+2023,Northern,Black,133,35
+2023,Northern,Indigenous,1384,403
+2023,Northern,South Asian,7,0
+2023,Northern,Middle Eastern,8,4
+2023,Northern,East Asian,7,1
+2023,Northern,Latino,7,0
+2023,Northern,Another Race Category,22,7
+2023,Northern,More Than One Reported Race Category,99,45
+2023,Northern,Unknown Or Not Reported,399,110
+2023,Toronto,White,714,303
+2023,Toronto,Black,806,412
+2023,Toronto,Indigenous,99,49
+2023,Toronto,South Asian,110,47
+2023,Toronto,Middle Eastern,86,31
+2023,Toronto,East Asian,87,18
+2023,Toronto,Latino,66,25
+2023,Toronto,Another Race Category,103,59
+2023,Toronto,More Than One Reported Race Category,110,61
+2023,Toronto,Unknown Or Not Reported,645,255
+2023,Western,White,1938,1818
+2023,Western,Black,263,268
+2023,Western,Indigenous,328,346
+2023,Western,South Asian,32,32
+2023,Western,Middle Eastern,80,65
+2023,Western,East Asian,16,15
+2023,Western,Latino,51,44
+2023,Western,Another Race Category,34,29
+2023,Western,More Than One Reported Race Category,138,175
+2023,Western,Unknown Or Not Reported,519,414
+2024,Central,White,2081,1659
+2024,Central,Black,597,438
+2024,Central,Indigenous,239,261
+2024,Central,South Asian,243,152
+2024,Central,Middle Eastern,108,68
+2024,Central,East Asian,101,56
+2024,Central,Latino,56,45
+2024,Central,Another Race Category,76,62
+2024,Central,More Than One Reported Race Category,337,283
+2024,Central,Unknown Or Not Reported,1197,852
+2024,Eastern,White,3248,750
+2024,Eastern,Black,637,135
+2024,Eastern,Indigenous,432,113
+2024,Eastern,South Asian,83,20
+2024,Eastern,Middle Eastern,179,40
+2024,Eastern,East Asian,51,10
+2024,Eastern,Latino,66,10
+2024,Eastern,Another Race Category,72,18
+2024,Eastern,More Than One Reported Race Category,348,67
+2024,Eastern,Unknown Or Not Reported,1266,266
+2024,Northern,White,765,438
+2024,Northern,Black,103,55
+2024,Northern,Indigenous,1081,506
+2024,Northern,South Asian,5,2
+2024,Northern,Middle Eastern,14,4
+2024,Northern,East Asian,2,1
+2024,Northern,Latino,10,4
+2024,Northern,Another Race Category,15,3
+2024,Northern,More Than One Reported Race Category,94,59
+2024,Northern,Unknown Or Not Reported,287,168
+2024,Toronto,White,599,421
+2024,Toronto,Black,664,530
+2024,Toronto,Indigenous,86,75
+2024,Toronto,South Asian,116,70
+2024,Toronto,Middle Eastern,77,53
+2024,Toronto,East Asian,72,43
+2024,Toronto,Latino,53,40
+2024,Toronto,Another Race Category,76,60
+2024,Toronto,More Than One Reported Race Category,84,73
+2024,Toronto,Unknown Or Not Reported,581,403
+2024,Western,White,1854,1353
+2024,Western,Black,225,199
+2024,Western,Indigenous,325,260
+2024,Western,South Asian,27,21
+2024,Western,Middle Eastern,89,64
+2024,Western,East Asian,16,9
+2024,Western,Latino,45,22
+2024,Western,Another Race Category,27,23
+2024,Western,More Than One Reported Race Category,227,190
+2024,Western,Unknown Or Not Reported,605,427
+2025,Central,Another Race Category,105,46
+2025,Central,Black,1009,272
+2025,Central,East Asian,188,24
+2025,Central,Indigenous,364,187
+2025,Central,Latino,107,43
+2025,Central,Middle Eastern,174,53
+2025,Central,More Than One Reported Race Category,365,248
+2025,Central,South Asian,360,64
+2025,Central,Unknown Or Not Reported,1956,711
+2025,Central,White,2963,1255
+2025,Eastern,Another Race Category,69,14
+2025,Eastern,Black,600,106
+2025,Eastern,East Asian,45,9
+2025,Eastern,Indigenous,404,89
+2025,Eastern,Latino,44,8
+2025,Eastern,Middle Eastern,155,36
+2025,Eastern,More Than One Reported Race Category,272,80
+2025,Eastern,South Asian,64,13
+2025,Eastern,Unknown Or Not Reported,1261,325
+2025,Eastern,White,2954,737
+2025,Northern,Another Race Category,18,10
+2025,Northern,Black,76,49
+2025,Northern,East Asian,5,1
+2025,Northern,Indigenous,1065,615
+2025,Northern,Latino,7,3
+2025,Northern,Middle Eastern,7,4
+2025,Northern,More Than One Reported Race Category,106,65
+2025,Northern,South Asian,4,1
+2025,Northern,Unknown Or Not Reported,315,187
+2025,Northern,White,729,485
+2025,Toronto,Another Race Category,142,42
+2025,Toronto,Black,1389,458
+2025,Toronto,East Asian,185,42
+2025,Toronto,Indigenous,194,55
+2025,Toronto,Latino,134,30
+2025,Toronto,Middle Eastern,185,55
+2025,Toronto,More Than One Reported Race Category,176,62
+2025,Toronto,South Asian,253,67
+2025,Toronto,Unknown Or Not Reported,1431,334
+2025,Toronto,White,1235,364
+2025,Western,Another Race Category,35,25
+2025,Western,Black,234,146
+2025,Western,East Asian,26,14
+2025,Western,Indigenous,389,253
+2025,Western,Latino,39,11
+2025,Western,Middle Eastern,87,35
+2025,Western,More Than One Reported Race Category,253,182
+2025,Western,South Asian,34,13
+2025,Western,Unknown Or Not Reported,705,378
+2025,Western,White,2128,1302

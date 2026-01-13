@@ -1,0 +1,31 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# Example code in package build process
+*-Ex.R
+
+# RStudio files
+.rstudio-themes/
+.rstudio-prefs
+
+# Knitr and R Markdown cached files
+*_cache/
+/cache/
+
+# renv folder
+/renv/
+renv.lock
+.renv/
+
+# R Environment files
+.Renviron
+
+/.quarto/
+**/*.quarto_ipynb

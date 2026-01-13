@@ -1,0 +1,42 @@
+﻿Year,Alert_Type,Housing_Type,Number_CustodialDeaths
+2022,Mental Health Alert,General Population ,2
+2022,Mental Health Alert,Specialized Care ,3
+2022,Mental Health Alert,Segregation ,1
+2022,Mental Health Alert,Outside of a Facility,0
+2022,Suicide Risk Alert,General Population,3
+2022,Suicide Risk Alert,Protective Custody ,2
+2022,Suicide Risk Alert,Specialized Care ,0
+2022,Suicide Risk Alert,Segregation ,1
+2022,Suicide Risk Alert,Outside of a Facility,0
+2022,Suicide Watch Alert,Protective Custody ,1
+2022,Suicide Watch Alert,Specialized Care ,0
+2022,Suicide Watch Alert,Segregation ,0
+2022,Suicide Watch Alert,Outside of a Facility,0
+2023,Mental Health Alert,General Population ,3
+2023,Mental Health Alert,Protective Custody ,1
+2023,Mental Health Alert,Specialized Care ,0
+2023,Mental Health Alert,Segregation ,1
+2023,Mental Health Alert,Outside of a Facility,0
+2023,Suicide Risk Alert,General Population,0
+2023,Suicide Risk Alert,Protective Custody ,0
+2023,Suicide Risk Alert,Specialized Care ,0
+2023,Suicide Risk Alert,Segregation ,1
+2023,Suicide Risk Alert,Outside of a Facility,0
+2023,Suicide Watch Alert,General Population ,0
+2023,Suicide Watch Alert,Protective Custody ,0
+2023,Suicide Watch Alert,Specialized Care ,0
+2023,Suicide Watch Alert,Segregation ,0
+2023,Suicide Watch Alert,Outside of a Facility,0
+2024,Mental Health Alert,General Population ,3
+2024,Mental Health Alert,Protective Custody ,1
+2024,Mental Health Alert,Specialized Care ,4
+2024,Mental Health Alert,Segregation ,1
+2024,Mental Health Alert,Outside of a Facility,0
+2024,Suicide Risk Alert,Protective Custody ,1
+2024,Suicide Risk Alert,Specialized Care ,0
+2024,Suicide Risk Alert,Segregation ,0
+2024,Suicide Risk Alert,Outside of a Facility,0
+2024,Suicide Watch Alert,General Population ,1
+2024,Suicide Watch Alert,Specialized Care ,0
+2024,Suicide Watch Alert,Segregation ,1
+2024,Suicide Watch Alert,Outside of a Facility,0

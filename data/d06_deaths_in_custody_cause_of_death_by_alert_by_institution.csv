@@ -1,0 +1,28 @@
+﻿Year,Alert_Type,MedicalCauseOfDeath,Number_CustodialDeaths
+2022,Mental Health Alert,Drug Toxicity,0
+2022,Mental Health Alert,Other,0
+2022,Mental Health Alert,Unknown / To Be Determined,6
+2022,Suicide Risk Alert,Drug Toxicity,0
+2022,Suicide Risk Alert,Other,1
+2022,Suicide Risk Alert,Unknown / To Be Determined,5
+2022,Suicide Watch Alert,Drug Toxicity,0
+2022,Suicide Watch Alert,Other,0
+2022,Suicide Watch Alert,Unknown / To Be Determined,1
+2023,Mental Health Alert,Drug Toxicity,3
+2023,Mental Health Alert,Other,1
+2023,Mental Health Alert,Natural Causes,1
+2023,Suicide Risk Alert,Drug Toxicity,1
+2023,Suicide Risk Alert,Other,0
+2023,Suicide Risk Alert,Natural Causes,0
+2023,Suicide Watch Alert,Drug Toxicity,0
+2023,Suicide Watch Alert,Other,0
+2023,Suicide Watch Alert,Natural Causes,0
+2024,Mental Health Alert,Drug Toxicity,4
+2024,Mental Health Alert,Natural Causes,5
+2024,Mental Health Alert,Other,0
+2024,Suicide Risk Alert,Drug Toxicity,0
+2024,Suicide Risk Alert,Natural Causes,1
+2024,Suicide Risk Alert,Other,0
+2024,Suicide Watch Alert,Drug Toxicity,1
+2024,Suicide Watch Alert,Natural Causes,0
+2024,Suicide Watch Alert,Other,1

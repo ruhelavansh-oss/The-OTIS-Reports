@@ -1,0 +1,37 @@
+﻿EndFiscalYear,Alert_Type,Gender,NumberIndividuals_InCustody,NumberIndividuals_RestrictiveConfinement,NumberIndividuals_Segregation
+2023,Transgender Alert,Female,116,56,71
+2023,Transgender Alert,Male,108,62,63
+2023,Mental Health Alert,Female,2054,569,1129
+2023,Mental Health Alert,Male,8513,4933,3390
+2023,Serious Mental Illness Alert,Female,388,65,219
+2023,Serious Mental Illness Alert,Male,1518,878,783
+2023,Suicide Risk Alert,Female,988,323,413
+2023,Suicide Risk Alert,Male,5776,2891,2517
+2023,Suicide Watch Alert,Female,361,65,147
+2023,Suicide Watch Alert,Male,3389,948,1717
+2023,Immigration Hold Flag,Female,35,,12
+2023,Immigration Hold Flag,Male,598,,90
+2024,Transgender Alert,Female,160,70,81
+2024,Transgender Alert,Male,152,103,79
+2024,Mental Health Alert,Female,2333,670,945
+2024,Mental Health Alert,Male,9185,4728,3263
+2024,Serious Mental Illness Alert,Female,539,152,240
+2024,Serious Mental Illness Alert,Male,2130,1282,1039
+2024,Suicide Risk Alert,Female,1245,447,453
+2024,Suicide Risk Alert,Male,6704,3169,2645
+2024,Suicide Watch Alert,Female,473,162,183
+2024,Suicide Watch Alert,Male,3797,1535,1806
+2024,Immigration Hold Flag,Female,35,,6
+2024,Immigration Hold Flag,Male,608,,78
+2025,Transgender Alert,Female,162,105,97
+2025,Transgender Alert,Male,190,148,101
+2025,Mental Health Alert,Female,2554,1136,1003
+2025,Mental Health Alert,Male,9386,5625,3052
+2025,Serious Mental Illness Alert,Female,587,261,247
+2025,Serious Mental Illness Alert,Male,2177,1421,980
+2025,Suicide Risk Alert,Female,1291,648,494
+2025,Suicide Risk Alert,Male,7046,3850,2779
+2025,Suicide Watch Alert,Female,470,251,208
+2025,Suicide Watch Alert,Male,4004,1960,2011
+2025,Immigration Hold Flag,Female,35,,5
+2025,Immigration Hold Flag,Male,582,,35

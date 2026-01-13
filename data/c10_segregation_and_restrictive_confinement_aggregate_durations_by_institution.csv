@@ -1,0 +1,667 @@
+EndFiscalYear,Region_MostRecentPlacement,Institution_MostRecentPlacement,Gender,Measure,TotalAggregatedDays_RestrictiveConfinement,TotalAggregatedDays_Segregation
+2023,Central,Hamilton Wentworth Detention Centre,Female,Maximum,1,
+2023,Central,Maplehurst Correctional Complex,Female,Maximum,0,
+2023,Central,Niagara Detention Centre,Female,Maximum,0,
+2023,Central,Vanier Centre for Women,Female,Maximum,0,
+2023,Eastern,Brockville Jail,Female,Maximum,0,
+2023,Eastern,Central East Correctional Centre,Female,Maximum,54,
+2023,Eastern,Ottawa-Carleton Detention Centre,Female,Maximum,238,
+2023,Eastern,Quinte Detention Centre,Female,Maximum,271,
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Maximum,0,
+2023,Northern,Algoma Treatment and Remand Centre,Female,Maximum,87,
+2023,Northern,Fort Frances Jail,Female,Maximum,0,
+2023,Northern,Kenora Jail,Female,Maximum,59,
+2023,Northern,Monteith Correctional Complex,Female,Maximum,0,
+2023,Northern,North Bay Jail,Female,Maximum,1,
+2023,Northern,Sudbury Jail,Female,Maximum,54,
+2023,Northern,Thunder Bay Correctional Centre,Female,Maximum,114,
+2023,Northern,Thunder Bay Jail,Female,Maximum,0,
+2023,Toronto,Toronto East Detention Centre,Female,Maximum,0,
+2023,Toronto,Toronto South Detention Centre,Female,Maximum,185,
+2023,Western,Central North Correctional Centre,Female,Maximum,0,
+2023,Western,Elgin-Middlesex Detention Centre,Female,Maximum,105,
+2023,Western,Sarnia Jail,Female,Maximum,35,
+2023,Western,South West Detention Centre,Female,Maximum,182,
+2023,Western,Stratford Jail,Female,Maximum,18,
+2023,Central,Hamilton Wentworth Detention Centre,Female,Median,1,5
+2023,Central,Maplehurst Correctional Complex,Female,Median,0,0
+2023,Central,Niagara Detention Centre,Female,Median,0,0
+2023,Central,Vanier Centre for Women,Female,Median,0,7
+2023,Eastern,Brockville Jail,Female,Median,0,0
+2023,Eastern,Central East Correctional Centre,Female,Median,4,4
+2023,Eastern,Ottawa-Carleton Detention Centre,Female,Median,12,3
+2023,Eastern,Quinte Detention Centre,Female,Median,13,5
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Median,0,0
+2023,Northern,Algoma Treatment and Remand Centre,Female,Median,5,2
+2023,Northern,Fort Frances Jail,Female,Median,0,3
+2023,Northern,Kenora Jail,Female,Median,8,4
+2023,Northern,Monteith Correctional Complex,Female,Median,0,2
+2023,Northern,North Bay Jail,Female,Median,1,2
+2023,Northern,Sudbury Jail,Female,Median,5,5
+2023,Northern,Thunder Bay Correctional Centre,Female,Median,9,1
+2023,Northern,Thunder Bay Jail,Female,Median,0,0
+2023,Toronto,Toronto East Detention Centre,Female,Median,0,0
+2023,Toronto,Toronto South Detention Centre,Female,Median,7.5,20
+2023,Western,Central North Correctional Centre,Female,Median,0,2
+2023,Western,Elgin-Middlesex Detention Centre,Female,Median,3,4
+2023,Western,Sarnia Jail,Female,Median,9,5
+2023,Western,South West Detention Centre,Female,Median,11.5,4
+2023,Western,Stratford Jail,Female,Median,18,0
+2023,Central,Hamilton Wentworth Detention Centre,Female,Mode,1,1
+2023,Central,Maplehurst Correctional Complex,Female,Mode,0,0
+2023,Central,Niagara Detention Centre,Female,Mode,0,0
+2023,Central,Vanier Centre for Women,Female,Mode,0,1
+2023,Eastern,Brockville Jail,Female,Mode,0,0
+2023,Eastern,Central East Correctional Centre,Female,Mode,4,1
+2023,Eastern,Ottawa-Carleton Detention Centre,Female,Mode,1,1
+2023,Eastern,Quinte Detention Centre,Female,Mode,2,
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Mode,0,0
+2023,Northern,Algoma Treatment and Remand Centre,Female,Mode,1,1
+2023,Northern,Fort Frances Jail,Female,Mode,0,
+2023,Northern,Kenora Jail,Female,Mode,1,2
+2023,Northern,Monteith Correctional Complex,Female,Mode,0,1
+2023,Northern,North Bay Jail,Female,Mode,1,1
+2023,Northern,Sudbury Jail,Female,Mode,1,1
+2023,Northern,Thunder Bay Correctional Centre,Female,Mode,9,1
+2023,Northern,Thunder Bay Jail,Female,Mode,0,0
+2023,Toronto,Toronto East Detention Centre,Female,Mode,0,0
+2023,Toronto,Toronto South Detention Centre,Female,Mode,1,20
+2023,Western,Central North Correctional Centre,Female,Mode,0,1
+2023,Western,Elgin-Middlesex Detention Centre,Female,Mode,1,1
+2023,Western,Sarnia Jail,Female,Mode,3,5
+2023,Western,South West Detention Centre,Female,Mode,12,4
+2023,Western,Stratford Jail,Female,Mode,18,0
+2023,Central,Hamilton Wentworth Detention Centre,Male,Maximum,142,
+2023,Central,Maplehurst Correctional Complex,Male,Maximum,362,
+2023,Central,Niagara Detention Centre,Male,Maximum,182,
+2023,Central,Vanier Centre for Women,Male,Maximum,0,
+2023,Eastern,Brockville Jail,Male,Maximum,218,
+2023,Eastern,Central East Correctional Centre,Male,Maximum,289,
+2023,Eastern,Ottawa-Carleton Detention Centre,Male,Maximum,361,
+2023,Eastern,Quinte Detention Centre,Male,Maximum,316,
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Maximum,0,
+2023,Northern,Algoma Treatment and Remand Centre,Male,Maximum,345,
+2023,Northern,Fort Frances Jail,Male,Maximum,0,
+2023,Northern,Kenora Jail,Male,Maximum,85,
+2023,Northern,Monteith Correctional Complex,Male,Maximum,0,
+2023,Northern,North Bay Jail,Male,Maximum,14,
+2023,Northern,Sudbury Jail,Male,Maximum,221,
+2023,Northern,Thunder Bay Correctional Centre,Male,Maximum,0,
+2023,Northern,Thunder Bay Jail,Male,Maximum,312,
+2023,Toronto,Toronto East Detention Centre,Male,Maximum,0,
+2023,Toronto,Toronto South Detention Centre,Male,Maximum,361,
+2023,Western,Central North Correctional Centre,Male,Maximum,0,
+2023,Western,Elgin-Middlesex Detention Centre,Male,Maximum,160,
+2023,Western,Sarnia Jail,Male,Maximum,65,
+2023,Western,South West Detention Centre,Male,Maximum,226,
+2023,Western,Stratford Jail,Male,Maximum,65,
+2023,Central,Hamilton Wentworth Detention Centre,Male,Median,6,6
+2023,Central,Maplehurst Correctional Complex,Male,Median,9,3
+2023,Central,Niagara Detention Centre,Male,Median,11,11
+2023,Central,Vanier Centre for Women,Male,Median,0,8.5
+2023,Eastern,Brockville Jail,Male,Median,12,1
+2023,Eastern,Central East Correctional Centre,Male,Median,6,5
+2023,Eastern,Ottawa-Carleton Detention Centre,Male,Median,19,3
+2023,Eastern,Quinte Detention Centre,Male,Median,13,3
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Median,0,1.5
+2023,Northern,Algoma Treatment and Remand Centre,Male,Median,12,4
+2023,Northern,Fort Frances Jail,Male,Median,0,3.5
+2023,Northern,Kenora Jail,Male,Median,12,3
+2023,Northern,Monteith Correctional Complex,Male,Median,0,3
+2023,Northern,North Bay Jail,Male,Median,1,3
+2023,Northern,Sudbury Jail,Male,Median,12,6
+2023,Northern,Thunder Bay Correctional Centre,Male,Median,0,1
+2023,Northern,Thunder Bay Jail,Male,Median,11,2
+2023,Toronto,Toronto East Detention Centre,Male,Median,0,7
+2023,Toronto,Toronto South Detention Centre,Male,Median,10,6
+2023,Western,Central North Correctional Centre,Male,Median,0,5
+2023,Western,Elgin-Middlesex Detention Centre,Male,Median,6,4
+2023,Western,Sarnia Jail,Male,Median,11,3
+2023,Western,South West Detention Centre,Male,Median,13,5
+2023,Western,Stratford Jail,Male,Median,11.5,5
+2023,Central,Hamilton Wentworth Detention Centre,Male,Mode,6,5
+2023,Central,Maplehurst Correctional Complex,Male,Mode,1,1
+2023,Central,Niagara Detention Centre,Male,Mode,1,1
+2023,Central,Vanier Centre for Women,Male,Mode,0,8
+2023,Eastern,Brockville Jail,Male,Mode,1,1
+2023,Eastern,Central East Correctional Centre,Male,Mode,2,1
+2023,Eastern,Ottawa-Carleton Detention Centre,Male,Mode,1,1
+2023,Eastern,Quinte Detention Centre,Male,Mode,1,2
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Mode,0,
+2023,Northern,Algoma Treatment and Remand Centre,Male,Mode,1,1
+2023,Northern,Fort Frances Jail,Male,Mode,0,3
+2023,Northern,Kenora Jail,Male,Mode,11,1
+2023,Northern,Monteith Correctional Complex,Male,Mode,0,1
+2023,Northern,North Bay Jail,Male,Mode,1,1
+2023,Northern,Sudbury Jail,Male,Mode,1,2
+2023,Northern,Thunder Bay Correctional Centre,Male,Mode,0,1
+2023,Northern,Thunder Bay Jail,Male,Mode,11,1
+2023,Toronto,Toronto East Detention Centre,Male,Mode,0,1
+2023,Toronto,Toronto South Detention Centre,Male,Mode,1,3
+2023,Western,Central North Correctional Centre,Male,Mode,0,2
+2023,Western,Elgin-Middlesex Detention Centre,Male,Mode,5,4
+2023,Western,Sarnia Jail,Male,Mode,11,1
+2023,Western,South West Detention Centre,Male,Mode,11,5
+2023,Western,Stratford Jail,Male,Mode,11,
+2023,Central,Hamilton Wentworth Detention Centre,All,Maximum,362,
+2023,Central,Maplehurst Correctional Complex,All,Maximum,142,
+2023,Central,Niagara Detention Centre,All,Maximum,182,
+2023,Central,Vanier Centre for Women,All,Maximum,0,
+2023,Eastern,Brockville Jail,All,Maximum,218,
+2023,Eastern,Central East Correctional Centre,All,Maximum,289,
+2023,Eastern,Ottawa-Carleton Detention Centre,All,Maximum,361,
+2023,Eastern,Quinte Detention Centre,All,Maximum,316,
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,All,Maximum,0,
+2023,Northern,Algoma Treatment and Remand Centre,All,Maximum,345,
+2023,Northern,Fort Frances Jail,All,Maximum,0,
+2023,Northern,Kenora Jail,All,Maximum,85,
+2023,Northern,Monteith Correctional Complex,All,Maximum,0,
+2023,Northern,North Bay Jail,All,Maximum,14,
+2023,Northern,Sudbury Jail,All,Maximum,221,
+2023,Northern,Thunder Bay Correctional Centre,All,Maximum,114,
+2023,Northern,Thunder Bay Jail,All,Maximum,312,
+2023,Toronto,Toronto East Detention Centre,All,Maximum,0,
+2023,Toronto,Toronto South Detention Centre,All,Maximum,361,
+2023,Western,Central North Correctional Centre,All,Maximum,0,
+2023,Western,Elgin-Middlesex Detention Centre,All,Maximum,160,
+2023,Western,Sarnia Jail,All,Maximum,65,
+2023,Western,South West Detention Centre,All,Maximum,226,
+2023,Western,Stratford Jail,All,Maximum,65,
+2023,Central,Hamilton Wentworth Detention Centre,All,Median,6,6
+2023,Central,Maplehurst Correctional Complex,All,Median,9,3
+2023,Central,Niagara Detention Centre,All,Median,11,11
+2023,Central,Vanier Centre for Women,All,Median,0,7
+2023,Eastern,Brockville Jail,All,Median,12,1
+2023,Eastern,Central East Correctional Centre,All,Median,6,4
+2023,Eastern,Ottawa-Carleton Detention Centre,All,Median,17,3
+2023,Eastern,Quinte Detention Centre,All,Median,13,3
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,All,Median,0,1.5
+2023,Northern,Algoma Treatment and Remand Centre,All,Median,10,4
+2023,Northern,Fort Frances Jail,All,Median,0,3
+2023,Northern,Kenora Jail,All,Median,11,3
+2023,Northern,Monteith Correctional Complex,All,Median,0,2
+2023,Northern,North Bay Jail,All,Median,1,3
+2023,Northern,Sudbury Jail,All,Median,11,6
+2023,Northern,Thunder Bay Correctional Centre,All,Median,9,1
+2023,Northern,Thunder Bay Jail,All,Median,11,2
+2023,Toronto,Toronto East Detention Centre,All,Median,0,7
+2023,Toronto,Toronto South Detention Centre,All,Median,10,6
+2023,Western,Central North Correctional Centre,All,Median,0,5
+2023,Western,Elgin-Middlesex Detention Centre,All,Median,6,4
+2023,Western,Sarnia Jail,All,Median,10,4
+2023,Western,South West Detention Centre,All,Median,12,5
+2023,Western,Stratford Jail,All,Median,12,5
+2023,Central,Hamilton Wentworth Detention Centre,All,Mode,6,5
+2023,Central,Maplehurst Correctional Complex,All,Mode,1,1
+2023,Central,Niagara Detention Centre,All,Mode,1,1
+2023,Central,Vanier Centre for Women,All,Mode,0,1
+2023,Eastern,Brockville Jail,All,Mode,1,1
+2023,Eastern,Central East Correctional Centre,All,Mode,2,1
+2023,Eastern,Ottawa-Carleton Detention Centre,All,Mode,1,1
+2023,Eastern,Quinte Detention Centre,All,Mode,1,2
+2023,Eastern,St. Lawrence Valley Correctional and Treatment Centre,All,Mode,0,
+2023,Northern,Algoma Treatment and Remand Centre,All,Mode,1,1
+2023,Northern,Fort Frances Jail,All,Mode,0,3
+2023,Northern,Kenora Jail,All,Mode,11,1
+2023,Northern,Monteith Correctional Complex,All,Mode,0,1
+2023,Northern,North Bay Jail,All,Mode,1,1
+2023,Northern,Sudbury Jail,All,Mode,1,2
+2023,Northern,Thunder Bay Correctional Centre,All,Mode,9,1
+2023,Northern,Thunder Bay Jail,All,Mode,11,1
+2023,Toronto,Toronto East Detention Centre,All,Mode,0,1
+2023,Toronto,Toronto South Detention Centre,All,Mode,1,3
+2023,Western,Central North Correctional Centre,All,Mode,0,1
+2023,Western,Elgin-Middlesex Detention Centre,All,Mode,5,4
+2023,Western,Sarnia Jail,All,Mode,11,1
+2023,Western,South West Detention Centre,All,Mode,12,4
+2023,Western,Stratford Jail,All,Mode,11,
+2024,Central,Hamilton Wentworth Detention Centre,Female,Maximum,2,
+2024,Central,Maplehurst Correctional Complex,Female,Maximum,28,
+2024,Central,Niagara Detention Centre,Female,Maximum,0,
+2024,Central,Ontario Correctional Institute,Female,Maximum,0,
+2024,Central,Vanier Centre for Women,Female,Maximum,1,
+2024,Eastern,Brockville Jail,Female,Maximum,0,
+2024,Eastern,Central East Correctional Centre,Female,Maximum,129,
+2024,Eastern,Ottawa-Carleton Detention Centre,Female,Maximum,300,
+2024,Eastern,Quinte Detention Centre,Female,Maximum,248,
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Maximum,0,
+2024,Northern,Algoma Treatment and Remand Centre,Female,Maximum,66,
+2024,Northern,Fort Frances Jail,Female,Maximum,0,
+2024,Northern,Kenora Jail,Female,Maximum,110,
+2024,Northern,Monteith Correctional Complex,Female,Maximum,0,
+2024,Northern,North Bay Jail,Female,Maximum,0,
+2024,Northern,Sudbury Jail,Female,Maximum,35,
+2024,Northern,Thunder Bay Correctional Centre,Female,Maximum,125,
+2024,Northern,Thunder Bay Jail,Female,Maximum,95,
+2024,Toronto,Toronto East Detention Centre,Female,Maximum,0,
+2024,Toronto,Toronto South Detention Centre,Female,Maximum,146,
+2024,Western,Central North Correctional Centre,Female,Maximum,57,
+2024,Western,Elgin-Middlesex Detention Centre,Female,Maximum,141,
+2024,Western,Sarnia Jail,Female,Maximum,71,
+2024,Western,South West Detention Centre,Female,Maximum,123,
+2024,Western,Stratford Jail,Female,Maximum,0,
+2024,Central,Hamilton Wentworth Detention Centre,Female,Median,2,2
+2024,Central,Maplehurst Correctional Complex,Female,Median,14.5,139
+2024,Central,Niagara Detention Centre,Female,Median,0,0
+2024,Central,Ontario Correctional Institute,Female,Median,0,0
+2024,Central,Vanier Centre for Women,Female,Median,1,5
+2024,Eastern,Brockville Jail,Female,Median,0,0
+2024,Eastern,Central East Correctional Centre,Female,Median,6,3
+2024,Eastern,Ottawa-Carleton Detention Centre,Female,Median,10,3
+2024,Eastern,Quinte Detention Centre,Female,Median,16,0
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Median,0,0
+2024,Northern,Algoma Treatment and Remand Centre,Female,Median,3,2
+2024,Northern,Fort Frances Jail,Female,Median,0,0
+2024,Northern,Kenora Jail,Female,Median,6,4
+2024,Northern,Monteith Correctional Complex,Female,Median,0,3
+2024,Northern,North Bay Jail,Female,Median,0,2
+2024,Northern,Sudbury Jail,Female,Median,4,4
+2024,Northern,Thunder Bay Correctional Centre,Female,Median,6,2
+2024,Northern,Thunder Bay Jail,Female,Median,70,2
+2024,Toronto,Toronto East Detention Centre,Female,Median,0,0
+2024,Toronto,Toronto South Detention Centre,Female,Median,11,14
+2024,Western,Central North Correctional Centre,Female,Median,11,2
+2024,Western,Elgin-Middlesex Detention Centre,Female,Median,3,3
+2024,Western,Sarnia Jail,Female,Median,5,2
+2024,Western,South West Detention Centre,Female,Median,7,3
+2024,Western,Stratford Jail,Female,Median,0,0
+2024,Central,Hamilton Wentworth Detention Centre,Female,Mode,,1
+2024,Central,Maplehurst Correctional Complex,Female,Mode,,
+2024,Central,Niagara Detention Centre,Female,Mode,0,0
+2024,Central,Ontario Correctional Institute,Female,Mode,0,0
+2024,Central,Vanier Centre for Women,Female,Mode,,1
+2024,Eastern,Brockville Jail,Female,Mode,0,0
+2024,Eastern,Central East Correctional Centre,Female,Mode,2,1
+2024,Eastern,Ottawa-Carleton Detention Centre,Female,Mode,1,1
+2024,Eastern,Quinte Detention Centre,Female,Mode,5,0
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Mode,0,0
+2024,Northern,Algoma Treatment and Remand Centre,Female,Mode,1,1
+2024,Northern,Fort Frances Jail,Female,Mode,0,0
+2024,Northern,Kenora Jail,Female,Mode,6,1
+2024,Northern,Monteith Correctional Complex,Female,Mode,0,1
+2024,Northern,North Bay Jail,Female,Mode,0,2
+2024,Northern,Sudbury Jail,Female,Mode,1,2
+2024,Northern,Thunder Bay Correctional Centre,Female,Mode,1,1
+2024,Northern,Thunder Bay Jail,Female,Mode,,
+2024,Toronto,Toronto East Detention Centre,Female,Mode,0,0
+2024,Toronto,Toronto South Detention Centre,Female,Mode,1,14
+2024,Western,Central North Correctional Centre,Female,Mode,11,1
+2024,Western,Elgin-Middlesex Detention Centre,Female,Mode,1,1
+2024,Western,Sarnia Jail,Female,Mode,5,1
+2024,Western,South West Detention Centre,Female,Mode,2,3
+2024,Western,Stratford Jail,Female,Mode,0,
+2024,Central,Hamilton Wentworth Detention Centre,Male,Maximum,243,
+2024,Central,Maplehurst Correctional Complex,Male,Maximum,366,
+2024,Central,Niagara Detention Centre,Male,Maximum,159,
+2024,Central,Ontario Correctional Institute,Male,Maximum,13,
+2024,Central,Vanier Centre for Women,Male,Maximum,0,
+2024,Eastern,Brockville Jail,Male,Maximum,228,
+2024,Eastern,Central East Correctional Centre,Male,Maximum,362,
+2024,Eastern,Ottawa-Carleton Detention Centre,Male,Maximum,362,
+2024,Eastern,Quinte Detention Centre,Male,Maximum,355,
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Maximum,0,
+2024,Northern,Algoma Treatment and Remand Centre,Male,Maximum,356,
+2024,Northern,Fort Frances Jail,Male,Maximum,0,
+2024,Northern,Kenora Jail,Male,Maximum,238,
+2024,Northern,Monteith Correctional Complex,Male,Maximum,144,
+2024,Northern,North Bay Jail,Male,Maximum,0,
+2024,Northern,Sudbury Jail,Male,Maximum,220,
+2024,Northern,Thunder Bay Correctional Centre,Male,Maximum,0,
+2024,Northern,Thunder Bay Jail,Male,Maximum,357,
+2024,Toronto,Toronto East Detention Centre,Male,Maximum,317,
+2024,Toronto,Toronto South Detention Centre,Male,Maximum,364,
+2024,Western,Central North Correctional Centre,Male,Maximum,59,
+2024,Western,Elgin-Middlesex Detention Centre,Male,Maximum,366,
+2024,Western,Sarnia Jail,Male,Maximum,338,
+2024,Western,South West Detention Centre,Male,Maximum,289,
+2024,Western,Stratford Jail,Male,Maximum,145,
+2024,Central,Hamilton Wentworth Detention Centre,Male,Median,4,4
+2024,Central,Maplehurst Correctional Complex,Male,Median,7,3
+2024,Central,Niagara Detention Centre,Male,Median,7,10
+2024,Central,Ontario Correctional Institute,Male,Median,8,0
+2024,Central,Vanier Centre for Women,Male,Median,0,36
+2024,Eastern,Brockville Jail,Male,Median,10,2
+2024,Eastern,Central East Correctional Centre,Male,Median,10,4
+2024,Eastern,Ottawa-Carleton Detention Centre,Male,Median,33,3
+2024,Eastern,Quinte Detention Centre,Male,Median,13,1
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Median,0,11
+2024,Northern,Algoma Treatment and Remand Centre,Male,Median,9,4
+2024,Northern,Fort Frances Jail,Male,Median,0,2
+2024,Northern,Kenora Jail,Male,Median,8,2
+2024,Northern,Monteith Correctional Complex,Male,Median,27.5,3
+2024,Northern,North Bay Jail,Male,Median,0,2
+2024,Northern,Sudbury Jail,Male,Median,8,6
+2024,Northern,Thunder Bay Correctional Centre,Male,Median,0,1
+2024,Northern,Thunder Bay Jail,Male,Median,8,2
+2024,Toronto,Toronto East Detention Centre,Male,Median,53,8
+2024,Toronto,Toronto South Detention Centre,Male,Median,8,6
+2024,Western,Central North Correctional Centre,Male,Median,6,6
+2024,Western,Elgin-Middlesex Detention Centre,Male,Median,4,3
+2024,Western,Sarnia Jail,Male,Median,8,2
+2024,Western,South West Detention Centre,Male,Median,7,3
+2024,Western,Stratford Jail,Male,Median,11,1
+2024,Central,Hamilton Wentworth Detention Centre,Male,Mode,1,3
+2024,Central,Maplehurst Correctional Complex,Male,Mode,1,1
+2024,Central,Niagara Detention Centre,Male,Mode,1,2
+2024,Central,Ontario Correctional Institute,Male,Mode,,0
+2024,Central,Vanier Centre for Women,Male,Mode,0,
+2024,Eastern,Brockville Jail,Male,Mode,1,2
+2024,Eastern,Central East Correctional Centre,Male,Mode,2,1
+2024,Eastern,Ottawa-Carleton Detention Centre,Male,Mode,1,1
+2024,Eastern,Quinte Detention Centre,Male,Mode,1,1
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Mode,0,
+2024,Northern,Algoma Treatment and Remand Centre,Male,Mode,1,2
+2024,Northern,Fort Frances Jail,Male,Mode,0,1
+2024,Northern,Kenora Jail,Male,Mode,5,1
+2024,Northern,Monteith Correctional Complex,Male,Mode,5,1
+2024,Northern,North Bay Jail,Male,Mode,0,1
+2024,Northern,Sudbury Jail,Male,Mode,1,1
+2024,Northern,Thunder Bay Correctional Centre,Male,Mode,0,1
+2024,Northern,Thunder Bay Jail,Male,Mode,2,1
+2024,Toronto,Toronto East Detention Centre,Male,Mode,1,1
+2024,Toronto,Toronto South Detention Centre,Male,Mode,1,4
+2024,Western,Central North Correctional Centre,Male,Mode,1,1
+2024,Western,Elgin-Middlesex Detention Centre,Male,Mode,1,2
+2024,Western,Sarnia Jail,Male,Mode,1,1
+2024,Western,South West Detention Centre,Male,Mode,1,2
+2024,Western,Stratford Jail,Male,Mode,1,1
+2024,Central,Hamilton Wentworth Detention Centre,All,Maximum,243,
+2024,Central,Maplehurst Correctional Complex,All,Maximum,366,
+2024,Central,Niagara Detention Centre,All,Maximum,159,
+2024,Central,Ontario Correctional Institute,All,Maximum,13,
+2024,Central,Vanier Centre for Women,All,Maximum,1,
+2024,Eastern,Brockville Jail,All,Maximum,228,
+2024,Eastern,Central East Correctional Centre,All,Maximum,362,
+2024,Eastern,Ottawa-Carleton Detention Centre,All,Maximum,362,
+2024,Eastern,Quinte Detention Centre,All,Maximum,355,
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,All,Maximum,0,
+2024,Northern,Algoma Treatment and Remand Centre,All,Maximum,356,
+2024,Northern,Fort Frances Jail,All,Maximum,0,
+2024,Northern,Kenora Jail,All,Maximum,238,
+2024,Northern,Monteith Correctional Complex,All,Maximum,144,
+2024,Northern,North Bay Jail,All,Maximum,0,
+2024,Northern,Sudbury Jail,All,Maximum,220,
+2024,Northern,Thunder Bay Correctional Centre,All,Maximum,125,
+2024,Northern,Thunder Bay Jail,All,Maximum,357,
+2024,Toronto,Toronto East Detention Centre,All,Maximum,317,
+2024,Toronto,Toronto South Detention Centre,All,Maximum,364,
+2024,Western,Central North Correctional Centre,All,Maximum,59,
+2024,Western,Elgin-Middlesex Detention Centre,All,Maximum,366,
+2024,Western,Sarnia Jail,All,Maximum,338,
+2024,Western,South West Detention Centre,All,Maximum,289,
+2024,Western,Stratford Jail,All,Maximum,145,
+2024,Central,Hamilton Wentworth Detention Centre,All,Median,4,4
+2024,Central,Maplehurst Correctional Complex,All,Median,7,3
+2024,Central,Niagara Detention Centre,All,Median,7,10
+2024,Central,Ontario Correctional Institute,All,Median,8,0
+2024,Central,Vanier Centre for Women,All,Median,1,5
+2024,Eastern,Brockville Jail,All,Median,10,2
+2024,Eastern,Central East Correctional Centre,All,Median,9,4
+2024,Eastern,Ottawa-Carleton Detention Centre,All,Median,28,3
+2024,Eastern,Quinte Detention Centre,All,Median,15,1
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,All,Median,0,11
+2024,Northern,Algoma Treatment and Remand Centre,All,Median,7,3
+2024,Northern,Fort Frances Jail,All,Median,0,2
+2024,Northern,Kenora Jail,All,Median,7,3
+2024,Northern,Monteith Correctional Complex,All,Median,27.5,3
+2024,Northern,North Bay Jail,All,Median,0,2
+2024,Northern,Sudbury Jail,All,Median,7,6
+2024,Northern,Thunder Bay Correctional Centre,All,Median,6,1
+2024,Northern,Thunder Bay Jail,All,Median,8,2
+2024,Toronto,Toronto East Detention Centre,All,Median,53,8
+2024,Toronto,Toronto South Detention Centre,All,Median,8.5,6
+2024,Western,Central North Correctional Centre,All,Median,6,6
+2024,Western,Elgin-Middlesex Detention Centre,All,Median,4,3
+2024,Western,Sarnia Jail,All,Median,7,2
+2024,Western,South West Detention Centre,All,Median,7,3
+2024,Western,Stratford Jail,All,Median,11,1
+2024,Central,Hamilton Wentworth Detention Centre,All,Mode,1,1
+2024,Central,Maplehurst Correctional Complex,All,Mode,1,1
+2024,Central,Niagara Detention Centre,All,Mode,1,2
+2024,Central,Ontario Correctional Institute,All,Mode,,
+2024,Central,Vanier Centre for Women,All,Mode,,1
+2024,Eastern,Brockville Jail,All,Mode,1,2
+2024,Eastern,Central East Correctional Centre,All,Mode,2,1
+2024,Eastern,Ottawa-Carleton Detention Centre,All,Mode,1,1
+2024,Eastern,Quinte Detention Centre,All,Mode,1,1
+2024,Eastern,St. Lawrence Valley Correctional and Treatment Centre,All,Mode,0,
+2024,Northern,Algoma Treatment and Remand Centre,All,Mode,1,2
+2024,Northern,Fort Frances Jail,All,Mode,0,1
+2024,Northern,Kenora Jail,All,Mode,5,1
+2024,Northern,Monteith Correctional Complex,All,Mode,5,1
+2024,Northern,North Bay Jail,All,Mode,0,1
+2024,Northern,Sudbury Jail,All,Mode,1,2
+2024,Northern,Thunder Bay Correctional Centre,All,Mode,1,1
+2024,Northern,Thunder Bay Jail,All,Mode,2,1
+2024,Toronto,Toronto East Detention Centre,All,Mode,1,1
+2024,Toronto,Toronto South Detention Centre,All,Mode,1,4
+2024,Western,Central North Correctional Centre,All,Mode,1,1
+2024,Western,Elgin-Middlesex Detention Centre,All,Mode,1,2
+2024,Western,Sarnia Jail,All,Mode,1,1
+2024,Western,South West Detention Centre,All,Mode,1,2
+2024,Western,Stratford Jail,All,Mode,1,1
+2025,Central,Hamilton Wentworth Detention Centre,Female,Maximum,49,
+2025,Central,Maplehurst Correctional Complex,Female,Maximum,115,
+2025,Central,Niagara Detention Centre,Female,Maximum,0,
+2025,Central,Ontario Correctional Institute,Female,Maximum,0,
+2025,Central,Vanier Centre for Women,Female,Maximum,226,
+2025,Eastern,Brockville Jail,Female,Maximum,0,
+2025,Eastern,Central East Correctional Centre,Female,Maximum,209,
+2025,Eastern,Ottawa-Carleton Detention Centre,Female,Maximum,278,
+2025,Eastern,Quinte Detention Centre,Female,Maximum,349,
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Maximum,0,
+2025,Northern,Algoma Treatment and Remand Centre,Female,Maximum,129,
+2025,Northern,Fort Frances Jail,Female,Maximum,15,
+2025,Northern,Kenora Jail,Female,Maximum,187,
+2025,Northern,Monteith Correctional Complex,Female,Maximum,42,
+2025,Northern,North Bay Jail,Female,Maximum,0,
+2025,Northern,Sudbury Jail,Female,Maximum,124,
+2025,Northern,Thunder Bay Correctional Centre,Female,Maximum,62,
+2025,Northern,Thunder Bay Jail,Female,Maximum,0,
+2025,Toronto,Toronto East Detention Centre,Female,Maximum,0,
+2025,Toronto,Toronto South Detention Centre,Female,Maximum,100,
+2025,Western,Central North Correctional Centre,Female,Maximum,156,
+2025,Western,Elgin-Middlesex Detention Centre,Female,Maximum,26,
+2025,Western,Sarnia Jail,Female,Maximum,30,
+2025,Western,South West Detention Centre,Female,Maximum,123,
+2025,Western,Stratford Jail,Female,Maximum,0,
+2025,Central,Hamilton Wentworth Detention Centre,Female,Median,2,3
+2025,Central,Maplehurst Correctional Complex,Female,Median,3,13
+2025,Central,Niagara Detention Centre,Female,Median,0,0
+2025,Central,Ontario Correctional Institute,Female,Median,0,0
+2025,Central,Vanier Centre for Women,Female,Median,3,5
+2025,Eastern,Brockville Jail,Female,Median,0,0
+2025,Eastern,Central East Correctional Centre,Female,Median,3,2
+2025,Eastern,Ottawa-Carleton Detention Centre,Female,Median,9,4
+2025,Eastern,Quinte Detention Centre,Female,Median,22,2
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Median,0,0
+2025,Northern,Algoma Treatment and Remand Centre,Female,Median,6,3
+2025,Northern,Fort Frances Jail,Female,Median,4,1
+2025,Northern,Kenora Jail,Female,Median,10,3.5
+2025,Northern,Monteith Correctional Complex,Female,Median,4,4
+2025,Northern,North Bay Jail,Female,Median,0,4
+2025,Northern,Sudbury Jail,Female,Median,4,2
+2025,Northern,Thunder Bay Correctional Centre,Female,Median,4,2
+2025,Northern,Thunder Bay Jail,Female,Median,0,0
+2025,Toronto,Toronto East Detention Centre,Female,Median,0,5
+2025,Toronto,Toronto South Detention Centre,Female,Median,22,55
+2025,Western,Central North Correctional Centre,Female,Median,4,2
+2025,Western,Elgin-Middlesex Detention Centre,Female,Median,2,3
+2025,Western,Sarnia Jail,Female,Median,5,3
+2025,Western,South West Detention Centre,Female,Median,4,3
+2025,Western,Stratford Jail,Female,Median,0,0
+2025,Central,Hamilton Wentworth Detention Centre,Female,Mode,1,1
+2025,Central,Maplehurst Correctional Complex,Female,Mode,0,0
+2025,Central,Niagara Detention Centre,Female,Mode,0,0
+2025,Central,Ontario Correctional Institute,Female,Mode,0,0
+2025,Central,Vanier Centre for Women,Female,Mode,1,1
+2025,Eastern,Brockville Jail,Female,Mode,0,0
+2025,Eastern,Central East Correctional Centre,Female,Mode,1,1
+2025,Eastern,Ottawa-Carleton Detention Centre,Female,Mode,1,1
+2025,Eastern,Quinte Detention Centre,Female,Mode,2,1
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Female,Mode,0,0
+2025,Northern,Algoma Treatment and Remand Centre,Female,Mode,3,2
+2025,Northern,Fort Frances Jail,Female,Mode,3,1
+2025,Northern,Kenora Jail,Female,Mode,1,1
+2025,Northern,Monteith Correctional Complex,Female,Mode,1,1
+2025,Northern,North Bay Jail,Female,Mode,0,1
+2025,Northern,Sudbury Jail,Female,Mode,2,1
+2025,Northern,Thunder Bay Correctional Centre,Female,Mode,1,1
+2025,Northern,Thunder Bay Jail,Female,Mode,0,0
+2025,Toronto,Toronto East Detention Centre,Female,Mode,0,5
+2025,Toronto,Toronto South Detention Centre,Female,Mode,2,140
+2025,Western,Central North Correctional Centre,Female,Mode,1,1
+2025,Western,Elgin-Middlesex Detention Centre,Female,Mode,1,2
+2025,Western,Sarnia Jail,Female,Mode,1,1
+2025,Western,South West Detention Centre,Female,Mode,1,2
+2025,Western,Stratford Jail,Female,Mode,0,0
+2025,Central,Hamilton Wentworth Detention Centre,Male,Maximum,282,
+2025,Central,Maplehurst Correctional Complex,Male,Maximum,364,
+2025,Central,Niagara Detention Centre,Male,Maximum,189,
+2025,Central,Ontario Correctional Institute,Male,Maximum,44,
+2025,Central,Vanier Centre for Women,Male,Maximum,46,
+2025,Eastern,Brockville Jail,Male,Maximum,244,
+2025,Eastern,Central East Correctional Centre,Male,Maximum,363,
+2025,Eastern,Ottawa-Carleton Detention Centre,Male,Maximum,361,
+2025,Eastern,Quinte Detention Centre,Male,Maximum,249,
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Maximum,0,
+2025,Northern,Algoma Treatment and Remand Centre,Male,Maximum,232,
+2025,Northern,Fort Frances Jail,Male,Maximum,98,
+2025,Northern,Kenora Jail,Male,Maximum,197,
+2025,Northern,Monteith Correctional Complex,Male,Maximum,123,
+2025,Northern,North Bay Jail,Male,Maximum,0,
+2025,Northern,Sudbury Jail,Male,Maximum,252,
+2025,Northern,Thunder Bay Correctional Centre,Male,Maximum,158,
+2025,Northern,Thunder Bay Jail,Male,Maximum,224,
+2025,Toronto,Toronto East Detention Centre,Male,Maximum,352,
+2025,Toronto,Toronto South Detention Centre,Male,Maximum,332,
+2025,Western,Central North Correctional Centre,Male,Maximum,363,
+2025,Western,Elgin-Middlesex Detention Centre,Male,Maximum,344,
+2025,Western,Sarnia Jail,Male,Maximum,178,
+2025,Western,South West Detention Centre,Male,Maximum,301,
+2025,Western,Stratford Jail,Male,Maximum,115,
+2025,Central,Hamilton Wentworth Detention Centre,Male,Median,2,5
+2025,Central,Maplehurst Correctional Complex,Male,Median,40,4
+2025,Central,Niagara Detention Centre,Male,Median,3,7
+2025,Central,Ontario Correctional Institute,Male,Median,5,0
+2025,Central,Vanier Centre for Women,Male,Median,6,15
+2025,Eastern,Brockville Jail,Male,Median,4,2
+2025,Eastern,Central East Correctional Centre,Male,Median,15,4
+2025,Eastern,Ottawa-Carleton Detention Centre,Male,Median,38,4
+2025,Eastern,Quinte Detention Centre,Male,Median,2,2
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Median,0,0
+2025,Northern,Algoma Treatment and Remand Centre,Male,Median,5,4
+2025,Northern,Fort Frances Jail,Male,Median,4,2
+2025,Northern,Kenora Jail,Male,Median,6,2
+2025,Northern,Monteith Correctional Complex,Male,Median,4,4
+2025,Northern,North Bay Jail,Male,Median,0,5
+2025,Northern,Sudbury Jail,Male,Median,4,5
+2025,Northern,Thunder Bay Correctional Centre,Male,Median,6,1.5
+2025,Northern,Thunder Bay Jail,Male,Median,7,5
+2025,Toronto,Toronto East Detention Centre,Male,Median,47,4
+2025,Toronto,Toronto South Detention Centre,Male,Median,7,10
+2025,Western,Central North Correctional Centre,Male,Median,7,6
+2025,Western,Elgin-Middlesex Detention Centre,Male,Median,3,2
+2025,Western,Sarnia Jail,Male,Median,5,3
+2025,Western,South West Detention Centre,Male,Median,9.5,4.5
+2025,Western,Stratford Jail,Male,Median,4,2
+2025,Central,Hamilton Wentworth Detention Centre,Male,Mode,1,1
+2025,Central,Maplehurst Correctional Complex,Male,Mode,2,1
+2025,Central,Niagara Detention Centre,Male,Mode,1,2
+2025,Central,Ontario Correctional Institute,Male,Mode,,0
+2025,Central,Vanier Centre for Women,Male,Mode,,15
+2025,Eastern,Brockville Jail,Male,Mode,1,1
+2025,Eastern,Central East Correctional Centre,Male,Mode,1,1
+2025,Eastern,Ottawa-Carleton Detention Centre,Male,Mode,1,2
+2025,Eastern,Quinte Detention Centre,Male,Mode,1,1
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,Male,Mode,0,0
+2025,Northern,Algoma Treatment and Remand Centre,Male,Mode,2,1
+2025,Northern,Fort Frances Jail,Male,Mode,1,2
+2025,Northern,Kenora Jail,Male,Mode,1,1
+2025,Northern,Monteith Correctional Complex,Male,Mode,1,1
+2025,Northern,North Bay Jail,Male,Mode,0,1
+2025,Northern,Sudbury Jail,Male,Mode,1,1
+2025,Northern,Thunder Bay Correctional Centre,Male,Mode,1,1
+2025,Northern,Thunder Bay Jail,Male,Mode,1,1
+2025,Toronto,Toronto East Detention Centre,Male,Mode,1,1
+2025,Toronto,Toronto South Detention Centre,Male,Mode,1,3
+2025,Western,Central North Correctional Centre,Male,Mode,1,1
+2025,Western,Elgin-Middlesex Detention Centre,Male,Mode,1,1
+2025,Western,Sarnia Jail,Male,Mode,1,1
+2025,Western,South West Detention Centre,Male,Mode,1,3
+2025,Western,Stratford Jail,Male,Mode,1,3
+2025,Central,Hamilton Wentworth Detention Centre,All,Maximum,282,
+2025,Central,Maplehurst Correctional Complex,All,Maximum,364,
+2025,Central,Niagara Detention Centre,All,Maximum,189,
+2025,Central,Ontario Correctional Institute,All,Maximum,44,
+2025,Central,Vanier Centre for Women,All,Maximum,266,
+2025,Eastern,Brockville Jail,All,Maximum,244,
+2025,Eastern,Central East Correctional Centre,All,Maximum,363,
+2025,Eastern,Ottawa-Carleton Detention Centre,All,Maximum,361,
+2025,Eastern,Quinte Detention Centre,All,Maximum,349,
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,All,Maximum,0,
+2025,Northern,Algoma Treatment and Remand Centre,All,Maximum,232,
+2025,Northern,Fort Frances Jail,All,Maximum,98,
+2025,Northern,Kenora Jail,All,Maximum,197,
+2025,Northern,Monteith Correctional Complex,All,Maximum,123,
+2025,Northern,North Bay Jail,All,Maximum,0,
+2025,Northern,Sudbury Jail,All,Maximum,252,
+2025,Northern,Thunder Bay Correctional Centre,All,Maximum,158,
+2025,Northern,Thunder Bay Jail,All,Maximum,224,
+2025,Toronto,Toronto East Detention Centre,All,Maximum,352,
+2025,Toronto,Toronto South Detention Centre,All,Maximum,332,
+2025,Western,Central North Correctional Centre,All,Maximum,363,
+2025,Western,Elgin-Middlesex Detention Centre,All,Maximum,344,
+2025,Western,Sarnia Jail,All,Maximum,178,
+2025,Western,South West Detention Centre,All,Maximum,301,
+2025,Western,Stratford Jail,All,Maximum,115,
+2025,Central,Hamilton Wentworth Detention Centre,All,Median,2,5
+2025,Central,Maplehurst Correctional Complex,All,Median,40,4
+2025,Central,Niagara Detention Centre,All,Median,3,7
+2025,Central,Ontario Correctional Institute,All,Median,5,0
+2025,Central,Vanier Centre for Women,All,Median,3,5
+2025,Eastern,Brockville Jail,All,Median,4,2
+2025,Eastern,Central East Correctional Centre,All,Median,12,4
+2025,Eastern,Ottawa-Carleton Detention Centre,All,Median,31,4
+2025,Eastern,Quinte Detention Centre,All,Median,2,2
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,All,Median,0,0
+2025,Northern,Algoma Treatment and Remand Centre,All,Median,5,4
+2025,Northern,Fort Frances Jail,All,Median,4,2
+2025,Northern,Kenora Jail,All,Median,7,2
+2025,Northern,Monteith Correctional Complex,All,Median,4,4
+2025,Northern,North Bay Jail,All,Median,0,5
+2025,Northern,Sudbury Jail,All,Median,4,5
+2025,Northern,Thunder Bay Correctional Centre,All,Median,5,1.5
+2025,Northern,Thunder Bay Jail,All,Median,7,5
+2025,Toronto,Toronto East Detention Centre,All,Median,47,4
+2025,Toronto,Toronto South Detention Centre,All,Median,7,10
+2025,Western,Central North Correctional Centre,All,Median,7,6
+2025,Western,Elgin-Middlesex Detention Centre,All,Median,3,3
+2025,Western,Sarnia Jail,All,Median,5,3
+2025,Western,South West Detention Centre,All,Median,7,4
+2025,Western,Stratford Jail,All,Median,4,2
+2025,Central,Hamilton Wentworth Detention Centre,All,Mode,1,1
+2025,Central,Maplehurst Correctional Complex,All,Mode,2,1
+2025,Central,Niagara Detention Centre,All,Mode,1,2
+2025,Central,Ontario Correctional Institute,All,Mode,,0
+2025,Central,Vanier Centre for Women,All,Mode,1,1
+2025,Eastern,Brockville Jail,All,Mode,1,1
+2025,Eastern,Central East Correctional Centre,All,Mode,1,1
+2025,Eastern,Ottawa-Carleton Detention Centre,All,Mode,1,2
+2025,Eastern,Quinte Detention Centre,All,Mode,1,1
+2025,Eastern,St. Lawrence Valley Correctional and Treatment Centre,All,Mode,0,0
+2025,Northern,Algoma Treatment and Remand Centre,All,Mode,2,1
+2025,Northern,Fort Frances Jail,All,Mode,1,2
+2025,Northern,Kenora Jail,All,Mode,1,1
+2025,Northern,Monteith Correctional Complex,All,Mode,1,1
+2025,Northern,North Bay Jail,All,Mode,0,1
+2025,Northern,Sudbury Jail,All,Mode,1,1
+2025,Northern,Thunder Bay Correctional Centre,All,Mode,1,1
+2025,Northern,Thunder Bay Jail,All,Mode,1,1
+2025,Toronto,Toronto East Detention Centre,All,Mode,1,1
+2025,Toronto,Toronto South Detention Centre,All,Mode,1,3
+2025,Western,Central North Correctional Centre,All,Mode,1,1
+2025,Western,Elgin-Middlesex Detention Centre,All,Mode,1,1
+2025,Western,Sarnia Jail,All,Mode,1,1
+2025,Western,South West Detention Centre,All,Mode,1,2
+2025,Western,Stratford Jail,All,Mode,1,3

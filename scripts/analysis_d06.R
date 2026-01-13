@@ -1,0 +1,21 @@
+# Analysis of d06_deaths_in_custody_cause_of_death_by_alert_by_institution.csv
+
+# --- 1. SETUP ---
+# Load necessary libraries
+# install.packages("tidyverse")
+# install.packages("here")
+library(tidyverse)
+library(readr)
+library(here)
+
+# --- 2. DATA LOADING ---
+# Load the dataset from the 'data' directory
+d06df <- read_csv(here("data", "d06_deaths_in_custody_cause_of_death_by_alert_by_institution.csv"))
+
+# --- 3. EXPLORATION ---
+# Get a first look at the data
+print(head(d06df))
+print(summary(d06df))
+
+# --- 4. ANALYSIS ---
+# Add your analysis code here

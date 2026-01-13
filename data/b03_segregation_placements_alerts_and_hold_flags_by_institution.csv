@@ -1,0 +1,853 @@
+"EndFiscalYear","Region_AtTimeOfPlacement","Institution_AtTimeOfPlacement","Alert_Type","Alert_Presence","Number_SegregationPlacements"
+2023,"Central","Hamilton Wentworth Detention Centre","Transgender Alert","No",11442
+2023,"Central","Hamilton Wentworth Detention Centre","Transgender Alert","Yes",52
+2023,"Central","Maplehurst Correctional Complex","Transgender Alert","No",8617
+2023,"Central","Maplehurst Correctional Complex","Transgender Alert","Yes",19
+2023,"Central","Niagara Detention Centre","Transgender Alert","No",2169
+2023,"Central","Niagara Detention Centre","Transgender Alert","Yes",0
+2023,"Central","Vanier Centre for Women","Transgender Alert","No",5279
+2023,"Central","Vanier Centre for Women","Transgender Alert","Yes",549
+2023,"Eastern","Brockville Jail","Transgender Alert","No",27
+2023,"Eastern","Brockville Jail","Transgender Alert","Yes",0
+2023,"Eastern","Central East Correctional Centre","Transgender Alert","No",4218
+2023,"Eastern","Central East Correctional Centre","Transgender Alert","Yes",103
+2023,"Eastern","Ottawa-Carleton Detention Centre","Transgender Alert","No",2718
+2023,"Eastern","Ottawa-Carleton Detention Centre","Transgender Alert","Yes",28
+2023,"Eastern","Quinte Detention Centre","Transgender Alert","No",99
+2023,"Eastern","Quinte Detention Centre","Transgender Alert","Yes",1
+2023,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Transgender Alert","No",5
+2023,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Transgender Alert","Yes",0
+2023,"Northern","Algoma Treatment and Remand Centre","Transgender Alert","No",558
+2023,"Northern","Algoma Treatment and Remand Centre","Transgender Alert","Yes",30
+2023,"Northern","Fort Frances Jail","Transgender Alert","No",25
+2023,"Northern","Fort Frances Jail","Transgender Alert","Yes",0
+2023,"Northern","Kenora Jail","Transgender Alert","No",182
+2023,"Northern","Kenora Jail","Transgender Alert","Yes",24
+2023,"Northern","Monteith Correctional Complex","Transgender Alert","No",612
+2023,"Northern","Monteith Correctional Complex","Transgender Alert","Yes",6
+2023,"Northern","North Bay Jail","Transgender Alert","No",728
+2023,"Northern","North Bay Jail","Transgender Alert","Yes",9
+2023,"Northern","Sudbury Jail","Transgender Alert","No",477
+2023,"Northern","Sudbury Jail","Transgender Alert","Yes",0
+2023,"Northern","Thunder Bay Correctional Centre","Transgender Alert","No",17
+2023,"Northern","Thunder Bay Correctional Centre","Transgender Alert","Yes",0
+2023,"Northern","Thunder Bay Jail","Transgender Alert","No",356
+2023,"Northern","Thunder Bay Jail","Transgender Alert","Yes",0
+2023,"Toronto","Toronto East Detention Centre","Transgender Alert","No",790
+2023,"Toronto","Toronto East Detention Centre","Transgender Alert","Yes",3
+2023,"Toronto","Toronto South Detention Centre","Transgender Alert","No",4062
+2023,"Toronto","Toronto South Detention Centre","Transgender Alert","Yes",93
+2023,"Western","Central North Correctional Centre","Transgender Alert","No",3803
+2023,"Western","Central North Correctional Centre","Transgender Alert","Yes",168
+2023,"Western","Elgin-Middlesex Detention Centre","Transgender Alert","No",5557
+2023,"Western","Elgin-Middlesex Detention Centre","Transgender Alert","Yes",51
+2023,"Western","Sarnia Jail","Transgender Alert","No",193
+2023,"Western","Sarnia Jail","Transgender Alert","Yes",3
+2023,"Western","South West Detention Centre","Transgender Alert","No",3440
+2023,"Western","South West Detention Centre","Transgender Alert","Yes",10
+2023,"Western","Stratford Jail","Transgender Alert","No",4
+2023,"Western","Stratford Jail","Transgender Alert","Yes",9
+2023,"Central","Hamilton Wentworth Detention Centre","Mental Health Alert","No",5948
+2023,"Central","Hamilton Wentworth Detention Centre","Mental Health Alert","Yes",5546
+2023,"Central","Maplehurst Correctional Complex","Mental Health Alert","No",5752
+2023,"Central","Maplehurst Correctional Complex","Mental Health Alert","Yes",2884
+2023,"Central","Niagara Detention Centre","Mental Health Alert","No",581
+2023,"Central","Niagara Detention Centre","Mental Health Alert","Yes",1588
+2023,"Central","Vanier Centre for Women","Mental Health Alert","No",1909
+2023,"Central","Vanier Centre for Women","Mental Health Alert","Yes",3919
+2023,"Eastern","Brockville Jail","Mental Health Alert","No",17
+2023,"Eastern","Brockville Jail","Mental Health Alert","Yes",10
+2023,"Eastern","Central East Correctional Centre","Mental Health Alert","No",1961
+2023,"Eastern","Central East Correctional Centre","Mental Health Alert","Yes",2360
+2023,"Eastern","Ottawa-Carleton Detention Centre","Mental Health Alert","No",985
+2023,"Eastern","Ottawa-Carleton Detention Centre","Mental Health Alert","Yes",1761
+2023,"Eastern","Quinte Detention Centre","Mental Health Alert","No",49
+2023,"Eastern","Quinte Detention Centre","Mental Health Alert","Yes",51
+2023,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Mental Health Alert","No",0
+2023,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Mental Health Alert","Yes",5
+2023,"Northern","Algoma Treatment and Remand Centre","Mental Health Alert","No",359
+2023,"Northern","Algoma Treatment and Remand Centre","Mental Health Alert","Yes",229
+2023,"Northern","Fort Frances Jail","Mental Health Alert","No",10
+2023,"Northern","Fort Frances Jail","Mental Health Alert","Yes",15
+2023,"Northern","Kenora Jail","Mental Health Alert","No",93
+2023,"Northern","Kenora Jail","Mental Health Alert","Yes",113
+2023,"Northern","Monteith Correctional Complex","Mental Health Alert","No",323
+2023,"Northern","Monteith Correctional Complex","Mental Health Alert","Yes",295
+2023,"Northern","North Bay Jail","Mental Health Alert","No",428
+2023,"Northern","North Bay Jail","Mental Health Alert","Yes",309
+2023,"Northern","Sudbury Jail","Mental Health Alert","No",241
+2023,"Northern","Sudbury Jail","Mental Health Alert","Yes",236
+2023,"Northern","Thunder Bay Correctional Centre","Mental Health Alert","No",12
+2023,"Northern","Thunder Bay Correctional Centre","Mental Health Alert","Yes",5
+2023,"Northern","Thunder Bay Jail","Mental Health Alert","No",267
+2023,"Northern","Thunder Bay Jail","Mental Health Alert","Yes",89
+2023,"Toronto","Toronto East Detention Centre","Mental Health Alert","No",711
+2023,"Toronto","Toronto East Detention Centre","Mental Health Alert","Yes",82
+2023,"Toronto","Toronto South Detention Centre","Mental Health Alert","No",2411
+2023,"Toronto","Toronto South Detention Centre","Mental Health Alert","Yes",1744
+2023,"Western","Central North Correctional Centre","Mental Health Alert","No",2417
+2023,"Western","Central North Correctional Centre","Mental Health Alert","Yes",1554
+2023,"Western","Elgin-Middlesex Detention Centre","Mental Health Alert","No",3713
+2023,"Western","Elgin-Middlesex Detention Centre","Mental Health Alert","Yes",1895
+2023,"Western","Sarnia Jail","Mental Health Alert","No",95
+2023,"Western","Sarnia Jail","Mental Health Alert","Yes",101
+2023,"Western","South West Detention Centre","Mental Health Alert","No",2498
+2023,"Western","South West Detention Centre","Mental Health Alert","Yes",952
+2023,"Western","Stratford Jail","Mental Health Alert","No",11
+2023,"Western","Stratford Jail","Mental Health Alert","Yes",2
+2023,"Central","Hamilton Wentworth Detention Centre","Serious Mental Illness Alert","No",10208
+2023,"Central","Hamilton Wentworth Detention Centre","Serious Mental Illness Alert","Yes",1286
+2023,"Central","Maplehurst Correctional Complex","Serious Mental Illness Alert","No",7158
+2023,"Central","Maplehurst Correctional Complex","Serious Mental Illness Alert","Yes",1478
+2023,"Central","Niagara Detention Centre","Serious Mental Illness Alert","No",1266
+2023,"Central","Niagara Detention Centre","Serious Mental Illness Alert","Yes",903
+2023,"Central","Vanier Centre for Women","Serious Mental Illness Alert","No",5071
+2023,"Central","Vanier Centre for Women","Serious Mental Illness Alert","Yes",757
+2023,"Eastern","Brockville Jail","Serious Mental Illness Alert","No",27
+2023,"Eastern","Brockville Jail","Serious Mental Illness Alert","Yes",0
+2023,"Eastern","Central East Correctional Centre","Serious Mental Illness Alert","No",4078
+2023,"Eastern","Central East Correctional Centre","Serious Mental Illness Alert","Yes",243
+2023,"Eastern","Ottawa-Carleton Detention Centre","Serious Mental Illness Alert","No",2653
+2023,"Eastern","Ottawa-Carleton Detention Centre","Serious Mental Illness Alert","Yes",93
+2023,"Eastern","Quinte Detention Centre","Serious Mental Illness Alert","No",96
+2023,"Eastern","Quinte Detention Centre","Serious Mental Illness Alert","Yes",4
+2023,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Serious Mental Illness Alert","No",3
+2023,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Serious Mental Illness Alert","Yes",2
+2023,"Northern","Algoma Treatment and Remand Centre","Serious Mental Illness Alert","No",492
+2023,"Northern","Algoma Treatment and Remand Centre","Serious Mental Illness Alert","Yes",96
+2023,"Northern","Fort Frances Jail","Serious Mental Illness Alert","No",21
+2023,"Northern","Fort Frances Jail","Serious Mental Illness Alert","Yes",4
+2023,"Northern","Kenora Jail","Serious Mental Illness Alert","No",154
+2023,"Northern","Kenora Jail","Serious Mental Illness Alert","Yes",52
+2023,"Northern","Monteith Correctional Complex","Serious Mental Illness Alert","No",564
+2023,"Northern","Monteith Correctional Complex","Serious Mental Illness Alert","Yes",54
+2023,"Northern","North Bay Jail","Serious Mental Illness Alert","No",682
+2023,"Northern","North Bay Jail","Serious Mental Illness Alert","Yes",55
+2023,"Northern","Sudbury Jail","Serious Mental Illness Alert","No",407
+2023,"Northern","Sudbury Jail","Serious Mental Illness Alert","Yes",70
+2023,"Northern","Thunder Bay Correctional Centre","Serious Mental Illness Alert","No",16
+2023,"Northern","Thunder Bay Correctional Centre","Serious Mental Illness Alert","Yes",1
+2023,"Northern","Thunder Bay Jail","Serious Mental Illness Alert","No",340
+2023,"Northern","Thunder Bay Jail","Serious Mental Illness Alert","Yes",16
+2023,"Toronto","Toronto East Detention Centre","Serious Mental Illness Alert","No",788
+2023,"Toronto","Toronto East Detention Centre","Serious Mental Illness Alert","Yes",5
+2023,"Toronto","Toronto South Detention Centre","Serious Mental Illness Alert","No",4012
+2023,"Toronto","Toronto South Detention Centre","Serious Mental Illness Alert","Yes",143
+2023,"Western","Central North Correctional Centre","Serious Mental Illness Alert","No",3537
+2023,"Western","Central North Correctional Centre","Serious Mental Illness Alert","Yes",434
+2023,"Western","Elgin-Middlesex Detention Centre","Serious Mental Illness Alert","No",5129
+2023,"Western","Elgin-Middlesex Detention Centre","Serious Mental Illness Alert","Yes",479
+2023,"Western","Sarnia Jail","Serious Mental Illness Alert","No",166
+2023,"Western","Sarnia Jail","Serious Mental Illness Alert","Yes",30
+2023,"Western","South West Detention Centre","Serious Mental Illness Alert","No",3230
+2023,"Western","South West Detention Centre","Serious Mental Illness Alert","Yes",220
+2023,"Western","Stratford Jail","Serious Mental Illness Alert","No",11
+2023,"Western","Stratford Jail","Serious Mental Illness Alert","Yes",2
+2023,"Central","Hamilton Wentworth Detention Centre","Suicide Risk Alert","No",9508
+2023,"Central","Hamilton Wentworth Detention Centre","Suicide Risk Alert","Yes",1986
+2023,"Central","Maplehurst Correctional Complex","Suicide Risk Alert","No",7476
+2023,"Central","Maplehurst Correctional Complex","Suicide Risk Alert","Yes",1160
+2023,"Central","Niagara Detention Centre","Suicide Risk Alert","No",1651
+2023,"Central","Niagara Detention Centre","Suicide Risk Alert","Yes",518
+2023,"Central","Vanier Centre for Women","Suicide Risk Alert","No",4811
+2023,"Central","Vanier Centre for Women","Suicide Risk Alert","Yes",1017
+2023,"Eastern","Brockville Jail","Suicide Risk Alert","No",17
+2023,"Eastern","Brockville Jail","Suicide Risk Alert","Yes",10
+2023,"Eastern","Central East Correctional Centre","Suicide Risk Alert","No",3238
+2023,"Eastern","Central East Correctional Centre","Suicide Risk Alert","Yes",1083
+2023,"Eastern","Ottawa-Carleton Detention Centre","Suicide Risk Alert","No",2019
+2023,"Eastern","Ottawa-Carleton Detention Centre","Suicide Risk Alert","Yes",727
+2023,"Eastern","Quinte Detention Centre","Suicide Risk Alert","No",64
+2023,"Eastern","Quinte Detention Centre","Suicide Risk Alert","Yes",36
+2023,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Suicide Risk Alert","No",3
+2023,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Suicide Risk Alert","Yes",2
+2023,"Northern","Algoma Treatment and Remand Centre","Suicide Risk Alert","No",440
+2023,"Northern","Algoma Treatment and Remand Centre","Suicide Risk Alert","Yes",148
+2023,"Northern","Fort Frances Jail","Suicide Risk Alert","No",21
+2023,"Northern","Fort Frances Jail","Suicide Risk Alert","Yes",4
+2023,"Northern","Kenora Jail","Suicide Risk Alert","No",123
+2023,"Northern","Kenora Jail","Suicide Risk Alert","Yes",83
+2023,"Northern","Monteith Correctional Complex","Suicide Risk Alert","No",458
+2023,"Northern","Monteith Correctional Complex","Suicide Risk Alert","Yes",160
+2023,"Northern","North Bay Jail","Suicide Risk Alert","No",565
+2023,"Northern","North Bay Jail","Suicide Risk Alert","Yes",172
+2023,"Northern","Sudbury Jail","Suicide Risk Alert","No",254
+2023,"Northern","Sudbury Jail","Suicide Risk Alert","Yes",223
+2023,"Northern","Thunder Bay Correctional Centre","Suicide Risk Alert","No",9
+2023,"Northern","Thunder Bay Correctional Centre","Suicide Risk Alert","Yes",8
+2023,"Northern","Thunder Bay Jail","Suicide Risk Alert","No",249
+2023,"Northern","Thunder Bay Jail","Suicide Risk Alert","Yes",107
+2023,"Toronto","Toronto East Detention Centre","Suicide Risk Alert","No",720
+2023,"Toronto","Toronto East Detention Centre","Suicide Risk Alert","Yes",73
+2023,"Toronto","Toronto South Detention Centre","Suicide Risk Alert","No",3158
+2023,"Toronto","Toronto South Detention Centre","Suicide Risk Alert","Yes",997
+2023,"Western","Central North Correctional Centre","Suicide Risk Alert","No",2974
+2023,"Western","Central North Correctional Centre","Suicide Risk Alert","Yes",997
+2023,"Western","Elgin-Middlesex Detention Centre","Suicide Risk Alert","No",4728
+2023,"Western","Elgin-Middlesex Detention Centre","Suicide Risk Alert","Yes",880
+2023,"Western","Sarnia Jail","Suicide Risk Alert","No",132
+2023,"Western","Sarnia Jail","Suicide Risk Alert","Yes",64
+2023,"Western","South West Detention Centre","Suicide Risk Alert","No",2892
+2023,"Western","South West Detention Centre","Suicide Risk Alert","Yes",558
+2023,"Western","Stratford Jail","Suicide Risk Alert","No",3
+2023,"Western","Stratford Jail","Suicide Risk Alert","Yes",10
+2023,"Central","Hamilton Wentworth Detention Centre","Suicide Watch Alert","No",10565
+2023,"Central","Hamilton Wentworth Detention Centre","Suicide Watch Alert","Yes",929
+2023,"Central","Maplehurst Correctional Complex","Suicide Watch Alert","No",7856
+2023,"Central","Maplehurst Correctional Complex","Suicide Watch Alert","Yes",780
+2023,"Central","Niagara Detention Centre","Suicide Watch Alert","No",1931
+2023,"Central","Niagara Detention Centre","Suicide Watch Alert","Yes",238
+2023,"Central","Vanier Centre for Women","Suicide Watch Alert","No",5581
+2023,"Central","Vanier Centre for Women","Suicide Watch Alert","Yes",247
+2023,"Eastern","Brockville Jail","Suicide Watch Alert","No",23
+2023,"Eastern","Brockville Jail","Suicide Watch Alert","Yes",4
+2023,"Eastern","Central East Correctional Centre","Suicide Watch Alert","No",3838
+2023,"Eastern","Central East Correctional Centre","Suicide Watch Alert","Yes",483
+2023,"Eastern","Ottawa-Carleton Detention Centre","Suicide Watch Alert","No",2490
+2023,"Eastern","Ottawa-Carleton Detention Centre","Suicide Watch Alert","Yes",256
+2023,"Eastern","Quinte Detention Centre","Suicide Watch Alert","No",71
+2023,"Eastern","Quinte Detention Centre","Suicide Watch Alert","Yes",29
+2023,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Suicide Watch Alert","No",5
+2023,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Suicide Watch Alert","Yes",0
+2023,"Northern","Algoma Treatment and Remand Centre","Suicide Watch Alert","No",513
+2023,"Northern","Algoma Treatment and Remand Centre","Suicide Watch Alert","Yes",75
+2023,"Northern","Fort Frances Jail","Suicide Watch Alert","No",24
+2023,"Northern","Fort Frances Jail","Suicide Watch Alert","Yes",1
+2023,"Northern","Kenora Jail","Suicide Watch Alert","No",178
+2023,"Northern","Kenora Jail","Suicide Watch Alert","Yes",28
+2023,"Northern","Monteith Correctional Complex","Suicide Watch Alert","No",568
+2023,"Northern","Monteith Correctional Complex","Suicide Watch Alert","Yes",50
+2023,"Northern","North Bay Jail","Suicide Watch Alert","No",703
+2023,"Northern","North Bay Jail","Suicide Watch Alert","Yes",34
+2023,"Northern","Sudbury Jail","Suicide Watch Alert","No",370
+2023,"Northern","Sudbury Jail","Suicide Watch Alert","Yes",107
+2023,"Northern","Thunder Bay Correctional Centre","Suicide Watch Alert","No",14
+2023,"Northern","Thunder Bay Correctional Centre","Suicide Watch Alert","Yes",3
+2023,"Northern","Thunder Bay Jail","Suicide Watch Alert","No",316
+2023,"Northern","Thunder Bay Jail","Suicide Watch Alert","Yes",40
+2023,"Toronto","Toronto East Detention Centre","Suicide Watch Alert","No",730
+2023,"Toronto","Toronto East Detention Centre","Suicide Watch Alert","Yes",63
+2023,"Toronto","Toronto South Detention Centre","Suicide Watch Alert","No",3493
+2023,"Toronto","Toronto South Detention Centre","Suicide Watch Alert","Yes",662
+2023,"Western","Central North Correctional Centre","Suicide Watch Alert","No",3551
+2023,"Western","Central North Correctional Centre","Suicide Watch Alert","Yes",420
+2023,"Western","Elgin-Middlesex Detention Centre","Suicide Watch Alert","No",5339
+2023,"Western","Elgin-Middlesex Detention Centre","Suicide Watch Alert","Yes",269
+2023,"Western","Sarnia Jail","Suicide Watch Alert","No",165
+2023,"Western","Sarnia Jail","Suicide Watch Alert","Yes",31
+2023,"Western","South West Detention Centre","Suicide Watch Alert","No",3206
+2023,"Western","South West Detention Centre","Suicide Watch Alert","Yes",244
+2023,"Western","Stratford Jail","Suicide Watch Alert","No",12
+2023,"Western","Stratford Jail","Suicide Watch Alert","Yes",1
+2023,"Central","Hamilton Wentworth Detention Centre","Immigration Hold Flag","No",11430
+2023,"Central","Hamilton Wentworth Detention Centre","Immigration Hold Flag","Yes",64
+2023,"Central","Maplehurst Correctional Complex","Immigration Hold Flag","No",8484
+2023,"Central","Maplehurst Correctional Complex","Immigration Hold Flag","Yes",152
+2023,"Central","Niagara Detention Centre","Immigration Hold Flag","No",2169
+2023,"Central","Niagara Detention Centre","Immigration Hold Flag","Yes",0
+2023,"Central","Vanier Centre for Women","Immigration Hold Flag","No",5807
+2023,"Central","Vanier Centre for Women","Immigration Hold Flag","Yes",21
+2023,"Eastern","Brockville Jail","Immigration Hold Flag","No",27
+2023,"Eastern","Brockville Jail","Immigration Hold Flag","Yes",0
+2023,"Eastern","Central East Correctional Centre","Immigration Hold Flag","No",4306
+2023,"Eastern","Central East Correctional Centre","Immigration Hold Flag","Yes",15
+2023,"Eastern","Ottawa-Carleton Detention Centre","Immigration Hold Flag","No",2746
+2023,"Eastern","Ottawa-Carleton Detention Centre","Immigration Hold Flag","Yes",0
+2023,"Eastern","Quinte Detention Centre","Immigration Hold Flag","No",100
+2023,"Eastern","Quinte Detention Centre","Immigration Hold Flag","Yes",0
+2023,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Immigration Hold Flag","No",5
+2023,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Immigration Hold Flag","Yes",0
+2023,"Northern","Algoma Treatment and Remand Centre","Immigration Hold Flag","No",588
+2023,"Northern","Algoma Treatment and Remand Centre","Immigration Hold Flag","Yes",0
+2023,"Northern","Fort Frances Jail","Immigration Hold Flag","No",25
+2023,"Northern","Fort Frances Jail","Immigration Hold Flag","Yes",0
+2023,"Northern","Kenora Jail","Immigration Hold Flag","No",206
+2023,"Northern","Kenora Jail","Immigration Hold Flag","Yes",0
+2023,"Northern","Monteith Correctional Complex","Immigration Hold Flag","No",618
+2023,"Northern","Monteith Correctional Complex","Immigration Hold Flag","Yes",0
+2023,"Northern","North Bay Jail","Immigration Hold Flag","No",737
+2023,"Northern","North Bay Jail","Immigration Hold Flag","Yes",0
+2023,"Northern","Sudbury Jail","Immigration Hold Flag","No",477
+2023,"Northern","Sudbury Jail","Immigration Hold Flag","Yes",0
+2023,"Northern","Thunder Bay Correctional Centre","Immigration Hold Flag","No",17
+2023,"Northern","Thunder Bay Correctional Centre","Immigration Hold Flag","Yes",0
+2023,"Northern","Thunder Bay Jail","Immigration Hold Flag","No",356
+2023,"Northern","Thunder Bay Jail","Immigration Hold Flag","Yes",0
+2023,"Toronto","Toronto East Detention Centre","Immigration Hold Flag","No",793
+2023,"Toronto","Toronto East Detention Centre","Immigration Hold Flag","Yes",0
+2023,"Toronto","Toronto South Detention Centre","Immigration Hold Flag","No",4110
+2023,"Toronto","Toronto South Detention Centre","Immigration Hold Flag","Yes",45
+2023,"Western","Central North Correctional Centre","Immigration Hold Flag","No",3955
+2023,"Western","Central North Correctional Centre","Immigration Hold Flag","Yes",16
+2023,"Western","Elgin-Middlesex Detention Centre","Immigration Hold Flag","No",5600
+2023,"Western","Elgin-Middlesex Detention Centre","Immigration Hold Flag","Yes",8
+2023,"Western","Sarnia Jail","Immigration Hold Flag","No",196
+2023,"Western","Sarnia Jail","Immigration Hold Flag","Yes",0
+2023,"Western","South West Detention Centre","Immigration Hold Flag","No",3443
+2023,"Western","South West Detention Centre","Immigration Hold Flag","Yes",7
+2023,"Western","Stratford Jail","Immigration Hold Flag","No",13
+2023,"Western","Stratford Jail","Immigration Hold Flag","Yes",0
+2024,"Central","Hamilton Wentworth Detention Centre","Transgender Alert","No",5187
+2024,"Central","Hamilton Wentworth Detention Centre","Transgender Alert","Yes",73
+2024,"Central","Maplehurst Correctional Complex","Transgender Alert","No",6601
+2024,"Central","Maplehurst Correctional Complex","Transgender Alert","Yes",171
+2024,"Central","Niagara Detention Centre","Transgender Alert","No",3249
+2024,"Central","Niagara Detention Centre","Transgender Alert","Yes",14
+2024,"Central","Vanier Centre for Women","Transgender Alert","No",3045
+2024,"Central","Vanier Centre for Women","Transgender Alert","Yes",269
+2024,"Eastern","Brockville Jail","Transgender Alert","No",40
+2024,"Eastern","Brockville Jail","Transgender Alert","Yes",1
+2024,"Eastern","Central East Correctional Centre","Transgender Alert","No",4022
+2024,"Eastern","Central East Correctional Centre","Transgender Alert","Yes",120
+2024,"Eastern","Ottawa-Carleton Detention Centre","Transgender Alert","No",1997
+2024,"Eastern","Ottawa-Carleton Detention Centre","Transgender Alert","Yes",60
+2024,"Eastern","Quinte Detention Centre","Transgender Alert","No",1
+2024,"Eastern","Quinte Detention Centre","Transgender Alert","Yes",0
+2024,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Transgender Alert","No",1
+2024,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Transgender Alert","Yes",0
+2024,"Northern","Algoma Treatment and Remand Centre","Transgender Alert","No",716
+2024,"Northern","Algoma Treatment and Remand Centre","Transgender Alert","Yes",32
+2024,"Northern","Fort Frances Jail","Transgender Alert","No",19
+2024,"Northern","Fort Frances Jail","Transgender Alert","Yes",0
+2024,"Northern","Kenora Jail","Transgender Alert","No",321
+2024,"Northern","Kenora Jail","Transgender Alert","Yes",56
+2024,"Northern","Monteith Correctional Complex","Transgender Alert","No",844
+2024,"Northern","Monteith Correctional Complex","Transgender Alert","Yes",4
+2024,"Northern","North Bay Jail","Transgender Alert","No",313
+2024,"Northern","North Bay Jail","Transgender Alert","Yes",0
+2024,"Northern","Sudbury Jail","Transgender Alert","No",1108
+2024,"Northern","Sudbury Jail","Transgender Alert","Yes",129
+2024,"Northern","Thunder Bay Correctional Centre","Transgender Alert","No",108
+2024,"Northern","Thunder Bay Correctional Centre","Transgender Alert","Yes",5
+2024,"Northern","Thunder Bay Jail","Transgender Alert","No",509
+2024,"Northern","Thunder Bay Jail","Transgender Alert","Yes",1
+2024,"Toronto","Toronto East Detention Centre","Transgender Alert","No",2768
+2024,"Toronto","Toronto East Detention Centre","Transgender Alert","Yes",91
+2024,"Toronto","Toronto South Detention Centre","Transgender Alert","No",7189
+2024,"Toronto","Toronto South Detention Centre","Transgender Alert","Yes",322
+2024,"Western","Central North Correctional Centre","Transgender Alert","No",4169
+2024,"Western","Central North Correctional Centre","Transgender Alert","Yes",124
+2024,"Western","Elgin-Middlesex Detention Centre","Transgender Alert","No",2608
+2024,"Western","Elgin-Middlesex Detention Centre","Transgender Alert","Yes",25
+2024,"Western","Sarnia Jail","Transgender Alert","No",160
+2024,"Western","Sarnia Jail","Transgender Alert","Yes",1
+2024,"Western","South West Detention Centre","Transgender Alert","No",1746
+2024,"Western","South West Detention Centre","Transgender Alert","Yes",12
+2024,"Western","Stratford Jail","Transgender Alert","No",6
+2024,"Western","Stratford Jail","Transgender Alert","Yes",0
+2024,"Central","Hamilton Wentworth Detention Centre","Mental Health Alert","No",1721
+2024,"Central","Hamilton Wentworth Detention Centre","Mental Health Alert","Yes",3539
+2024,"Central","Maplehurst Correctional Complex","Mental Health Alert","No",3699
+2024,"Central","Maplehurst Correctional Complex","Mental Health Alert","Yes",3073
+2024,"Central","Niagara Detention Centre","Mental Health Alert","No",1348
+2024,"Central","Niagara Detention Centre","Mental Health Alert","Yes",1915
+2024,"Central","Vanier Centre for Women","Mental Health Alert","No",817
+2024,"Central","Vanier Centre for Women","Mental Health Alert","Yes",2497
+2024,"Eastern","Brockville Jail","Mental Health Alert","No",23
+2024,"Eastern","Brockville Jail","Mental Health Alert","Yes",18
+2024,"Eastern","Central East Correctional Centre","Mental Health Alert","No",1862
+2024,"Eastern","Central East Correctional Centre","Mental Health Alert","Yes",2280
+2024,"Eastern","Ottawa-Carleton Detention Centre","Mental Health Alert","No",840
+2024,"Eastern","Ottawa-Carleton Detention Centre","Mental Health Alert","Yes",1217
+2024,"Eastern","Quinte Detention Centre","Mental Health Alert","No",1
+2024,"Eastern","Quinte Detention Centre","Mental Health Alert","Yes",0
+2024,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Mental Health Alert","No",1
+2024,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Mental Health Alert","Yes",0
+2024,"Northern","Algoma Treatment and Remand Centre","Mental Health Alert","No",428
+2024,"Northern","Algoma Treatment and Remand Centre","Mental Health Alert","Yes",320
+2024,"Northern","Fort Frances Jail","Mental Health Alert","No",10
+2024,"Northern","Fort Frances Jail","Mental Health Alert","Yes",9
+2024,"Northern","Kenora Jail","Mental Health Alert","No",140
+2024,"Northern","Kenora Jail","Mental Health Alert","Yes",237
+2024,"Northern","Monteith Correctional Complex","Mental Health Alert","No",357
+2024,"Northern","Monteith Correctional Complex","Mental Health Alert","Yes",491
+2024,"Northern","North Bay Jail","Mental Health Alert","No",110
+2024,"Northern","North Bay Jail","Mental Health Alert","Yes",203
+2024,"Northern","Sudbury Jail","Mental Health Alert","No",738
+2024,"Northern","Sudbury Jail","Mental Health Alert","Yes",499
+2024,"Northern","Thunder Bay Correctional Centre","Mental Health Alert","No",59
+2024,"Northern","Thunder Bay Correctional Centre","Mental Health Alert","Yes",54
+2024,"Northern","Thunder Bay Jail","Mental Health Alert","No",352
+2024,"Northern","Thunder Bay Jail","Mental Health Alert","Yes",158
+2024,"Toronto","Toronto East Detention Centre","Mental Health Alert","No",2183
+2024,"Toronto","Toronto East Detention Centre","Mental Health Alert","Yes",676
+2024,"Toronto","Toronto South Detention Centre","Mental Health Alert","No",4474
+2024,"Toronto","Toronto South Detention Centre","Mental Health Alert","Yes",3037
+2024,"Western","Central North Correctional Centre","Mental Health Alert","No",2317
+2024,"Western","Central North Correctional Centre","Mental Health Alert","Yes",1976
+2024,"Western","Elgin-Middlesex Detention Centre","Mental Health Alert","No",1579
+2024,"Western","Elgin-Middlesex Detention Centre","Mental Health Alert","Yes",1054
+2024,"Western","Sarnia Jail","Mental Health Alert","No",71
+2024,"Western","Sarnia Jail","Mental Health Alert","Yes",90
+2024,"Western","South West Detention Centre","Mental Health Alert","No",1100
+2024,"Western","South West Detention Centre","Mental Health Alert","Yes",658
+2024,"Western","Stratford Jail","Mental Health Alert","No",4
+2024,"Western","Stratford Jail","Mental Health Alert","Yes",2
+2024,"Central","Hamilton Wentworth Detention Centre","Serious Mental Illness Alert","No",2997
+2024,"Central","Hamilton Wentworth Detention Centre","Serious Mental Illness Alert","Yes",2263
+2024,"Central","Maplehurst Correctional Complex","Serious Mental Illness Alert","No",4630
+2024,"Central","Maplehurst Correctional Complex","Serious Mental Illness Alert","Yes",2142
+2024,"Central","Niagara Detention Centre","Serious Mental Illness Alert","No",2388
+2024,"Central","Niagara Detention Centre","Serious Mental Illness Alert","Yes",875
+2024,"Central","Vanier Centre for Women","Serious Mental Illness Alert","No",2719
+2024,"Central","Vanier Centre for Women","Serious Mental Illness Alert","Yes",595
+2024,"Eastern","Brockville Jail","Serious Mental Illness Alert","No",38
+2024,"Eastern","Brockville Jail","Serious Mental Illness Alert","Yes",3
+2024,"Eastern","Central East Correctional Centre","Serious Mental Illness Alert","No",3750
+2024,"Eastern","Central East Correctional Centre","Serious Mental Illness Alert","Yes",392
+2024,"Eastern","Ottawa-Carleton Detention Centre","Serious Mental Illness Alert","No",1953
+2024,"Eastern","Ottawa-Carleton Detention Centre","Serious Mental Illness Alert","Yes",104
+2024,"Eastern","Quinte Detention Centre","Serious Mental Illness Alert","No",1
+2024,"Eastern","Quinte Detention Centre","Serious Mental Illness Alert","Yes",0
+2024,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Serious Mental Illness Alert","No",1
+2024,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Serious Mental Illness Alert","Yes",0
+2024,"Northern","Algoma Treatment and Remand Centre","Serious Mental Illness Alert","No",594
+2024,"Northern","Algoma Treatment and Remand Centre","Serious Mental Illness Alert","Yes",154
+2024,"Northern","Fort Frances Jail","Serious Mental Illness Alert","No",11
+2024,"Northern","Fort Frances Jail","Serious Mental Illness Alert","Yes",8
+2024,"Northern","Kenora Jail","Serious Mental Illness Alert","No",311
+2024,"Northern","Kenora Jail","Serious Mental Illness Alert","Yes",66
+2024,"Northern","Monteith Correctional Complex","Serious Mental Illness Alert","No",785
+2024,"Northern","Monteith Correctional Complex","Serious Mental Illness Alert","Yes",63
+2024,"Northern","North Bay Jail","Serious Mental Illness Alert","No",293
+2024,"Northern","North Bay Jail","Serious Mental Illness Alert","Yes",20
+2024,"Northern","Sudbury Jail","Serious Mental Illness Alert","No",1162
+2024,"Northern","Sudbury Jail","Serious Mental Illness Alert","Yes",75
+2024,"Northern","Thunder Bay Correctional Centre","Serious Mental Illness Alert","No",88
+2024,"Northern","Thunder Bay Correctional Centre","Serious Mental Illness Alert","Yes",25
+2024,"Northern","Thunder Bay Jail","Serious Mental Illness Alert","No",469
+2024,"Northern","Thunder Bay Jail","Serious Mental Illness Alert","Yes",41
+2024,"Toronto","Toronto East Detention Centre","Serious Mental Illness Alert","No",2646
+2024,"Toronto","Toronto East Detention Centre","Serious Mental Illness Alert","Yes",213
+2024,"Toronto","Toronto South Detention Centre","Serious Mental Illness Alert","No",6981
+2024,"Toronto","Toronto South Detention Centre","Serious Mental Illness Alert","Yes",530
+2024,"Western","Central North Correctional Centre","Serious Mental Illness Alert","No",3714
+2024,"Western","Central North Correctional Centre","Serious Mental Illness Alert","Yes",579
+2024,"Western","Elgin-Middlesex Detention Centre","Serious Mental Illness Alert","No",2263
+2024,"Western","Elgin-Middlesex Detention Centre","Serious Mental Illness Alert","Yes",370
+2024,"Western","Sarnia Jail","Serious Mental Illness Alert","No",111
+2024,"Western","Sarnia Jail","Serious Mental Illness Alert","Yes",50
+2024,"Western","South West Detention Centre","Serious Mental Illness Alert","No",1485
+2024,"Western","South West Detention Centre","Serious Mental Illness Alert","Yes",273
+2024,"Western","Stratford Jail","Serious Mental Illness Alert","No",6
+2024,"Western","Stratford Jail","Serious Mental Illness Alert","Yes",0
+2024,"Central","Hamilton Wentworth Detention Centre","Suicide Risk Alert","No",3623
+2024,"Central","Hamilton Wentworth Detention Centre","Suicide Risk Alert","Yes",1637
+2024,"Central","Maplehurst Correctional Complex","Suicide Risk Alert","No",5376
+2024,"Central","Maplehurst Correctional Complex","Suicide Risk Alert","Yes",1396
+2024,"Central","Niagara Detention Centre","Suicide Risk Alert","No",2437
+2024,"Central","Niagara Detention Centre","Suicide Risk Alert","Yes",826
+2024,"Central","Vanier Centre for Women","Suicide Risk Alert","No",2706
+2024,"Central","Vanier Centre for Women","Suicide Risk Alert","Yes",608
+2024,"Eastern","Brockville Jail","Suicide Risk Alert","No",31
+2024,"Eastern","Brockville Jail","Suicide Risk Alert","Yes",10
+2024,"Eastern","Central East Correctional Centre","Suicide Risk Alert","No",3059
+2024,"Eastern","Central East Correctional Centre","Suicide Risk Alert","Yes",1083
+2024,"Eastern","Ottawa-Carleton Detention Centre","Suicide Risk Alert","No",1453
+2024,"Eastern","Ottawa-Carleton Detention Centre","Suicide Risk Alert","Yes",604
+2024,"Eastern","Quinte Detention Centre","Suicide Risk Alert","No",0
+2024,"Eastern","Quinte Detention Centre","Suicide Risk Alert","Yes",1
+2024,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Suicide Risk Alert","No",1
+2024,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Suicide Risk Alert","Yes",0
+2024,"Northern","Algoma Treatment and Remand Centre","Suicide Risk Alert","No",465
+2024,"Northern","Algoma Treatment and Remand Centre","Suicide Risk Alert","Yes",283
+2024,"Northern","Fort Frances Jail","Suicide Risk Alert","No",12
+2024,"Northern","Fort Frances Jail","Suicide Risk Alert","Yes",7
+2024,"Northern","Kenora Jail","Suicide Risk Alert","No",171
+2024,"Northern","Kenora Jail","Suicide Risk Alert","Yes",206
+2024,"Northern","Monteith Correctional Complex","Suicide Risk Alert","No",505
+2024,"Northern","Monteith Correctional Complex","Suicide Risk Alert","Yes",343
+2024,"Northern","North Bay Jail","Suicide Risk Alert","No",167
+2024,"Northern","North Bay Jail","Suicide Risk Alert","Yes",146
+2024,"Northern","Sudbury Jail","Suicide Risk Alert","No",706
+2024,"Northern","Sudbury Jail","Suicide Risk Alert","Yes",531
+2024,"Northern","Thunder Bay Correctional Centre","Suicide Risk Alert","No",60
+2024,"Northern","Thunder Bay Correctional Centre","Suicide Risk Alert","Yes",53
+2024,"Northern","Thunder Bay Jail","Suicide Risk Alert","No",300
+2024,"Northern","Thunder Bay Jail","Suicide Risk Alert","Yes",210
+2024,"Toronto","Toronto East Detention Centre","Suicide Risk Alert","No",2723
+2024,"Toronto","Toronto East Detention Centre","Suicide Risk Alert","Yes",136
+2024,"Toronto","Toronto South Detention Centre","Suicide Risk Alert","No",5777
+2024,"Toronto","Toronto South Detention Centre","Suicide Risk Alert","Yes",1734
+2024,"Western","Central North Correctional Centre","Suicide Risk Alert","No",2931
+2024,"Western","Central North Correctional Centre","Suicide Risk Alert","Yes",1362
+2024,"Western","Elgin-Middlesex Detention Centre","Suicide Risk Alert","No",2057
+2024,"Western","Elgin-Middlesex Detention Centre","Suicide Risk Alert","Yes",576
+2024,"Western","Sarnia Jail","Suicide Risk Alert","No",88
+2024,"Western","Sarnia Jail","Suicide Risk Alert","Yes",73
+2024,"Western","South West Detention Centre","Suicide Risk Alert","No",1267
+2024,"Western","South West Detention Centre","Suicide Risk Alert","Yes",491
+2024,"Western","Stratford Jail","Suicide Risk Alert","No",4
+2024,"Western","Stratford Jail","Suicide Risk Alert","Yes",2
+2024,"Central","Hamilton Wentworth Detention Centre","Suicide Watch Alert","No",4507
+2024,"Central","Hamilton Wentworth Detention Centre","Suicide Watch Alert","Yes",753
+2024,"Central","Maplehurst Correctional Complex","Suicide Watch Alert","No",5750
+2024,"Central","Maplehurst Correctional Complex","Suicide Watch Alert","Yes",1022
+2024,"Central","Niagara Detention Centre","Suicide Watch Alert","No",3004
+2024,"Central","Niagara Detention Centre","Suicide Watch Alert","Yes",259
+2024,"Central","Vanier Centre for Women","Suicide Watch Alert","No",3143
+2024,"Central","Vanier Centre for Women","Suicide Watch Alert","Yes",171
+2024,"Eastern","Brockville Jail","Suicide Watch Alert","No",35
+2024,"Eastern","Brockville Jail","Suicide Watch Alert","Yes",6
+2024,"Eastern","Central East Correctional Centre","Suicide Watch Alert","No",3641
+2024,"Eastern","Central East Correctional Centre","Suicide Watch Alert","Yes",501
+2024,"Eastern","Ottawa-Carleton Detention Centre","Suicide Watch Alert","No",1857
+2024,"Eastern","Ottawa-Carleton Detention Centre","Suicide Watch Alert","Yes",200
+2024,"Eastern","Quinte Detention Centre","Suicide Watch Alert","No",0
+2024,"Eastern","Quinte Detention Centre","Suicide Watch Alert","Yes",1
+2024,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Suicide Watch Alert","No",1
+2024,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Suicide Watch Alert","Yes",0
+2024,"Northern","Algoma Treatment and Remand Centre","Suicide Watch Alert","No",636
+2024,"Northern","Algoma Treatment and Remand Centre","Suicide Watch Alert","Yes",112
+2024,"Northern","Fort Frances Jail","Suicide Watch Alert","No",19
+2024,"Northern","Fort Frances Jail","Suicide Watch Alert","Yes",0
+2024,"Northern","Kenora Jail","Suicide Watch Alert","No",286
+2024,"Northern","Kenora Jail","Suicide Watch Alert","Yes",91
+2024,"Northern","Monteith Correctional Complex","Suicide Watch Alert","No",776
+2024,"Northern","Monteith Correctional Complex","Suicide Watch Alert","Yes",72
+2024,"Northern","North Bay Jail","Suicide Watch Alert","No",266
+2024,"Northern","North Bay Jail","Suicide Watch Alert","Yes",47
+2024,"Northern","Sudbury Jail","Suicide Watch Alert","No",1043
+2024,"Northern","Sudbury Jail","Suicide Watch Alert","Yes",194
+2024,"Northern","Thunder Bay Correctional Centre","Suicide Watch Alert","No",95
+2024,"Northern","Thunder Bay Correctional Centre","Suicide Watch Alert","Yes",18
+2024,"Northern","Thunder Bay Jail","Suicide Watch Alert","No",435
+2024,"Northern","Thunder Bay Jail","Suicide Watch Alert","Yes",75
+2024,"Toronto","Toronto East Detention Centre","Suicide Watch Alert","No",2838
+2024,"Toronto","Toronto East Detention Centre","Suicide Watch Alert","Yes",21
+2024,"Toronto","Toronto South Detention Centre","Suicide Watch Alert","No",6590
+2024,"Toronto","Toronto South Detention Centre","Suicide Watch Alert","Yes",921
+2024,"Western","Central North Correctional Centre","Suicide Watch Alert","No",3607
+2024,"Western","Central North Correctional Centre","Suicide Watch Alert","Yes",686
+2024,"Western","Elgin-Middlesex Detention Centre","Suicide Watch Alert","No",2419
+2024,"Western","Elgin-Middlesex Detention Centre","Suicide Watch Alert","Yes",214
+2024,"Western","Sarnia Jail","Suicide Watch Alert","No",129
+2024,"Western","Sarnia Jail","Suicide Watch Alert","Yes",32
+2024,"Western","South West Detention Centre","Suicide Watch Alert","No",1541
+2024,"Western","South West Detention Centre","Suicide Watch Alert","Yes",217
+2024,"Western","Stratford Jail","Suicide Watch Alert","No",5
+2024,"Western","Stratford Jail","Suicide Watch Alert","Yes",1
+2024,"Central","Hamilton Wentworth Detention Centre","Immigration Hold Flag","No",5242
+2024,"Central","Hamilton Wentworth Detention Centre","Immigration Hold Flag","Yes",18
+2024,"Central","Maplehurst Correctional Complex","Immigration Hold Flag","No",6656
+2024,"Central","Maplehurst Correctional Complex","Immigration Hold Flag","Yes",116
+2024,"Central","Niagara Detention Centre","Immigration Hold Flag","No",3257
+2024,"Central","Niagara Detention Centre","Immigration Hold Flag","Yes",6
+2024,"Central","Vanier Centre for Women","Immigration Hold Flag","No",3303
+2024,"Central","Vanier Centre for Women","Immigration Hold Flag","Yes",11
+2024,"Eastern","Brockville Jail","Immigration Hold Flag","No",41
+2024,"Eastern","Brockville Jail","Immigration Hold Flag","Yes",0
+2024,"Eastern","Central East Correctional Centre","Immigration Hold Flag","No",4102
+2024,"Eastern","Central East Correctional Centre","Immigration Hold Flag","Yes",40
+2024,"Eastern","Ottawa-Carleton Detention Centre","Immigration Hold Flag","No",2057
+2024,"Eastern","Ottawa-Carleton Detention Centre","Immigration Hold Flag","Yes",0
+2024,"Eastern","Quinte Detention Centre","Immigration Hold Flag","No",1
+2024,"Eastern","Quinte Detention Centre","Immigration Hold Flag","Yes",0
+2024,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Immigration Hold Flag","No",1
+2024,"Eastern","St. Lawrence Valley Correctional and Treatment Centre","Immigration Hold Flag","Yes",0
+2024,"Northern","Algoma Treatment and Remand Centre","Immigration Hold Flag","No",745
+2024,"Northern","Algoma Treatment and Remand Centre","Immigration Hold Flag","Yes",3
+2024,"Northern","Fort Frances Jail","Immigration Hold Flag","No",19
+2024,"Northern","Fort Frances Jail","Immigration Hold Flag","Yes",0
+2024,"Northern","Kenora Jail","Immigration Hold Flag","No",377
+2024,"Northern","Kenora Jail","Immigration Hold Flag","Yes",0
+2024,"Northern","Monteith Correctional Complex","Immigration Hold Flag","No",848
+2024,"Northern","Monteith Correctional Complex","Immigration Hold Flag","Yes",0
+2024,"Northern","North Bay Jail","Immigration Hold Flag","No",313
+2024,"Northern","North Bay Jail","Immigration Hold Flag","Yes",0
+2024,"Northern","Sudbury Jail","Immigration Hold Flag","No",1237
+2024,"Northern","Sudbury Jail","Immigration Hold Flag","Yes",0
+2024,"Northern","Thunder Bay Correctional Centre","Immigration Hold Flag","No",113
+2024,"Northern","Thunder Bay Correctional Centre","Immigration Hold Flag","Yes",0
+2024,"Northern","Thunder Bay Jail","Immigration Hold Flag","No",510
+2024,"Northern","Thunder Bay Jail","Immigration Hold Flag","Yes",0
+2024,"Toronto","Toronto East Detention Centre","Immigration Hold Flag","No",2859
+2024,"Toronto","Toronto East Detention Centre","Immigration Hold Flag","Yes",0
+2024,"Toronto","Toronto South Detention Centre","Immigration Hold Flag","No",7406
+2024,"Toronto","Toronto South Detention Centre","Immigration Hold Flag","Yes",105
+2024,"Western","Central North Correctional Centre","Immigration Hold Flag","No",4281
+2024,"Western","Central North Correctional Centre","Immigration Hold Flag","Yes",12
+2024,"Western","Elgin-Middlesex Detention Centre","Immigration Hold Flag","No",2632
+2024,"Western","Elgin-Middlesex Detention Centre","Immigration Hold Flag","Yes",1
+2024,"Western","Sarnia Jail","Immigration Hold Flag","No",161
+2024,"Western","Sarnia Jail","Immigration Hold Flag","Yes",0
+2024,"Western","South West Detention Centre","Immigration Hold Flag","No",1758
+2024,"Western","South West Detention Centre","Immigration Hold Flag","Yes",0
+2024,"Western","Stratford Jail","Immigration Hold Flag","No",6
+2024,"Western","Stratford Jail","Immigration Hold Flag","Yes",0
+2025,"Central","Hamilton Wentworth Detention Centre","Transgender Alert","No",3133
+2025,"Central","Hamilton Wentworth Detention Centre","Transgender Alert","Yes",135
+2025,"Central","Maplehurst Correctional Complex","Transgender Alert","No",6223
+2025,"Central","Maplehurst Correctional Complex","Transgender Alert","Yes",303
+2025,"Central","Niagara Detention Centre","Transgender Alert","No",2702
+2025,"Central","Niagara Detention Centre","Transgender Alert","Yes",43
+2025,"Central","Vanier Centre for Women","Transgender Alert","No",2517
+2025,"Central","Vanier Centre for Women","Transgender Alert","Yes",293
+2025,"Eastern","Brockville Jail","Transgender Alert","No",29
+2025,"Eastern","Brockville Jail","Transgender Alert","Yes",0
+2025,"Eastern","Central East Correctional Centre","Transgender Alert","No",5103
+2025,"Eastern","Central East Correctional Centre","Transgender Alert","Yes",76
+2025,"Eastern","Ottawa-Carleton Detention Centre","Transgender Alert","No",2089
+2025,"Eastern","Ottawa-Carleton Detention Centre","Transgender Alert","Yes",108
+2025,"Eastern","Quinte Detention Centre","Transgender Alert","No",298
+2025,"Eastern","Quinte Detention Centre","Transgender Alert","Yes",13
+2025,"Northern","Algoma Treatment and Remand Centre","Transgender Alert","No",1045
+2025,"Northern","Algoma Treatment and Remand Centre","Transgender Alert","Yes",136
+2025,"Northern","Fort Frances Jail","Transgender Alert","No",19
+2025,"Northern","Fort Frances Jail","Transgender Alert","Yes",0
+2025,"Northern","Kenora Jail","Transgender Alert","No",442
+2025,"Northern","Kenora Jail","Transgender Alert","Yes",76
+2025,"Northern","Monteith Correctional Complex","Transgender Alert","No",1386
+2025,"Northern","Monteith Correctional Complex","Transgender Alert","Yes",5
+2025,"Northern","North Bay Jail","Transgender Alert","No",248
+2025,"Northern","North Bay Jail","Transgender Alert","Yes",20
+2025,"Northern","Sudbury Jail","Transgender Alert","No",1587
+2025,"Northern","Sudbury Jail","Transgender Alert","Yes",329
+2025,"Northern","Thunder Bay Correctional Centre","Transgender Alert","No",288
+2025,"Northern","Thunder Bay Correctional Centre","Transgender Alert","Yes",30
+2025,"Northern","Thunder Bay Jail","Transgender Alert","No",688
+2025,"Northern","Thunder Bay Jail","Transgender Alert","Yes",2
+2025,"Toronto","Toronto East Detention Centre","Transgender Alert","No",1605
+2025,"Toronto","Toronto East Detention Centre","Transgender Alert","Yes",4
+2025,"Toronto","Toronto South Detention Centre","Transgender Alert","No",9069
+2025,"Toronto","Toronto South Detention Centre","Transgender Alert","Yes",372
+2025,"Western","Central North Correctional Centre","Transgender Alert","No",3830
+2025,"Western","Central North Correctional Centre","Transgender Alert","Yes",125
+2025,"Western","Elgin-Middlesex Detention Centre","Transgender Alert","No",1762
+2025,"Western","Elgin-Middlesex Detention Centre","Transgender Alert","Yes",21
+2025,"Western","Sarnia Jail","Transgender Alert","No",321
+2025,"Western","Sarnia Jail","Transgender Alert","Yes",3
+2025,"Western","South West Detention Centre","Transgender Alert","No",1819
+2025,"Western","South West Detention Centre","Transgender Alert","Yes",67
+2025,"Western","Stratford Jail","Transgender Alert","No",18
+2025,"Western","Stratford Jail","Transgender Alert","Yes",0
+2025,"Central","Hamilton Wentworth Detention Centre","Mental Health Alert","No",969
+2025,"Central","Hamilton Wentworth Detention Centre","Mental Health Alert","Yes",2299
+2025,"Central","Maplehurst Correctional Complex","Mental Health Alert","No",3696
+2025,"Central","Maplehurst Correctional Complex","Mental Health Alert","Yes",2830
+2025,"Central","Niagara Detention Centre","Mental Health Alert","No",1068
+2025,"Central","Niagara Detention Centre","Mental Health Alert","Yes",1677
+2025,"Central","Vanier Centre for Women","Mental Health Alert","No",726
+2025,"Central","Vanier Centre for Women","Mental Health Alert","Yes",2084
+2025,"Eastern","Brockville Jail","Mental Health Alert","No",12
+2025,"Eastern","Brockville Jail","Mental Health Alert","Yes",17
+2025,"Eastern","Central East Correctional Centre","Mental Health Alert","No",2288
+2025,"Eastern","Central East Correctional Centre","Mental Health Alert","Yes",2891
+2025,"Eastern","Ottawa-Carleton Detention Centre","Mental Health Alert","No",1183
+2025,"Eastern","Ottawa-Carleton Detention Centre","Mental Health Alert","Yes",1014
+2025,"Eastern","Quinte Detention Centre","Mental Health Alert","No",120
+2025,"Eastern","Quinte Detention Centre","Mental Health Alert","Yes",191
+2025,"Northern","Algoma Treatment and Remand Centre","Mental Health Alert","No",484
+2025,"Northern","Algoma Treatment and Remand Centre","Mental Health Alert","Yes",697
+2025,"Northern","Fort Frances Jail","Mental Health Alert","No",3
+2025,"Northern","Fort Frances Jail","Mental Health Alert","Yes",16
+2025,"Northern","Kenora Jail","Mental Health Alert","No",209
+2025,"Northern","Kenora Jail","Mental Health Alert","Yes",309
+2025,"Northern","Monteith Correctional Complex","Mental Health Alert","No",707
+2025,"Northern","Monteith Correctional Complex","Mental Health Alert","Yes",684
+2025,"Northern","North Bay Jail","Mental Health Alert","No",62
+2025,"Northern","North Bay Jail","Mental Health Alert","Yes",206
+2025,"Northern","Sudbury Jail","Mental Health Alert","No",1172
+2025,"Northern","Sudbury Jail","Mental Health Alert","Yes",744
+2025,"Northern","Thunder Bay Correctional Centre","Mental Health Alert","No",167
+2025,"Northern","Thunder Bay Correctional Centre","Mental Health Alert","Yes",151
+2025,"Northern","Thunder Bay Jail","Mental Health Alert","No",397
+2025,"Northern","Thunder Bay Jail","Mental Health Alert","Yes",293
+2025,"Toronto","Toronto East Detention Centre","Mental Health Alert","No",1177
+2025,"Toronto","Toronto East Detention Centre","Mental Health Alert","Yes",432
+2025,"Toronto","Toronto South Detention Centre","Mental Health Alert","No",4124
+2025,"Toronto","Toronto South Detention Centre","Mental Health Alert","Yes",5317
+2025,"Western","Central North Correctional Centre","Mental Health Alert","No",1964
+2025,"Western","Central North Correctional Centre","Mental Health Alert","Yes",1991
+2025,"Western","Elgin-Middlesex Detention Centre","Mental Health Alert","No",885
+2025,"Western","Elgin-Middlesex Detention Centre","Mental Health Alert","Yes",898
+2025,"Western","Sarnia Jail","Mental Health Alert","No",88
+2025,"Western","Sarnia Jail","Mental Health Alert","Yes",236
+2025,"Western","South West Detention Centre","Mental Health Alert","No",1238
+2025,"Western","South West Detention Centre","Mental Health Alert","Yes",648
+2025,"Western","Stratford Jail","Mental Health Alert","No",12
+2025,"Western","Stratford Jail","Mental Health Alert","Yes",6
+2025,"Central","Hamilton Wentworth Detention Centre","Serious Mental Illness Alert","No",1623
+2025,"Central","Hamilton Wentworth Detention Centre","Serious Mental Illness Alert","Yes",1645
+2025,"Central","Maplehurst Correctional Complex","Serious Mental Illness Alert","No",4781
+2025,"Central","Maplehurst Correctional Complex","Serious Mental Illness Alert","Yes",1745
+2025,"Central","Niagara Detention Centre","Serious Mental Illness Alert","No",1707
+2025,"Central","Niagara Detention Centre","Serious Mental Illness Alert","Yes",1038
+2025,"Central","Vanier Centre for Women","Serious Mental Illness Alert","No",2404
+2025,"Central","Vanier Centre for Women","Serious Mental Illness Alert","Yes",406
+2025,"Eastern","Brockville Jail","Serious Mental Illness Alert","No",24
+2025,"Eastern","Brockville Jail","Serious Mental Illness Alert","Yes",5
+2025,"Eastern","Central East Correctional Centre","Serious Mental Illness Alert","No",4005
+2025,"Eastern","Central East Correctional Centre","Serious Mental Illness Alert","Yes",1174
+2025,"Eastern","Ottawa-Carleton Detention Centre","Serious Mental Illness Alert","No",2129
+2025,"Eastern","Ottawa-Carleton Detention Centre","Serious Mental Illness Alert","Yes",68
+2025,"Eastern","Quinte Detention Centre","Serious Mental Illness Alert","No",233
+2025,"Eastern","Quinte Detention Centre","Serious Mental Illness Alert","Yes",78
+2025,"Northern","Algoma Treatment and Remand Centre","Serious Mental Illness Alert","No",658
+2025,"Northern","Algoma Treatment and Remand Centre","Serious Mental Illness Alert","Yes",523
+2025,"Northern","Fort Frances Jail","Serious Mental Illness Alert","No",7
+2025,"Northern","Fort Frances Jail","Serious Mental Illness Alert","Yes",12
+2025,"Northern","Kenora Jail","Serious Mental Illness Alert","No",314
+2025,"Northern","Kenora Jail","Serious Mental Illness Alert","Yes",204
+2025,"Northern","Monteith Correctional Complex","Serious Mental Illness Alert","No",1369
+2025,"Northern","Monteith Correctional Complex","Serious Mental Illness Alert","Yes",22
+2025,"Northern","North Bay Jail","Serious Mental Illness Alert","No",207
+2025,"Northern","North Bay Jail","Serious Mental Illness Alert","Yes",61
+2025,"Northern","Sudbury Jail","Serious Mental Illness Alert","No",1767
+2025,"Northern","Sudbury Jail","Serious Mental Illness Alert","Yes",149
+2025,"Northern","Thunder Bay Correctional Centre","Serious Mental Illness Alert","No",196
+2025,"Northern","Thunder Bay Correctional Centre","Serious Mental Illness Alert","Yes",122
+2025,"Northern","Thunder Bay Jail","Serious Mental Illness Alert","No",563
+2025,"Northern","Thunder Bay Jail","Serious Mental Illness Alert","Yes",127
+2025,"Toronto","Toronto East Detention Centre","Serious Mental Illness Alert","No",1522
+2025,"Toronto","Toronto East Detention Centre","Serious Mental Illness Alert","Yes",87
+2025,"Toronto","Toronto South Detention Centre","Serious Mental Illness Alert","No",8656
+2025,"Toronto","Toronto South Detention Centre","Serious Mental Illness Alert","Yes",785
+2025,"Western","Central North Correctional Centre","Serious Mental Illness Alert","No",3637
+2025,"Western","Central North Correctional Centre","Serious Mental Illness Alert","Yes",318
+2025,"Western","Elgin-Middlesex Detention Centre","Serious Mental Illness Alert","No",1386
+2025,"Western","Elgin-Middlesex Detention Centre","Serious Mental Illness Alert","Yes",397
+2025,"Western","Sarnia Jail","Serious Mental Illness Alert","No",193
+2025,"Western","Sarnia Jail","Serious Mental Illness Alert","Yes",131
+2025,"Western","South West Detention Centre","Serious Mental Illness Alert","No",1636
+2025,"Western","South West Detention Centre","Serious Mental Illness Alert","Yes",250
+2025,"Western","Stratford Jail","Serious Mental Illness Alert","No",16
+2025,"Western","Stratford Jail","Serious Mental Illness Alert","Yes",2
+2025,"Central","Hamilton Wentworth Detention Centre","Suicide Risk Alert","No",1982
+2025,"Central","Hamilton Wentworth Detention Centre","Suicide Risk Alert","Yes",1286
+2025,"Central","Maplehurst Correctional Complex","Suicide Risk Alert","No",4900
+2025,"Central","Maplehurst Correctional Complex","Suicide Risk Alert","Yes",1626
+2025,"Central","Niagara Detention Centre","Suicide Risk Alert","No",1890
+2025,"Central","Niagara Detention Centre","Suicide Risk Alert","Yes",855
+2025,"Central","Vanier Centre for Women","Suicide Risk Alert","No",2258
+2025,"Central","Vanier Centre for Women","Suicide Risk Alert","Yes",552
+2025,"Eastern","Brockville Jail","Suicide Risk Alert","No",19
+2025,"Eastern","Brockville Jail","Suicide Risk Alert","Yes",10
+2025,"Eastern","Central East Correctional Centre","Suicide Risk Alert","No",3653
+2025,"Eastern","Central East Correctional Centre","Suicide Risk Alert","Yes",1526
+2025,"Eastern","Ottawa-Carleton Detention Centre","Suicide Risk Alert","No",1263
+2025,"Eastern","Ottawa-Carleton Detention Centre","Suicide Risk Alert","Yes",934
+2025,"Eastern","Quinte Detention Centre","Suicide Risk Alert","No",188
+2025,"Eastern","Quinte Detention Centre","Suicide Risk Alert","Yes",123
+2025,"Northern","Algoma Treatment and Remand Centre","Suicide Risk Alert","No",725
+2025,"Northern","Algoma Treatment and Remand Centre","Suicide Risk Alert","Yes",456
+2025,"Northern","Fort Frances Jail","Suicide Risk Alert","No",9
+2025,"Northern","Fort Frances Jail","Suicide Risk Alert","Yes",10
+2025,"Northern","Kenora Jail","Suicide Risk Alert","No",215
+2025,"Northern","Kenora Jail","Suicide Risk Alert","Yes",303
+2025,"Northern","Monteith Correctional Complex","Suicide Risk Alert","No",917
+2025,"Northern","Monteith Correctional Complex","Suicide Risk Alert","Yes",474
+2025,"Northern","North Bay Jail","Suicide Risk Alert","No",127
+2025,"Northern","North Bay Jail","Suicide Risk Alert","Yes",141
+2025,"Northern","Sudbury Jail","Suicide Risk Alert","No",1250
+2025,"Northern","Sudbury Jail","Suicide Risk Alert","Yes",666
+2025,"Northern","Thunder Bay Correctional Centre","Suicide Risk Alert","No",161
+2025,"Northern","Thunder Bay Correctional Centre","Suicide Risk Alert","Yes",157
+2025,"Northern","Thunder Bay Jail","Suicide Risk Alert","No",319
+2025,"Northern","Thunder Bay Jail","Suicide Risk Alert","Yes",371
+2025,"Toronto","Toronto East Detention Centre","Suicide Risk Alert","No",1520
+2025,"Toronto","Toronto East Detention Centre","Suicide Risk Alert","Yes",89
+2025,"Toronto","Toronto South Detention Centre","Suicide Risk Alert","No",7282
+2025,"Toronto","Toronto South Detention Centre","Suicide Risk Alert","Yes",2159
+2025,"Western","Central North Correctional Centre","Suicide Risk Alert","No",2516
+2025,"Western","Central North Correctional Centre","Suicide Risk Alert","Yes",1439
+2025,"Western","Elgin-Middlesex Detention Centre","Suicide Risk Alert","No",1278
+2025,"Western","Elgin-Middlesex Detention Centre","Suicide Risk Alert","Yes",505
+2025,"Western","Sarnia Jail","Suicide Risk Alert","No",168
+2025,"Western","Sarnia Jail","Suicide Risk Alert","Yes",156
+2025,"Western","South West Detention Centre","Suicide Risk Alert","No",1366
+2025,"Western","South West Detention Centre","Suicide Risk Alert","Yes",520
+2025,"Western","Stratford Jail","Suicide Risk Alert","No",15
+2025,"Western","Stratford Jail","Suicide Risk Alert","Yes",3
+2025,"Central","Hamilton Wentworth Detention Centre","Suicide Watch Alert","No",2589
+2025,"Central","Hamilton Wentworth Detention Centre","Suicide Watch Alert","Yes",679
+2025,"Central","Maplehurst Correctional Complex","Suicide Watch Alert","No",5420
+2025,"Central","Maplehurst Correctional Complex","Suicide Watch Alert","Yes",1106
+2025,"Central","Niagara Detention Centre","Suicide Watch Alert","No",2358
+2025,"Central","Niagara Detention Centre","Suicide Watch Alert","Yes",387
+2025,"Central","Vanier Centre for Women","Suicide Watch Alert","No",2556
+2025,"Central","Vanier Centre for Women","Suicide Watch Alert","Yes",254
+2025,"Eastern","Brockville Jail","Suicide Watch Alert","No",22
+2025,"Eastern","Brockville Jail","Suicide Watch Alert","Yes",7
+2025,"Eastern","Central East Correctional Centre","Suicide Watch Alert","No",4505
+2025,"Eastern","Central East Correctional Centre","Suicide Watch Alert","Yes",674
+2025,"Eastern","Ottawa-Carleton Detention Centre","Suicide Watch Alert","No",1924
+2025,"Eastern","Ottawa-Carleton Detention Centre","Suicide Watch Alert","Yes",273
+2025,"Eastern","Quinte Detention Centre","Suicide Watch Alert","No",264
+2025,"Eastern","Quinte Detention Centre","Suicide Watch Alert","Yes",47
+2025,"Northern","Algoma Treatment and Remand Centre","Suicide Watch Alert","No",1060
+2025,"Northern","Algoma Treatment and Remand Centre","Suicide Watch Alert","Yes",121
+2025,"Northern","Fort Frances Jail","Suicide Watch Alert","No",16
+2025,"Northern","Fort Frances Jail","Suicide Watch Alert","Yes",3
+2025,"Northern","Kenora Jail","Suicide Watch Alert","No",386
+2025,"Northern","Kenora Jail","Suicide Watch Alert","Yes",132
+2025,"Northern","Monteith Correctional Complex","Suicide Watch Alert","No",1309
+2025,"Northern","Monteith Correctional Complex","Suicide Watch Alert","Yes",82
+2025,"Northern","North Bay Jail","Suicide Watch Alert","No",207
+2025,"Northern","North Bay Jail","Suicide Watch Alert","Yes",61
+2025,"Northern","Sudbury Jail","Suicide Watch Alert","No",1756
+2025,"Northern","Sudbury Jail","Suicide Watch Alert","Yes",160
+2025,"Northern","Thunder Bay Correctional Centre","Suicide Watch Alert","No",275
+2025,"Northern","Thunder Bay Correctional Centre","Suicide Watch Alert","Yes",43
+2025,"Northern","Thunder Bay Jail","Suicide Watch Alert","No",533
+2025,"Northern","Thunder Bay Jail","Suicide Watch Alert","Yes",157
+2025,"Toronto","Toronto East Detention Centre","Suicide Watch Alert","No",1589
+2025,"Toronto","Toronto East Detention Centre","Suicide Watch Alert","Yes",20
+2025,"Toronto","Toronto South Detention Centre","Suicide Watch Alert","No",8317
+2025,"Toronto","Toronto South Detention Centre","Suicide Watch Alert","Yes",1124
+2025,"Western","Central North Correctional Centre","Suicide Watch Alert","No",3103
+2025,"Western","Central North Correctional Centre","Suicide Watch Alert","Yes",852
+2025,"Western","Elgin-Middlesex Detention Centre","Suicide Watch Alert","No",1509
+2025,"Western","Elgin-Middlesex Detention Centre","Suicide Watch Alert","Yes",274
+2025,"Western","Sarnia Jail","Suicide Watch Alert","No",274
+2025,"Western","Sarnia Jail","Suicide Watch Alert","Yes",50
+2025,"Western","South West Detention Centre","Suicide Watch Alert","No",1654
+2025,"Western","South West Detention Centre","Suicide Watch Alert","Yes",232
+2025,"Western","Stratford Jail","Suicide Watch Alert","No",15
+2025,"Western","Stratford Jail","Suicide Watch Alert","Yes",3
+2025,"Central","Hamilton Wentworth Detention Centre","Immigration Hold Flag","No",3246
+2025,"Central","Hamilton Wentworth Detention Centre","Immigration Hold Flag","Yes",22
+2025,"Central","Maplehurst Correctional Complex","Immigration Hold Flag","No",6482
+2025,"Central","Maplehurst Correctional Complex","Immigration Hold Flag","Yes",44
+2025,"Central","Niagara Detention Centre","Immigration Hold Flag","No",2744
+2025,"Central","Niagara Detention Centre","Immigration Hold Flag","Yes",1
+2025,"Central","Vanier Centre for Women","Immigration Hold Flag","No",2799
+2025,"Central","Vanier Centre for Women","Immigration Hold Flag","Yes",11
+2025,"Eastern","Brockville Jail","Immigration Hold Flag","No",29
+2025,"Eastern","Brockville Jail","Immigration Hold Flag","Yes",0
+2025,"Eastern","Central East Correctional Centre","Immigration Hold Flag","No",5176
+2025,"Eastern","Central East Correctional Centre","Immigration Hold Flag","Yes",3
+2025,"Eastern","Ottawa-Carleton Detention Centre","Immigration Hold Flag","No",2197
+2025,"Eastern","Ottawa-Carleton Detention Centre","Immigration Hold Flag","Yes",0
+2025,"Eastern","Quinte Detention Centre","Immigration Hold Flag","No",311
+2025,"Eastern","Quinte Detention Centre","Immigration Hold Flag","Yes",0
+2025,"Northern","Algoma Treatment and Remand Centre","Immigration Hold Flag","No",1181
+2025,"Northern","Algoma Treatment and Remand Centre","Immigration Hold Flag","Yes",0
+2025,"Northern","Fort Frances Jail","Immigration Hold Flag","No",19
+2025,"Northern","Fort Frances Jail","Immigration Hold Flag","Yes",0
+2025,"Northern","Kenora Jail","Immigration Hold Flag","No",518
+2025,"Northern","Kenora Jail","Immigration Hold Flag","Yes",0
+2025,"Northern","Monteith Correctional Complex","Immigration Hold Flag","No",1391
+2025,"Northern","Monteith Correctional Complex","Immigration Hold Flag","Yes",0
+2025,"Northern","North Bay Jail","Immigration Hold Flag","No",268
+2025,"Northern","North Bay Jail","Immigration Hold Flag","Yes",0
+2025,"Northern","Sudbury Jail","Immigration Hold Flag","No",1916
+2025,"Northern","Sudbury Jail","Immigration Hold Flag","Yes",0
+2025,"Northern","Thunder Bay Correctional Centre","Immigration Hold Flag","No",318
+2025,"Northern","Thunder Bay Correctional Centre","Immigration Hold Flag","Yes",0
+2025,"Northern","Thunder Bay Jail","Immigration Hold Flag","No",690
+2025,"Northern","Thunder Bay Jail","Immigration Hold Flag","Yes",0
+2025,"Toronto","Toronto East Detention Centre","Immigration Hold Flag","No",1609
+2025,"Toronto","Toronto East Detention Centre","Immigration Hold Flag","Yes",0
+2025,"Toronto","Toronto South Detention Centre","Immigration Hold Flag","No",9372
+2025,"Toronto","Toronto South Detention Centre","Immigration Hold Flag","Yes",69
+2025,"Western","Central North Correctional Centre","Immigration Hold Flag","No",3951
+2025,"Western","Central North Correctional Centre","Immigration Hold Flag","Yes",4
+2025,"Western","Elgin-Middlesex Detention Centre","Immigration Hold Flag","Yes",0
+2025,"Western","Elgin-Middlesex Detention Centre","Immigration Hold Flag","No",1783
+2025,"Western","Sarnia Jail","Immigration Hold Flag","Yes",0
+2025,"Western","Sarnia Jail","Immigration Hold Flag","No",324
+2025,"Western","South West Detention Centre","Immigration Hold Flag","Yes",2
+2025,"Western","South West Detention Centre","Immigration Hold Flag","No",1884
+2025,"Western","Stratford Jail","Immigration Hold Flag","Yes",0
+2025,"Western","Stratford Jail","Immigration Hold Flag","No",18

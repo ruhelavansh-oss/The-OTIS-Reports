@@ -1,0 +1,30 @@
+---
+title: "C07 Individuals in Segregation and Restrictive Confinement - Alerts and Hold Flags Analysis"
+format: html
+---
+
+# Analysis for C07 Individuals in Segregation and Restrictive Confinement - Alerts and Hold Flags
+
+This document presents the analysis for the `c07_individuals_in_segregation_and_restrictive_confinement_alerts_and_hold_flags.csv` dataset.
+
+```r
+# --- 1. SETUP ---
+# Load necessary libraries
+# install.packages("tidyverse")
+# install.packages("here")
+library(tidyverse)
+library(readr)
+library(here)
+
+# --- 2. DATA LOADING ---
+# Load the dataset from the 'data' directory
+c07df <- read_csv(here("data", "c07_individuals_in_segregation_and_restrictive_confinement_alerts_and_hold_flags.csv"))
+
+# --- 3. EXPLORATION ---
+# Get a first look at the data
+print(head(c07df))
+print(summary(c07df))
+
+# --- 4. ANALYSIS ---
+# Add your analysis code here
+```
